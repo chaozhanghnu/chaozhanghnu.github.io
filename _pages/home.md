@@ -8,13 +8,13 @@ permalink: /
 
 We are a geotechnical research group at the [School of Civil Engineering, Hunan University](http://ce.hnu.edu.cn/index.htm). Our research interests include: 
 
-(1) **Unsaturated and special soil mechanics** (expansive soil, deep soil, frozen soil); 
+(1) **Unsaturated and special soil mechanics** (Expansive soil, Deep soil, Frozen soil); 
 
-(2) **Porous media physics and calculation methods** (pore water phase transition, molecular simulation); 
+(2) **Porous media physics and calculation methods** (Pore water phase transition, Molecular simulation); 
 
-(3) **Intelligent construction technology for underground engineering** (deep learning , AI for Science, digital twin technology); 
+(3) **Intelligent construction technology for underground engineering** (Deep learning , AI for Science, Digital twin technology); 
 
-(4) **Dynamic catastrophe and resilience design of deep underground structures** (refined simulation of catastrophe scenarios, high toughness materials and structures).
+(4) **Dynamic catastrophe and resilience design of deep underground structures** (Refined simulation of catastrophe scenarios, High toughness materials and structures).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -32,22 +32,22 @@ We are a geotechnical research group at the [School of Civil Engineering, Hunan 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab_unsat.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conference_1.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/zmx_graduate.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2021_graduate.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/zhangchao_conference.png" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fangte.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -63,18 +63,17 @@ We are a geotechnical research group at the [School of Civil Engineering, Hunan 
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+To this end, Our research results have been published in comprehensive journals such as **Reviews of Geophysics** and **Geophysical Research Letters**, authoritative geotechnical journals such as **Géotechnique** and **ASCE JGGE**. More than 40 international journal articles have been published, including 10 articles in ASCE JGGE and Géotechnique, and 1 journal article with an impact factor greater than **20**.
 
-We are located at Hunan University. We exchange ideas and work with our colaborators from [colorado school of mines](https://weare.mines.edu/) and [ETH Zürich](https://ethz.ch/en.html).
+We are located at [Hunan University](https://www.hnu.edu.cn/index.htm). We exchange ideas and work with our colaborators from [Colorado school of mines](https://weare.mines.edu/) and [ETH Zürich](https://ethz.ch/en.html).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from NSF University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from [Hunan University](https://www.hnu.edu.cn/index.htm), [NSFC](https://www.nsfc.gov.cn/) and [MoST](https://www.most.gov.cn/index.html).
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+<figure class="third">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/HUN.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSFC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MoST.jpg" style="width: 120px">
 </figure>
