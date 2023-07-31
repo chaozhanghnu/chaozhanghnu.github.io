@@ -37,15 +37,11 @@ We are a geotechnical research group at the [School of Civil Engineering, Hunan 
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conference_1.jpg" alt="Slide 2" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/zmx_graduate.jpg" alt="Slide 3" />
-        </div>
+
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2021_graduate.jpg" alt="Slide 4" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/zhangchao_conference.png" alt="Slide 5" />
-        </div>       
+    
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fangte.jpg" alt="Slide 6" />
         </div>
