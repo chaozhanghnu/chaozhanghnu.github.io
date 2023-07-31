@@ -7,9 +7,13 @@ permalink: /
 ---
 
 We are a geotechnical research group at the [School of Civil Engineering, Hunan University](http://ce.hnu.edu.cn/index.htm). Our research interests include: 
+
 (1) unsaturated and special soil mechanics (expansive soil, deep soil, frozen soil); 
+
 (2) porous media physics and calculation methods (pore water phase transition, molecular simulation); 
+
 (3) intelligent construction technology for underground engineering (deep learning , AI for Science, digital twin technology); 
+
 (4) Dynamic catastrophe and resilience design of deep underground structures (refined simulation of catastrophe scenarios, high toughness materials and structures).
 
 
