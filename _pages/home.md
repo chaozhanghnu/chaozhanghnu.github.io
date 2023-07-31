@@ -73,7 +73,7 @@ We are located at [Hunan University](https://www.hnu.edu.cn/index.htm). We excha
 We are grateful for funding from [Hunan University](https://www.hnu.edu.cn/index.htm), [NSFC](https://www.nsfc.gov.cn/) and [MoST](https://www.most.gov.cn/index.html).
 
 <figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/HUN.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/HNU.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSFC.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MoST.jpg" style="width: 120px">
 </figure>
