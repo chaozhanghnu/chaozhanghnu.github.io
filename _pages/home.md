@@ -6,7 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-We are a geotechnical research group at the [School of Civil Engineering, Hunan University](http://ce.hnu.edu.cn/index.htm). Our research interests include: unsaturated and special soil mechanics (expansive soil, deep soil, frozen soil); porous media physics and calculation methods (pore water phase transition, molecular simulation); (3) intelligent construction technology for underground engineering (deep learning , AI for Science, digital twin technology); (4) Dynamic catastrophe and resilience design of deep underground structures (refined simulation of catastrophe scenarios, high toughness materials and structures).
+We are a geotechnical research group at the [School of Civil Engineering, Hunan University](http://ce.hnu.edu.cn/index.htm). Our research interests include: 
+(1) unsaturated and special soil mechanics (expansive soil, deep soil, frozen soil); 
+(2) porous media physics and calculation methods (pore water phase transition, molecular simulation); 
+(3) intelligent construction technology for underground engineering (deep learning , AI for Science, digital twin technology); 
+(4) Dynamic catastrophe and resilience design of deep underground structures (refined simulation of catastrophe scenarios, high toughness materials and structures).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -57,7 +61,7 @@ We are a geotechnical research group at the [School of Civil Engineering, Hunan 
 
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are located at Hunan University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
