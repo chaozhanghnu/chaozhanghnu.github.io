@@ -41,6 +41,7 @@ We are a geotechnical research group at the [School of Civil Engineering, Hunan 
 
 We are located at [Hunan University](https://www.hnu.edu.cn/index.htm). We exchange ideas and work with our colaborators from [Colorado school of mines](https://weare.mines.edu/) and [ETH Zürich](https://ethz.ch/en.html).
 
+
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
