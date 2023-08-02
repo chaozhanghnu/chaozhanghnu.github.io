@@ -73,7 +73,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Phd students
+## Phd student
 {% assign number_printed = 0 %}
 {% for member in site.data.Phd_student %}
 
@@ -135,7 +135,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Master students
+## Master student
 {% assign number_printed = 0 %}
 {% for member in site.data.Master %}
 
