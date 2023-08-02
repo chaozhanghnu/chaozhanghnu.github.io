@@ -130,4 +130,9 @@ permalink: /team/
 
 {% endfor %}
 
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 
