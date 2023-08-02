@@ -73,7 +73,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Phd student
+## Phd students
 {% assign number_printed = 0 %}
 {% for member in site.data.Phd_student %}
 
@@ -135,7 +135,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Master student
+## Master students
 {% assign number_printed = 0 %}
 {% for member in site.data.Master %}
 
@@ -148,7 +148,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info1 }} <br> {{ member.info2 }}</i>
+  <i>{{ member.info1 }} <br> {{ member.email }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
