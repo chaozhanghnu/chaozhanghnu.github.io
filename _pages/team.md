@@ -68,6 +68,11 @@ permalink: /team/
 
 {% endfor %}
 
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 ## Phd student
 {% assign number_printed = 0 %}
 {% for member in site.data.Phd_student %}
