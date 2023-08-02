@@ -39,11 +39,6 @@ We are a geotechnical research group at the [School of Civil Engineering, Hunan 
   </a>
 </div>
 
-
-
-
-To this end, Our research results have been published in comprehensive journals such as **Reviews of Geophysics** and **Geophysical Research Letters**, authoritative geotechnical journals such as **Géotechnique** and **ASCE JGGE**. More than 40 international journal articles have been published, including 10 articles in ASCE JGGE and Géotechnique, and 1 journal article with an impact factor greater than **20**.
-
 We are located at [Hunan University](https://www.hnu.edu.cn/index.htm). We exchange ideas and work with our colaborators from [Colorado school of mines](https://weare.mines.edu/) and [ETH Zürich](https://ethz.ch/en.html).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
