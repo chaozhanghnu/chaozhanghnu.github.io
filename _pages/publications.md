@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
+# Journal papers
 
 †Supervised student, #Corresponding author
 
@@ -62,6 +62,4 @@ permalink: /publications/
 50.	Pusheng Shen, Chao Zhang#, Deng, P, & Jinyao, Y. E.. (2015). [Shear-gravity ratio of high-rise and super high-rise buildings in China]( http://www.cqvip.com/qk/90571x/201517/666052445.html ). Building Structure, 45(17), 1-4.
 51.	Chao Zhang#., Liu, Q.*, & Deng, P. (2015). [Antiplane scattering of SH waves by a trapezoidal valley with a circular-arc alluvium in an elastic half space.](https://www.worldscientific.com/doi/abs/10.1142/S1793431115500086) Journal of Earthquake and Tsunami, 9(03), 1550008.
 
-Book chapter
-[1]	Lu, N.,Chao Zhang., & Hillel, D. (2023). Water properties. In Reference Module in Earth Systems and Environmental Sciences. Elsevier.
 
