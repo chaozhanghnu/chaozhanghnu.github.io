@@ -11,11 +11,13 @@ permalink: /publications/
 
 †Supervised student, #Corresponding author
 
-Lu, N., Gou, L†., Zhang, C*., Calderon, A. R. A., & Wayllace, A. (2023) [Closure to “Uniqueness of Suction Stress Value at Liquid Limit of Soil”](https://ascelibrary.org/doi/10.1061/JGGEFK.GTENG-11798) Journal of Geotechnical and Geoenvironmental Engineering, 149(11), 07023017. 
+# Published Journal Papers
 
-Zhiwen Xu†, Suhua Zhou, Chao Zhang*, Minghui Yang, Mingyi Jiang, (2023) [A Bayesian network model for suitability evaluation of underground space development in urban areas: The case of Changsha, China](https://www.sciencedirect.com/science/article/abs/pii/S095965262302293X  ) Journal of Cleaner Production, Volume 418, 2023,138135.
+1.	Lu, N., Gou, L†., Zhang, C*., Calderon, A. R. A., & Wayllace, A. (2023) [Closure to “Uniqueness of Suction Stress Value at Liquid Limit of Soil”](https://ascelibrary.org/doi/10.1061/JGGEFK.GTENG-11798) Journal of Geotechnical and Geoenvironmental Engineering, 149(11), 07023017. 
 
-Gou, L.†, Chao Zhang.*, Lu, N., & Hu, S.† (2023). [A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity.](https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-11388) Journal of Geotechnical and Geoenvironmental Engineering, 149(8), 04023056.
+2.	Zhiwen Xu†, Suhua Zhou, Chao Zhang*, Minghui Yang, Mingyi Jiang, (2023) [A Bayesian network model for suitability evaluation of underground space development in urban areas: The case of Changsha, China](https://www.sciencedirect.com/science/article/abs/pii/S095965262302293X  ) Journal of Cleaner Production, Volume 418, 2023,138135.
+
+3.	Gou, L.†, Chao Zhang.*, Lu, N., & Hu, S.† (2023). [A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity.](https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-11388) Journal of Geotechnical and Geoenvironmental Engineering, 149(8), 04023056.
 
 4.	Ningning Zhao†, Shaojie Hu†, Chao Zhang*, Fuxiang Li, Renpeng Chen,(2023). [Physical origins of freezing and melting temperature depressions of water in millimeter-sized pores ](https://www.sciencedirect.com/science/article/abs/pii/S0927775723009354 ) Colloids and Surfaces A: Physicochemical and Engineering Aspects, Volume 674, 2023, 131851.
 
