@@ -1,6 +1,93 @@
-- name: Yuhao Ren
-  photo: rock.jpg
+- name: Ziheng Geng
+  photo: GZH.png
+  info1: Research topic - Poromechanics
+  email: Email - gengziheng@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: <a href="https://lingyungou11.github.io/"> Lingyun Gou </a>
+  photo: GLY.jpeg
   info1: Research topic - AI for EPBS tunneling
-  email: renyuhao@hnu.edu.cn
+  email: Email - lygou@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: Lijun Li
+  photo: LLJ.jpeg
+  info1: Research topic - Phase transition in porous media
+  email: Email - lilijun@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: <a href="https://renyuhao825.github.io/"> Yuhao Ren</a>
+  photo: RYH.jpg
+  info1: Research topic - AI for EPBS tunneling
+  email: Email - renyuhao@hnu.edu.cn
   number_educ: 1
   education1: B.S. Chongqing Jiaotong University
+
+- name: Jiaxing Zhou
+  photo: ZJX.jpeg
+  info1: Research topic - Sustainable and Resilient Underground Structures
+  email: Email - zhou_jx@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: Xin Lin
+  photo: LX.jpeg
+  info1: Research topic - Phase transition in porous media
+  email: Email - zhou_jx@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: Xin Lin
+  photo: LX.jpeg
+  info1: Research topic - Phase transition in porous media
+  email: Email - xin_lin@hum.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: Yibo Shao
+  photo: SYB.jpeg
+  info1: Research topic - Phase transition in porous media
+  email: Email - shaoyibo@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. China University of Petroleum(East China)
+
+- name: Xiaolei Yi
+  photo: YXL.jpeg
+  info1: Research topic - TBD
+  email: Email - yixiaolei@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Northwest A&F University
+
+- name: Yang Li
+  photo: LY.jpeg
+  info1: Research topic - TBD
+  email: Email - liyang19@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: Yi Dai
+  photo: DY.jpeg
+  info1: Research topic - TBD
+  email: Email - daiyi@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. China University of Geosciences Beijing
+
+- name: Guodong Wu
+  photo: WGD.jpeg
+  info1: Research topic - TBD
+  email: Email - guodongwu@whut.edu.cn
+  number_educ: 1
+  education1: B.S. Wuhan University of Technology
+
+- name: Yaojun Qian
+  photo: QYJ.jpeg
+  info1: Research topic - TBD
+  email: Email - guodongwu@whut.edu.cn
+  number_educ: 1
+  education1: B.S. Xi 'an University of Technology
+
+
+
