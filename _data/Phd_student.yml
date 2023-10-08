@@ -41,13 +41,13 @@
   number_educ: 1 
   education1: B.S. Guangxi University
 
-- name: Zhenhai Liu
+- name: Zhenhai LiuHunan
   photo: LZH.jpeg
   info1: Research topic - Deep soil mechanics
   info2: 
   email: liuzh@hnu.edu.cn
   number_educ: 1 
-  education1: B.S. Guangxi University
+  education1: B.S. Hunan University
 
 - name: Yuhan Yang
   photo: YYH.jpeg
@@ -55,14 +55,14 @@
   info2: 
   email: liuzh@hnu.edu.cn
   number_educ: 1 
-  education1: B.S. Guangxi University
+  education1: B.S. Hunan University
 
 - name: Jihao Yuan
   photo: YJH.jpeg
   info1: Research topic - AI for EPBS tunneling
   info2: 
-  email: liuzh@hnu.edu.cn
+  email: 13597885026@hnu.edu.cn
   number_educ: 1 
-  education1: B.S. Guangxi University
+  education1: B.S. Hunan University
 
 
