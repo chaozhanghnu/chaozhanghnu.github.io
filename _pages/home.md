@@ -5,7 +5,6 @@ excerpt: "Chao Zhang's Lab at Hunan University."
 sitemap: false
 permalink: /
 ---
-
 We are a geotechnical research group at the [School of Civil Engineering, Hunan University](http://ce.hnu.edu.cn/index.htm). 
 
 
