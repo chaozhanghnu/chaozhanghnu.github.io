@@ -2,11 +2,17 @@
 layout: default
 ---
 
-  <div id="homeid" class="col-sm-8">
-        <h1>Welcome to the Chao Zhang's Lab</h1>
+	<div class="col-sm-12">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/cover_photo.jpg" alt="cover" style="width:100%;">
+				<div class="centered" style="width:70%;"> 
+					<h2 style="color:white; opacity: 1.0; font-family: Comic Sans MS;">UNSAT LAB @ HNU</h2>
+				</div>
+	</div>
 
-	{{ content }}
+
+	<div  class="col-sm-9" align="justify">
+				{{ content }}
   </div>
-  <div id="newsid" class="col-sm-4" >
+	<div id="newsid" class="col-sm-3" align="justify" >
 	{% include news.html %}
   </div>
