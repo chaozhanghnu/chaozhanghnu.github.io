@@ -60,6 +60,7 @@ permalink: /team/
   </ul>
 </div>
 
+
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -73,7 +74,11 @@ permalink: /team/
 </div>
 {% endif %}
 
+<br>
+
 ## Phd student
+
+
 {% assign number_printed = 0 %}
 {% for member in site.data.Phd_student %}
 
