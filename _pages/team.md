@@ -15,7 +15,7 @@ permalink: /team/
 {% assign number_printed = 0 %}
 {% for member in site.data.PI %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -68,7 +68,7 @@ permalink: /team/
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 1 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
@@ -139,7 +139,7 @@ permalink: /team/
 {% assign number_printed = 0 %}
 {% for member in site.data.Master %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
