@@ -21,8 +21,8 @@ We are  looking for new PhD students, Postdocs, and Master students to join the 
 <div class="col-sm-11 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info1 }}</i>
-  <i>{{ member.email }}</i>
+  <i>{{ member.info1 }}</i><br>
+  <i>{{ member.email }}</i><br>
 
   <ul style="overflow: hidden">
 
