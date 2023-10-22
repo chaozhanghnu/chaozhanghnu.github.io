@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 <h3> Current Openings </h3>
-<h4> PhD or Postdoc positions are available. Application accepts until the position is filled. Please contact for details via chao_zhang@hnu.edu.cn.</h4>
+<h4> PhD or Postdoc positions are available. Please contact for details via chao_zhang@hnu.edu.cn.</h4>
 <hr />
 
 {% assign number_printed = 0 %}
