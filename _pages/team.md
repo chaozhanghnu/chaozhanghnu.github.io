@@ -5,10 +5,8 @@ excerpt: "Chao Zhang's Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
-
-<font size=5> Current Openings </font><br>
-<font size=4> PhD or Postdoc positions are available. Application accepts until the position is filled. Please contact for details via chao_zhang@hnu.edu.cn.</font>
-
+<h3> Current Openings </h3>
+<h4> PhD or Postdoc positions are available. Application accepts until the position is filled. Please contact for details via chao_zhang@hnu.edu.cn.</h4>
 <hr />
 
 {% assign number_printed = 0 %}
@@ -21,27 +19,27 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info1 }}</i><br>
-  <i>{{ member.email }}</i><br>
-  <i>{{ member.info2 }}</i><br>
+  <p>{{ member.info1 }}</p>
+  <p>{{ member.email }}</p>
+  <p>{{ member.info2 }}</p>
 
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <p> {{ member.education1 }} </p>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  <p> {{ member.education1 }} </p>
+  <p> {{ member.education2 }} </p>
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  <p> {{ member.education1 }} </p>
+  <p> {{ member.education2 }} </p>
+  <p> {{ member.education3 }} </p>
   {% endif %}
 
   {% if member.number_educ == 4 %}

@@ -13,7 +13,7 @@ permalink: /PI/
 <hr />
 
 <h4> Public Records </h4>
-<p><a href="https://grzy.hnu.edu.cn/site/index/zhangchao">Department Webpage|</a><a href="https://scholar.google.com/citations?user=stT8_9MAAAAJ&hl=zh-CN">Google Scholar|</a><a href="https://www.researchgate.net/profile/Chao-Zhang-43">Research Gate|</a></p>
+<p><a href="https://grzy.hnu.edu.cn/site/index/zhangchao">Department Webpage</a> |<a href="https://scholar.google.com/citations?user=stT8_9MAAAAJ&hl=zh-CN">Google Scholar</a> |<a href="https://www.researchgate.net/profile/Chao-Zhang-43">Research Gate</a> |</p>
 <hr />
 
 
