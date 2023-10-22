@@ -6,31 +6,29 @@ sitemap: false
 permalink: /publications/
 ---
 
+<font size=5> 2023 </font>
 
-# Journal papers
+1. Lu, N., Gou, L., **Zhang, C.**, Calderon, A. R. A., & Wayllace, A. (2023) [Closure to “Uniqueness of Suction Stress Value at Liquid Limit of Soil”](https://ascelibrary.org/doi/10.1061/JGGEFK.GTENG-11798) Journal of Geotechnical and Geoenvironmental Engineering, 149(11), 07023017. 
 
-†Supervised student, #Corresponding author
+2. Gou, L., **Chao Zhang.**, Lu, N., & Hu, S. (2023). [A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity.](https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-11388) Journal of Geotechnical and Geoenvironmental Engineering, 149(8), 04023056.
 
-# Published Journal Papers
+3. Ningning Zhao, Shaojie Hu, **Chao Zhang**, Fuxiang Li, Renpeng Chen,(2023). [Physical origins of freezing and melting temperature depressions of water in millimeter-sized pores ](https://www.sciencedirect.com/science/article/abs/pii/S0927775723009354 ) Colloids and Surfaces A: Physicochemical and Engineering Aspects, Volume 674, 2023, 131851.
 
-1.	Lu, N., Gou, L†., Zhang, C*., Calderon, A. R. A., & Wayllace, A. (2023) [Closure to “Uniqueness of Suction Stress Value at Liquid Limit of Soil”](https://ascelibrary.org/doi/10.1061/JGGEFK.GTENG-11798) Journal of Geotechnical and Geoenvironmental Engineering, 149(11), 07023017. 
+4.	Chen, R., Lang, Z., **Chao Zhang.**, Zhao, N.†, & Deng, P. (2023). [A paradigm for seismic resilience assessment of subway system.](https://www.sciencedirect.com/science/article/abs/pii/S0886779823000810) Tunnelling and Underground Space Technology, 135, 105061.
 
-2.	Zhiwen Xu†, Suhua Zhou, Chao Zhang*, Minghui Yang, Mingyi Jiang, (2023) [A Bayesian network model for suitability evaluation of underground space development in urban areas: The case of Changsha, China](https://www.sciencedirect.com/science/article/abs/pii/S095965262302293X  ) Journal of Cleaner Production, Volume 418, 2023,138135.
+5.	Yuhao Ren, **Chao Zhang.**, Minxiang Zhu, Renpeng Chen & Jianbo Wang† (2023). [Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study.](https://link.springer.com/article/10.1007/s11440-023-01859-8  ) Acta Geotechnica volume 18, pages4941–4956 (2023)
 
-3.	Gou, L.†, Chao Zhang.*, Lu, N., & Hu, S.† (2023). [A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity.](https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-11388) Journal of Geotechnical and Geoenvironmental Engineering, 149(8), 04023056.
+6.	Gou, L., **Chao Zhang.**, Hu, S., Chen, R., & Dong, Y. (2023). [Semi-analytical solutions for soil consolidation induced by drying.](https://link.springer.com/article/10.1007/s11440-022-01623-4) Acta Geotechnica, 18(2), 739-755.
 
-4.	Ningning Zhao†, Shaojie Hu†, Chao Zhang*, Fuxiang Li, Renpeng Chen,(2023). [Physical origins of freezing and melting temperature depressions of water in millimeter-sized pores ](https://www.sciencedirect.com/science/article/abs/pii/S0927775723009354 ) Colloids and Surfaces A: Physicochemical and Engineering Aspects, Volume 674, 2023, 131851.
+7.	Hu, S., **Chao Zhang.** (2023). [A sorption isotherm model for soil incorporating external and internal surface adsorption, and capillarity.](https://cdnsciencepub.com/doi/abs/10.1139/cgj-2022-0386) Canadian Geotechnical Journal.
 
-5.	Haohao Zhang, Jun Wu, Chao Zhang#, and Yi Dong* (2023). [Water Adsorption on Kaolinite Basal and Edge Surfaces ](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.2c03282 ) Langmuir 2023 39 (22), 7539-7547.
+8.	Hu, S., **Chao Zhang.**, & Lu, N. (2023). [Quantifying Coupling Effects Between Soil Matric Potential and Osmotic Potential.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022WR033779) Water Resources Research, 59(2), e2022WR033779.
 
-6.	Chen, R., Lang, Z.†*, Chao Zhang.*, Zhao, N.†, & Deng, P. (2023). [A paradigm for seismic resilience assessment of subway system.](https://www.sciencedirect.com/science/article/abs/pii/S0886779823000810) Tunnelling and Underground Space Technology, 135, 105061.
+*****
 
-7.	Yuhao Ren†, Chao Zhang.*, Minxiang Zhu†, Renpeng Chen & Jianbo Wang† (2023). [Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study.](https://link.springer.com/article/10.1007/s11440-023-01859-8  ) Acta Geotechnica volume 18, pages4941–4956 (2023)
+<font size=5> 2023 </font>
 
-8.	Gou, L.†,Chao Zhang.*, Hu, S.†, Chen, R., & Dong, Y. (2023). [Semi-analytical solutions for soil consolidation induced by drying.](https://link.springer.com/article/10.1007/s11440-022-01623-4) Acta Geotechnica, 18(2), 739-755.
-9.	Hu, S.†, &Chao Zhang.* (2023). [A sorption isotherm model for soil incorporating external and internal surface adsorption, and capillarity.](https://cdnsciencepub.com/doi/abs/10.1139/cgj-2022-0386) Canadian Geotechnical Journal.
-10.	Hu, S.†, Chao Zhang.*, & Lu, N. (2023). [Quantifying Coupling Effects Between Soil Matric Potential and Osmotic Potential.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022WR033779) Water Resources Research, 59(2), e2022WR033779.
-11.	Chao Zhang.#, Hu, S.†, Qiu, Z.†, & Lu, N.* (2022). [A poroelasticity theory for soil incorporating adsorption and capillarity.](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00097) Géotechnique, 1-18.
+9.	Chao Zhang.#, Hu, S.†, Qiu, Z.†, & Lu, N.* (2022). [A poroelasticity theory for soil incorporating adsorption and capillarity.](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00097) Géotechnique, 1-18.
 12.	Chao Zhang.#, Gou, L.†, Hu, S.†*, & Lu, N. (2022). [A thermodynamic formulation of water potential in soil.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022WR032369) Water Resources Research, 58(9), e2022WR032369.
 13.	Luo, S., Lu, N.*, Chao Zhang #., & Likos, W. (2022). [Soil water potential: A historical perspective and recent breakthroughs.](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20203) Vadose Zone Journal, 21(4), e20203.
 14.	Wang, J.†, Qiu, Z.†, Chao Zhang *, & Chen, R. (2022). [Assessing temperature dependence of soil water adsorption strength by molecular simulation.](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgele.21.00126) Géotechnique Letters, 12(2), 125-130.
