@@ -5,12 +5,12 @@ excerpt: "Chao Zhang's Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
-# TEAM
+# Team
 
 We are  looking for new PhD students, Postdocs, and Master students to join the team
 
 {% assign number_printed = 0 %}
-{% for member in site.data.Phd_student %}
+{% for member in site.data.UNSAT_Student %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
