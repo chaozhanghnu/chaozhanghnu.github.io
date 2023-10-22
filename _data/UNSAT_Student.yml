@@ -1,7 +1,7 @@
 - name: Jianbo Wang
   photo: WJB.jpeg
   info1: Research topic - Unsaturated soil mechanics
-  info2: 
+  info2: WeChat - Leonenor
   email: Email - wangjianbo93@hnu.edu.cn
   number_educ: 2
   education1: B.S. Hunan University
@@ -10,7 +10,7 @@
 - name: Zhengan Liu
   photo: LZA.jpeg
   info1: Research topic - Underground structural testing techniques
-  info2: 
+  info2: WeChat - l819139426
   email: Email - zaliu@hnu.edu.cn
   number_educ: 2 
   education1: B.S. Central South University
@@ -19,7 +19,7 @@
 - name: Ningning Zhao
   photo: ZNN.jpeg
   info1: Research topic - Phase transition in porous media
-  info2: 
+  info2: WeChat - zngovernment
   email: Email - zhaoningning@hnu.edu.cn
   number_educ: 2 
   education1: B.S. Central South University
@@ -28,23 +28,23 @@
 - name: <a href="https://sjhu7.github.io/"> Shaojie Hu </a>
   photo: HSJ.jpeg
   info1: Research topic - Unsaturated soils
-  info2: 
+  info2: WeChat - sjhuhnu
   email: Email - sjhu@hnu.edu.cn
   number_educ: 1 
   education1: B.S. Hunan University
 
 - name: Yangkai Gong
-  photo: rock.jpg
-  info1: Research topic -  AI for shield tunneling
-  info2: 
+  photo: GYK.jpg
+  info1: Research topic - AI for shield tunneling
+  info2: WeChat - gongyk_
   email: Email - gongyk@hnu.edu.cn
   number_educ: 1 
   education1: B.S. Guangxi University
 
 - name: Zhenhai Liu
-  photo: LZH.jpeg
+  photo: LZH.jpg
   info1: Research topic - Deep soil mechanics
-  info2: 
+  info2: WeChat - lzh980204
   email: Email - liuzh@hnu.edu.cn
   number_educ: 1 
   education1: B.S. Hunan University
@@ -52,17 +52,117 @@
 - name: Yuhan Yang
   photo: YYH.jpeg
   info1: Research topic - Desiccation cracking of granular materials
-  info2: 
+  info2: WeChat - yyh_ce
   email: Email - yhyang@hnu.edu.cn
   number_educ: 1 
   education1: B.S. Hunan University
 
+
+- name: Ziheng Geng
+  photo: GZH.png
+  info1: Research topic - AI for EPBS tunneling
+  info2: WeChat - simplify1113
+  email: Email - gengziheng@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: <a href="https://lingyungou11.github.io/"> Lingyun Gou </a>
+  photo: GLY.jpeg
+  info1: Research topic - Poromechanics
+  info2: WeChat - Lingyun_Gou
+  email: Email - lygou@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: Lijun Li
+  photo: LLJ.jpeg
+  info1: Research topic - Phase transition in porous media
+  info2: WeChat - _13980857404
+  email: Email - lilijun@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: <a href="https://renyuhao825.github.io/"> Yuhao Ren</a>
+  photo: RYH.jpeg
+  info1: Research topic - AI for EPBS tunneling
+  info2: WeChat - sharp825
+  email: Email - renyuhao@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Chongqing Jiaotong University
+
+- name: Jiaxing Zhou
+  photo: ZJX.jpeg
+  info1: Research topic - Sustainable and Resilient Underground Structures
+  info2: WeChat - ZJX20000207
+  email: Email - zhou_jx@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: Xin Lin
+  photo: LX.jpeg
+  info1: Research topic - Phase transition in porous media
+  info2: WeChat - LX824KBLove
+  email: Email - zhou_jx@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: Yibo Shao
+  photo: SYB.jpeg
+  info1: Research topic - TBD
+  info2: WeChat - WAITE-Miss_Yeung
+  email: Email - shaoyibo@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. China University of Petroleum(East China)
+
+- name: Xiaolei Yi
+  photo: YXL.jpeg
+  info1: Research topic - TBD
+  info2: WeChat - yxl18892119530
+  email: Email - yixiaolei@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Northwest A&F University
+
 - name: Jihao Yuan
   photo: YJH.jpg
   info1: Research topic - AI for EPBS tunneling
-  info2: 
+  info2: WeChat - wxid_te95l9fnn3fn22
   email: Email - 13597885026@hnu.edu.cn
   number_educ: 1 
   education1: B.S. Hunan University
+
+
+- name: Yang Li
+  photo: LY.jpeg
+  info1: Research topic - TBD
+  info2: WeChat - liyang19_S230168
+  email: Email - liyang19@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Hunan University
+
+- name: Yi Dai
+  photo: DY.jpg
+  info1: Research topic - AI for EPBS tunneling
+  info2: WeChat - DavidDY22
+  email: Email - daiyi@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. China University of Geosciences Beijing
+
+- name: Guodong Wu
+  photo: WGD.jpeg
+  info1: Research topic - AI for EPBS tunneling
+  info2: WeChat - Wgd80401002
+  email: Email - guodongwu@whut.edu.cn
+  number_educ: 1
+  education1: B.S. Wuhan University of Technology
+
+- name: Yaojun Qian
+  photo: QYJ.jpg
+  info2: WeChat - wynxn_
+  info1: Research topic - TBD
+  email: Email - qianyaojun@hnu.edu.cn
+  number_educ: 1
+  education1: B.S. Xi 'an University of Technology
+
+
 
 

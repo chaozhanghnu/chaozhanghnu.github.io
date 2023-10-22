@@ -23,6 +23,7 @@ We are  looking for new PhD students, Postdocs, and Master students to join the 
   <h4>{{ member.name }}</h4>
   <i>{{ member.info1 }}</i><br>
   <i>{{ member.email }}</i><br>
+  <i>{{ member.info2 }}</i><br>
 
   <ul style="overflow: hidden">
 
