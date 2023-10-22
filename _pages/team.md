@@ -7,9 +7,7 @@ permalink: /team/
 ---
 
 <font size=5> Current Openings </font><br>
-
 <font size=4> PhD or Postdoc positions are available. Application accepts until the position is filled. Please contact for details via chao_zhang@hnu.edu.cn.</font>
-
 
 <hr />
 
@@ -22,8 +20,8 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-11 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info1 }}</i><br>
   <i>{{ member.email }}</i><br>
