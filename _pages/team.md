@@ -25,7 +25,6 @@ permalink: /team/
   <p>{{ member.email }}</p>
   <p>{{ member.info2 }}</p>
 
-  <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
   <p> {{ member.education1 }} </p>
