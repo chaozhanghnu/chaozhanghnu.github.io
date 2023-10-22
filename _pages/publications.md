@@ -5,30 +5,34 @@ excerpt: "Chao Zhang's lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
+**Disclaimer**: Electronic copies of the preprints and articles are provided for convenience only. Before downloading, please ensure you have the right permission to download them from your institution.  If you use/incorporate/reproduce/borrow/develop any derivation, data, figure, idea, or information from this archive into your work, we would greatly appreciate your decency by giving the appropriate credit. We appreciate any comment, suggestion, or critique. Please contact chao_zhang@hnu.edu.cn.
+​
+Thank you for your interest and time. 
+
+******
 
 <font size=5> 2023 </font>
 
-1. Lu, N., Gou, L., **Zhang, C.**, Calderon, A. R. A., & Wayllace, A. (2023) [Closure to “Uniqueness of Suction Stress Value at Liquid Limit of Soil”](https://ascelibrary.org/doi/10.1061/JGGEFK.GTENG-11798) Journal of Geotechnical and Geoenvironmental Engineering, 149(11), 07023017. 
 
-2. Gou, L., **Chao Zhang.**, Lu, N., & Hu, S. (2023). [A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity.](https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-11388) Journal of Geotechnical and Geoenvironmental Engineering, 149(8), 04023056.
+1. Gou, Lingyun, **Chao Zhang**, Ning Lu, and Shaojie Hu. ["A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity."](https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-11388)  Journal of Geotechnical and Geoenvironmental Engineering 149, no. 8 (2023): 04023056.
 
-3. Ningning Zhao, Shaojie Hu, **Chao Zhang**, Fuxiang Li, Renpeng Chen,(2023). [Physical origins of freezing and melting temperature depressions of water in millimeter-sized pores ](https://www.sciencedirect.com/science/article/abs/pii/S0927775723009354 ) Colloids and Surfaces A: Physicochemical and Engineering Aspects, Volume 674, 2023, 131851.
+2. Zhao, Ningning, Shaojie Hu, **Chao Zhang**, Fuxiang Li, and Renpeng Chen. ["Physical Origins of Freezing and Melting Temperature Depressions of Water in Millimeter-Sized Pores."](https://www.sciencedirect.com/science/article/abs/pii/S0927775723009354) Colloids and Surfaces A: Physicochemical and Engineering Aspects (2023): 131851.
 
-4.	Chen, R., Lang, Z., **Chao Zhang.**, Zhao, N.†, & Deng, P. (2023). [A paradigm for seismic resilience assessment of subway system.](https://www.sciencedirect.com/science/article/abs/pii/S0886779823000810) Tunnelling and Underground Space Technology, 135, 105061.
+3. Chen, Renpeng, Zhixiong Lang, **Chao Zhang**, Ningning Zhao, and Peng Deng. ["A paradigm for seismic resilience assessment of subway system."](https://www.sciencedirect.com/science/article/abs/pii/S0886779823000810) Tunnelling and Underground Space Technology 135 (2023): 105061.
 
-5.	Yuhao Ren, **Chao Zhang.**, Minxiang Zhu, Renpeng Chen & Jianbo Wang† (2023). [Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study.](https://link.springer.com/article/10.1007/s11440-023-01859-8  ) Acta Geotechnica volume 18, pages4941–4956 (2023)
+4. Ren, Yuhao, **Chao Zhang**, Minxiang Zhu, Renpeng Chen, and Jianbo Wang. ["Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study."](https://link.springer.com/article/10.1007/s11440-023-01859-8) Acta Geotechnica (2023): 1-16.
 
-6.	Gou, L., **Chao Zhang.**, Hu, S., Chen, R., & Dong, Y. (2023). [Semi-analytical solutions for soil consolidation induced by drying.](https://link.springer.com/article/10.1007/s11440-022-01623-4) Acta Geotechnica, 18(2), 739-755.
+5. Gou, Lingyun, **Chao Zhang**, Shaojie Hu, Renpeng Chen, and Yi Dong. ["Semi-analytical solutions for soil consolidation induced by drying."](https://link.springer.com/article/10.1007/s11440-022-01623-4) Acta Geotechnica 18, no. 2 (2023): 739-755.
 
-7.	Hu, S., **Chao Zhang.** (2023). [A sorption isotherm model for soil incorporating external and internal surface adsorption, and capillarity.](https://cdnsciencepub.com/doi/abs/10.1139/cgj-2022-0386) Canadian Geotechnical Journal.
+6. Hu, Shaojie, and **Chao Zhang**. ["A sorption isotherm model for soil incorporating external and internal surface adsorption, and capillarity."](https://cdnsciencepub.com/doi/abs/10.1139/cgj-2022-0386) Canadian Geotechnical Journal (2023).
 
-8.	Hu, S., **Chao Zhang.**, & Lu, N. (2023). [Quantifying Coupling Effects Between Soil Matric Potential and Osmotic Potential.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022WR033779) Water Resources Research, 59(2), e2022WR033779.
+7. Hu, Shaojie, **Chao Zhang**, and Ning Lu. ["Quantifying Coupling Effects Between Soil Matric Potential and Osmotic Potential."](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022WR033779) Water Resources Research 59, no. 2 (2023): e2022WR033779.
 
 *****
 
-<font size=5> 2023 </font>
+<font size=5> 2022 </font>
 
-9.	Chao Zhang.#, Hu, S.†, Qiu, Z.†, & Lu, N.* (2022). [A poroelasticity theory for soil incorporating adsorption and capillarity.](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00097) Géotechnique, 1-18.
+1.	**Zhang, C.**, Hu, S.†, Qiu, Z.†, & Lu, N.* (2022). [A poroelasticity theory for soil incorporating adsorption and capillarity.](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00097) Géotechnique, 1-18.
 12.	Chao Zhang.#, Gou, L.†, Hu, S.†*, & Lu, N. (2022). [A thermodynamic formulation of water potential in soil.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022WR032369) Water Resources Research, 58(9), e2022WR032369.
 13.	Luo, S., Lu, N.*, Chao Zhang #., & Likos, W. (2022). [Soil water potential: A historical perspective and recent breakthroughs.](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20203) Vadose Zone Journal, 21(4), e20203.
 14.	Wang, J.†, Qiu, Z.†, Chao Zhang *, & Chen, R. (2022). [Assessing temperature dependence of soil water adsorption strength by molecular simulation.](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgele.21.00126) Géotechnique Letters, 12(2), 125-130.
