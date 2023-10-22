@@ -6,7 +6,10 @@ sitemap: false
 permalink: /team/
 ---
 
-<font size=5> We are  looking for new PhD students, Postdocs, and Master students to join the team </font>
+<font size=5> Current Openings </font>
+
+<font size=3.5> PhD or Postdoc positions are available. Application accepts until the position is filled. Please contact for details via **chao_zhang@hnu.edu.cn**.</font>
+
 
 <hr />
 
