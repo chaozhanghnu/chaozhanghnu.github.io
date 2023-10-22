@@ -8,7 +8,8 @@ permalink: /PI/
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Chaozhang.jpg" class="img-responsive" width="25%" style="float: right" />
 
 <h4> Chao Zhang 张超 </h4>
-<i>Professor of Civil Engineering| Vice Dean for Research </i><br>
+<i> Professor of Civil Engineering </i><br>
+<i> Vice Dean for Research </i><br>
 <hr />
 
 <h4> Curriculum Vitae and Public Records </h4>
@@ -33,6 +34,7 @@ permalink: /PI/
 <hr />
 
 <h4> Biography </h4>
+Chao Zhang is a professor of civil engineering at Hunan University. He obtained his B.S. from Hunan University
 <hr />
 
 <h4> Selected Recognitions </h4>
