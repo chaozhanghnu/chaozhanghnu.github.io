@@ -5,9 +5,10 @@ excerpt: "Chao Zhang's Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
-# Team
 
 <font size=5> We are  looking for new PhD students, Postdocs, and Master students to join the team </font>
+
+<hr />
 
 {% assign number_printed = 0 %}
 {% for member in site.data.UNSAT_Student %}

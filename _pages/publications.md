@@ -5,8 +5,10 @@ excerpt: "Chao Zhang's lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
-**Disclaimer**: Electronic copies of the preprints and articles are provided for convenience only. Before downloading, please ensure you have the right permission to download them from your institution.  If you use/incorporate/reproduce/borrow/develop any derivation, data, figure, idea, or information from this archive into your work, we would greatly appreciate your decency by giving the appropriate credit. We appreciate any comment, suggestion, or critique. Please contact chao_zhang@hnu.edu.cn.
+
+**Disclaimer**: Electronic copies of the preprints and articles are provided for convenience only. If you use/incorporate/reproduce/borrow/develop any derivation, data, figure, idea, or information from this archive into your work, we would greatly appreciate your decency by giving the appropriate credit. We appreciate any comment, suggestion, or critique. Please contact **chao_zhang@hnu.edu.cn**.   
 ​
+
 Thank you for your interest and time. 
 
 ******
