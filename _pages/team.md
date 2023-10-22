@@ -19,7 +19,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="23%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <p>{{ member.info1 }}</p>
   <p>{{ member.email }}</p>
@@ -56,7 +56,6 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
