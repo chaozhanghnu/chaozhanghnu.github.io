@@ -5,11 +5,11 @@ excerpt: "Chao Zhang's Lab - Professor Chao Zhang"
 sitemap: false
 permalink: /PI/
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Chaozhang.jpg" class="img-responsive" width="25%" style="float: right" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Chaozhang.jpg" class="img-responsive" width="20%" style="float: right" />
 
 <h4> Chao Zhang 张超 </h4>
-<i> Professor of Civil Engineering </i><br>
-<i> Vice Dean for Research </i><br>
+<p> Professor of Civil Engineering </p><br>
+<p> Vice Dean for Research </p><br>
 <hr />
 
 <h4> Curriculum Vitae and Public Records </h4>
@@ -34,13 +34,24 @@ permalink: /PI/
 <hr />
 
 <h4> Biography </h4>
-Chao Zhang is a professor of civil engineering at Hunan University. He obtained his B.S. from Hunan University
+Chao Zhang is a professor of civil engineering at Hunan University. He obtained his B.S. from Hunan University...
 <hr />
 
 <h4> Selected Recognitions </h4>
+<i>Norman Medal, ASCE, 2021.</i><br>
+<i>Ministry of Education First Prize in Science and Technology Progress Award, 2021.</i><br>
+<i>The Outstanding New Teacher Award of Hunan University, 2021.</i><br>
+<i>Editor’s Choice paper, ASCE Journal of Engineering Mechanics, 2020</i><br>
+<i>Editor’s Choice paper, ASCE Journal of Geotechnical and Geoenvironmental Engineering, 2020</i><br>
+<i>Wilbur Haas Graduate Research Excellence Award, Michigan Tech, 2017.</i><br>
+<i>Dean’s Award for Outstanding Scholarship, Michigan Tech, 2017.</i><br>
+<i>The Hugo Shong Scholarship, 2012.</i><br>
 <hr />
 
 <h4> ​Press Release </h4>
+<i><a href="https://ce.hnu.edu.cn/info/1100/8531.htm"> ​Press Release </a></i>
+<i><a href="https://ce.hnu.edu.cn/info/1100/8531.htm"> ​Press Release </a></i>
+
 <hr />
 
 
