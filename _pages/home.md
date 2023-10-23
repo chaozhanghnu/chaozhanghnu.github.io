@@ -5,8 +5,7 @@ excerpt: "UNSAT at Hunan University."
 sitemap: false
 permalink: /
 ---
-<font size=4> This group is directed by Prof. Chao Zhang in the Department of Civl engineering at Hunan University, we are a part of Advanced Technology Research Center for Underground Space Development. </font>
-<br>
+<p><font size=4> This group is directed by Prof. Chao Zhang in the Department of Civl engineering at Hunan University, we are a part of Advanced Technology Research Center for Underground Space Development. </font></p>
 <font size=4>Our current research at Hunan University encompasses the following interconnected areas:</font>
 <ul >
     <li><font size=4>Stress State and Constitutive Relation for Unsaturated Soil</font></li>
