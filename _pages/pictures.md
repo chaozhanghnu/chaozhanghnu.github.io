@@ -1,7 +1,7 @@
 ---
-title: "Chao Zhang's lab - Pictures"
+title: "UNSAT - Pictures"
 layout: piclay
-excerpt: "Chao Zhang's lab -- Pictures"
+excerpt: "UNSAT at Hunan University."
 permalink: /pictures/
 ---
 

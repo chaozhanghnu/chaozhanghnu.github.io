@@ -1,7 +1,7 @@
 ---
-title: "Chao Zhang's Lab - Team"
+title: "UNSAT - Team"
 layout: gridlay
-excerpt: "Chao Zhang's Lab: Team members"
+excerpt: "UNSAT at Hunan University."
 sitemap: false
 permalink: /team/
 ---

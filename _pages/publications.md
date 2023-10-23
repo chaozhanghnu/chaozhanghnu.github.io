@@ -1,7 +1,7 @@
 ---
-title: "Chao Zhang's lab - Publications"
+title: "UNSAT - Publications"
 layout: gridlay
-excerpt: "Chao Zhang's lab -- Publications."
+excerpt: "UNSAT at Hunan University."
 sitemap: false
 permalink: /publications/
 ---
