@@ -16,7 +16,7 @@ permalink: /publications/
 
 2. <u>Zhao, Ningning</u>, <u>Shaojie Hu</u>, **Chao Zhang**, Fuxiang Li, and Renpeng Chen. ["Physical Origins of Freezing and Melting Temperature Depressions of Water in Millimeter-Sized Pores."](https://www.sciencedirect.com/science/article/abs/pii/S0927775723009354) Colloids and Surfaces A: Physicochemical and Engineering Aspects (2023): 131851.
 
-3. Chen, Renpeng, <u>Zhixiong Lang</u>, **Chao Zhang**, *Ningning Zhao*, and Peng Deng. ["A paradigm for seismic resilience assessment of subway system."](https://www.sciencedirect.com/science/article/abs/pii/S0886779823000810) Tunnelling and Underground Space Technology 135 (2023): 105061.
+3. Chen, Renpeng, <u>Zhixiong Lang</u>, **Chao Zhang**, <u>Ningning Zhao</u>, and Peng Deng. ["A paradigm for seismic resilience assessment of subway system."](https://www.sciencedirect.com/science/article/abs/pii/S0886779823000810) Tunnelling and Underground Space Technology 135 (2023): 105061.
 
 4. <u>Ren, Yuhao</u>, **Chao Zhang**, <u>Minxiang Zhu</u>, Renpeng Chen, and <u>Jianbo Wang</u>. ["Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study."](https://link.springer.com/article/10.1007/s11440-023-01859-8) Acta Geotechnica (2023): 1-16.
 
