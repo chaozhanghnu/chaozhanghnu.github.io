@@ -9,10 +9,10 @@ permalink: /
 This group is directed by Prof. Chao Zhang in the Department of Civl engineering at Hunan University, we are a part of [Advanced Technology Research Center for Underground Space Development](https://geochen.cn/). 
 
 Our current research at Hunan University encompasses the following interconnected areas:
-    - Stress State and Constitutive Relation for Unsaturated Soil
-    - Phase Equilibirum and Transition in Porous Media
-    - Soil - Shield Machine Interaction and Its Intelligent Control
-    - Advanced Testing and Resilience for Underground Structures
+- Stress State and Constitutive Relation for Unsaturated Soil
+- Phase Equilibirum and Transition in Porous Media
+- Soil - Shield Machine Interaction and Its Intelligent Control
+- Advanced Testing and Resilience for Underground Structures
 <hr />
 
 # Recent News
