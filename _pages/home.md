@@ -19,7 +19,7 @@ Our current research at Hunan University encompasses the following interconnecte
 
 **Paper(06/2023)**: Congratulations to Ningning and Shaojie for accepting a paper titled "Physical Origins of Freezing and Melting Temperature Depressions of Water in Millimeter-Sized Pores." by *Colloids and Surfaces A: Physicochemical and Engineering Aspects*.
 
-**Conference(03/2023)**:Prof. Chaozhang, Zhengan, Zhixiong, Yangkai, Ziheng, Jiaxing and Yuhao attend attended the National Highway Tunnel Academic Annual Conference.
+**Conference(03/2023)**:Prof. Zhang, Zhengan, Zhixiong, Yangkai, Ziheng, Jiaxing and Yuhao attended the *National Highway Tunnel Academic Annual Conference*.
 
 **Paper(03/2023)**: Congratulations to Lingyun and Shaojie for accepting a paper titled "A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity." by *JGGE*.
 
