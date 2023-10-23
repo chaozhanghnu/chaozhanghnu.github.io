@@ -16,15 +16,14 @@ permalink: /
 <hr />
 
 # Recent News
+<p><font size=4>Paper(06/2023): Congratulations to Ningning and Shaojie for accepting a paper titled "Physical Origins of Freezing and Melting Temperature Depressions of Water in Millimeter-Sized Pores." by Colloids and Surfaces A: Physicochemical and Engineering Aspects.</font></p>
 
-**Paper(06/2023)**: Congratulations to Ningning and Shaojie for accepting a paper titled "Physical Origins of Freezing and Melting Temperature Depressions of Water in Millimeter-Sized Pores." by *Colloids and Surfaces A: Physicochemical and Engineering Aspects*.
+<p><font size=4>Conference(03/2023):Prof. Zhang, Zhengan, Zhixiong, Yangkai, Ziheng, Jiaxing and Yuhao attended the National Highway Tunnel Academic Annual Conference.</font></p>
 
-**Conference(03/2023)**:Prof. Zhang, Zhengan, Zhixiong, Yangkai, Ziheng, Jiaxing and Yuhao attended the *National Highway Tunnel Academic Annual Conference*.
+<p><font size=4>Paper(03/2023): Congratulations to Lingyun and Shaojie for accepting a paper titled "A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity." by JGGE.</font></p>
 
-**Paper(03/2023)**: Congratulations to Lingyun and Shaojie for accepting a paper titled "A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity." by *JGGE*.
+<p><font size=4>Paper(02/2023): Congratulations to Yuhao and Minxiang for accepting a paper titled "Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study." by Acta Geotechnica.</font></p>
 
-**Paper(02/2023)**: Congratulations to Yuhao and Minxiang for accepting a paper titled "Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study." by *Acta Geotechnica*.
-
-**Paper(02/2023)**: Congratulations to Zhixiong and Ningning for accepting a paper titled "A paradigm for seismic resilience assessment of subway system." by *TUST*.
+<p><font size=4>Paper(02/2023): Congratulations to Zhixiong and Ningning for accepting a paper titled "A paradigm for seismic resilience assessment of subway system." by TUST.</font></p>
 
 
