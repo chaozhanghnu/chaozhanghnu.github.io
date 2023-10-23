@@ -5,11 +5,11 @@ excerpt: "UNSAT at Hunan University."
 sitemap: false
 permalink: /team/
 ---
-<h3> Current Openings </h3>
-<h4> PhD or Postdoc positions are available. Please contact for details via chao_zhang@hnu.edu.cn.</h4>
+<p><font size=5><b>Current Openings</b></font></p>
+<p><font size=4>PhD or Postdoc positions are available. Please contact for details via chao_zhang@hnu.edu.cn.</font></p>
 <hr />
 
-<h3> Stress State and Constitutive Relation for Unsaturated Soil </h3>
+<p><font size=5><b>Stress State and Constitutive Relation for Unsaturated Soil</b></font></p>
 {% assign number_printed = 0 %}
 {% for member in site.data.team1 %}
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -72,7 +72,7 @@ permalink: /team/
 {% endif %}
 <hr />
 
-<h3> Phase Equilibirum and Transition in Porous Media </h3>
+<p><font size=5><b>Phase Equilibirum and Transition in Porous Media</b></font></p>
 {% assign number_printed = 0 %}
 {% for member in site.data.team2 %}
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -135,7 +135,7 @@ permalink: /team/
 {% endif %}
 <hr />
 
-<h3> Soil - Shield Machine Interaction and Its Intelligent Control </h3>
+<p><font size=5><b>Soil - Shield Machine Interaction and Its Intelligent Control</b></font></p>
 {% assign number_printed = 0 %}
 {% for member in site.data.team3 %}
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -198,7 +198,7 @@ permalink: /team/
 {% endif %}
 <hr />
 
-<h3> Advanced Testing and Resilience for Underground Structures </h3>
+<p><font size=5><b>Advanced Testing and Resilience for Underground Structures</b></font></p>
 {% assign number_printed = 0 %}
 {% for member in site.data.team4 %}
 {% assign even_odd = number_printed | modulo: 2 %}
