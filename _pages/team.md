@@ -9,16 +9,16 @@ permalink: /team/
 <h4> PhD or Postdoc positions are available. Please contact for details via chao_zhang@hnu.edu.cn.</h4>
 <hr />
 
+<h3> Stress State and Constitutive Relation for Unsaturated Soil </h3>
 {% assign number_printed = 0 %}
-{% for member in site.data.UNSAT_Student %}
-
+{% for member in site.data.team1 %}
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm clearfix">
+<div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <p>{{ member.info1 }}</p>
@@ -70,3 +70,4 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+<hr />
