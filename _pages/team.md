@@ -9,9 +9,9 @@ permalink: /team/
 <p><font size=4>PhD or Postdoc positions are available. Please contact for details via chao_zhang@hnu.edu.cn.</font></p>
 <hr />
 
-<p><font size=5><b>Stress State and Constitutive Relation for Unsaturated Soil</b></font></p>
+<p><font size=5><b>Phase Equilibirum and Transition in Porous Media</b></font></p>
 {% assign number_printed = 0 %}
-{% for member in site.data.team1 %}
+{% for member in site.data.team2 %}
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
@@ -72,9 +72,9 @@ permalink: /team/
 {% endif %}
 <hr />
 
-<p><font size=5><b>Phase Equilibirum and Transition in Porous Media</b></font></p>
+<p><font size=5><b>Stress State and Constitutive Relation for Unsaturated Soil</b></font></p>
 {% assign number_printed = 0 %}
-{% for member in site.data.team2 %}
+{% for member in site.data.team1 %}
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
