@@ -18,11 +18,9 @@ permalink: /
 <hr />
 
 <h4>Recent News</h4>
-<ul >
-    <li><font size=4> Congratulations to Ningning and Shaojie for accepting a paper titled "Physical Origins of Freezing and Melting Temperature Depressions of Water in Millimeter-Sized Pores." by Colloids and Surfaces A: Physicochemical and Engineering Aspects.-06/2023</font></li>
-    <li><font size=4> Prof. Zhang, Zhengan, Zhixiong, Yangkai, Ziheng, Jiaxing and Yuhao attended the National Highway Tunnel Academic Annual Conference. -03/2023</font></li>
-    <li><font size=4> Congratulations to Lingyun and Shaojie for accepting a paper titled "A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity." by JGGE. -03/2023</font></li>
-    <li><font size=4> Congratulations to Yuhao and Minxiang for accepting a paper titled "Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study." by Acta Geotechnica. -02/2023</font></li>
-    <li><font size=4> Congratulations to Zhixiong and Ningning for accepting a paper titled "A paradigm for seismic resilience assessment of subway system." by TUST. -02/2023</font></li>
-</ul>
+<p><font size=4> Congratulations to Ningning and Shaojie for accepting a paper titled "<a herf=https://www.sciencedirect.com/science/article/pii/S0927775723009354#:~:text=It%20is%20demonstrated%20that%20freezing,for%20freezing%20instead%20of%20capillarity.>Physical Origins of Freezing and Melting Temperature Depressions of Water in Millimeter-Sized Pores.</a>" by Colloids and Surfaces A: Physicochemical and Engineering Aspects.-06/2023</font></p>
+<p><font size=4> Prof. Zhang, Zhengan, Zhixiong, Yangkai, Ziheng, Jiaxing and Yuhao attended the <a herf=https://jres2023.xhby.net/fz/hydt/202303/t20230306_7853945.shtml>National Highway Tunnel Academic Annual Conference. -03/2023</font></p>
+<p><font size=4> Congratulations to Lingyun and Shaojie for accepting a paper titled "<a herf=https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-11388>A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity.</a>" by JGGE. -03/2023</font></p>
+<p><font size=4> Congratulations to Yuhao and Minxiang for accepting a paper titled "<a herf=https://link.springer.com/article/10.1007/s11440-023-01859-8>Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study.</a>" by Acta Geotechnica. -02/2023</font></p>
+<p><font size=4> Congratulations to Zhixiong and Ningning for accepting a paper titled "<a herf=https://www.sciencedirect.com/science/article/pii/S0886779823000810#:~:text=The%20proposed%20paradigm%20is%20implemented,state%20to%20the%20reverse%20one.>A paradigm for seismic resilience assessment of subway system.</a>" by TUST. -02/2023</font></p>
 
