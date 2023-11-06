@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 <h4>Research Theme</h4>
-<p><font size=4>"UNSAT" stands for the two key aspects of our research endeavor: one for physics and mechanics of UNSATurated porous media; another for UNderground Space Advanced Technologies." stands for the two key aspects of our research endeavor: one for physics and mechanics of UNSATurated porous media; another for UNderground Space Advanced Technologies.</font></p>
+<p><font size=4>"UNSAT" stands for the two key aspects of our research endeavor: one for physics and mechanics of UNSATurated porous media; another for UNderground Space Advanced Technologies." </font></p>
 <p><font size=4> This group is directed by Prof. Chao Zhang in the Department of Civl engineering at Hunan University, we are a part of Advanced Technology Research Center for Underground Space Development. </font></p>
 <font size=4>Our current research at Hunan University encompasses the following interconnected areas:</font>
 <ul >
