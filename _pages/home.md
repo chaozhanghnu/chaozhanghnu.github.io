@@ -18,10 +18,10 @@ permalink: /
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/cover_photo.jpg" alt="Slide 1" />
         </div>
-        <div class="item active">
+        <div class="item ">
             <img src="{{ site.url }}{{ site.baseurl }}/images/direction1.png" alt="Slide 2" />
         </div>
-        <div class="item active">
+        <div class="item ">
             <img src="{{ site.url }}{{ site.baseurl }}/images/direction1.png" alt="Slide 3" />
         </div>
     </div>
