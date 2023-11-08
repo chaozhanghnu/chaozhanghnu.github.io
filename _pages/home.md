@@ -11,17 +11,22 @@ permalink: /
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
+<<<<<<< HEAD
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+=======
+        <li data-target="#carousel" data-slide-to="1" ></li>
+>>>>>>> parent of 24f42b1 (Update home.md)
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+<<<<<<< HEAD
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
         </div>
         <div class="item">
@@ -39,6 +44,13 @@ permalink: /
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
         </div>
+=======
+            <img src="{{ site.url }}{{ site.baseurl }}/images/cover_photo.jpg" alt="Slide 0" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/direction1.png" alt="Slide 1" />
+        </div>
+>>>>>>> parent of 24f42b1 (Update home.md)
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
