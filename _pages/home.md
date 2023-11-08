@@ -20,12 +20,16 @@ permalink: /
         <li data-target="#carousel" data-slide-to="6"></li>
 =======
         <li data-target="#carousel" data-slide-to="1" ></li>
+<<<<<<< HEAD
+>>>>>>> parent of 24f42b1 (Update home.md)
+=======
 >>>>>>> parent of 24f42b1 (Update home.md)
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+<<<<<<< HEAD
 <<<<<<< HEAD
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
         </div>
@@ -44,6 +48,13 @@ permalink: /
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
         </div>
+=======
+            <img src="{{ site.url }}{{ site.baseurl }}/images/cover_photo.jpg" alt="Slide 0" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/direction1.png" alt="Slide 1" />
+        </div>
+>>>>>>> parent of 24f42b1 (Update home.md)
 =======
             <img src="{{ site.url }}{{ site.baseurl }}/images/cover_photo.jpg" alt="Slide 0" />
         </div>
