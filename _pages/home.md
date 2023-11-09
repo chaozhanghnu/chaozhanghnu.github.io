@@ -5,27 +5,82 @@ excerpt: "UNSAT at Hunan University."
 sitemap: false
 permalink: /
 ---
-
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="10" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-    </ol>
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/cover_photo.jpg" alt="Slide 1" />
-        </div>
-        <div class="item ">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/direction1.png" alt="Slide 2" />
-        </div>
-        <div class="item ">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/direction1.png" alt="Slide 3" />
-        </div>
+ <head>
+  <meta charset="UTF-8">
+  <title>点击幻灯片</title>
+  <style>
+  body{
+   margin: 0;
+   padding: 0; 
+   text-align: center;
+  }
+  /*ppt显示部分*/
+   #top{
+    margin-top: 10px;
+    height: 500px;
+    font-size:0px ;
+    /*border: 1px solid green;*/
+    overflow: hidden;
+   }
+   #top img{
+    display: inline-block;
+    margin: 0 ;
+    padding: 0;
+    height: 500px;
+    width: 750px;
+   }
+   /*ppt点击部分*/
+   #bottom{
+    margin-bottom: 10px;
+    height: auto;
+    width: auto;
+    /*border: 1px solid blue;*/
+   }
+   #bottom div{
+    display: inline-block;
+   }
+   #bottom img{
+    margin-top: 10px;
+    height: 100px;
+    width: 140px;
+    /*border: 1px solid red;*/
+   }
+  </style>
+ </head>
+ <body>
+  <div id="ad">
+   <div id="top" class="content">
+    <div id="img1" >
+     <img src="{{ site.url }}{{ site.baseurl }}/images/direction1.png" />
     </div>
-</div>
+    <div id="img2">
+     <img src="{{ site.url }}{{ site.baseurl }}/images/direction1.png" />
+    </div>
+    <div id="img3">
+     <img src="{{ site.url }}{{ site.baseurl }}/images/direction1.png" />
+    </div>
+   </div>
+   <div id="bottom">
+    <div id="1">
+     <a href="#img1" >
+     <img src="{{ site.url }}{{ site.baseurl }}/images/direction1.png" />
+     </a>
+    </div>
+    <div id="2">
+     <a href="#img2" >
+     <img src="{{ site.url }}{{ site.baseurl }}/images/direction1.png" />
+     </a>
+    </div>
+    <div id="3">
+     <a href="#img3" >
+     <img src="{{ site.url }}{{ site.baseurl }}/images/direction1.png" />
+     </a>
+    </div>
+   </div> 
+  </div>
+  
+ </body>
+
 
 
 
