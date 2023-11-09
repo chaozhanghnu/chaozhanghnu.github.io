@@ -10,18 +10,14 @@ permalink: /research/
 <hr />
 
 <h4>Phase Equilibirum and Transition in Porous Media</h4>
-<div style="text-align: center; width: 500px; border: green solid 1px;">
-<img alt="" src="https://chaozhanghnu.github.io/images/research/d1.JPG" style="margin: 0 auto;" >
-</div>
+<img alt="" src="https://chaozhanghnu.github.io/images/research/d1.JPG" >
 <hr />
 
 <h4>Stress State and Constitutive Relation for Unsaturated Soil</h4>
 <hr />
 
 <h4>Soil - Shield Machine Interaction and Its Intelligent Control</h4>
-<div style="text-align: center; width: 500px; border: green solid 1px;">
-<img alt="" src="https://chaozhanghnu.github.io/images/research/d3.JPG" style="margin: 0 auto;" >
-</div>
+<img alt="" src="https://chaozhanghnu.github.io/images/research/d3.JPG" >
 <hr />
 
 <h4>Advanced Testing and Resilience for Underground Structures</h4>
