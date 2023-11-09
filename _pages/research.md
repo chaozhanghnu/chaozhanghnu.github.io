@@ -20,7 +20,7 @@ permalink: /research/
 
 <h4>Soil - Shield Machine Interaction and Its Intelligent Control</h4>
 <div style="text-align: center; width: 500px; border: green solid 1px;">
-<img alt="" src="https://chaozhanghnu.github.io/images/research/d2.JPG" style="margin: 0 auto;" >
+<img alt="" src="https://chaozhanghnu.github.io/images/research/d3.JPG" style="margin: 0 auto;" >
 </div>
 
 <hr />
