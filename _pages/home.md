@@ -5,7 +5,6 @@ excerpt: "UNSAT at Hunan University."
 sitemap: false
 permalink: /
 ---
-<div class="bd-example">
   <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -44,7 +43,6 @@ permalink: /
       <span class="sr-only">Next</span>
     </a>
   </div>
-</div>
 
 
 <h4>Research Theme</h4>
