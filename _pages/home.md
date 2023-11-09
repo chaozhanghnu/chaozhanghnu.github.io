@@ -24,6 +24,5 @@ permalink: /
 <p><font size=4> Congratulations to Lingyun and Shaojie for accepting a paper titled "<a href="https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-11388">A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity.</a>" by JGGE. -03/2023</font></p>
 <p><font size=4> Congratulations to Yuhao and Minxiang for accepting a paper titled "<a href="https://link.springer.com/article/10.1007/s11440-023-01859-8">Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study.</a>" by Acta Geotechnica. -02/2023</font></p>
 <p><font size=4> Congratulations to Zhixiong and Ningning for accepting a paper titled "<a href="https://www.sciencedirect.com/science/article/pii/S0886779823000810#:~:text=The%20proposed%20paradigm%20is%20implemented,state%20to%20the%20reverse%20one">A paradigm for seismic resilience assessment of subway system.</a>" by TUST. -02/2023</font></p>
-
 <hr />
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wbh_LbGLKxvlhDomrwfThMKjvY4MT4-nCNTSx8VTZrA"></script>
