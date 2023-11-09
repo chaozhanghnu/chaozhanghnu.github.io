@@ -5,28 +5,6 @@ excerpt: "UNSAT at Hunan University."
 sitemap: false
 permalink: /
 ---
-
-<div id="myCarousel" class="carousel slide">
-		<!-- 轮播（Carousel）指标 -->
-		<ol class="carousel-indicators">
-			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-			<li data-target="#myCarousel" data-slide-to="1"></li>
-			<li data-target="#myCarousel" data-slide-to="2"></li>
-		</ol>   
-		<!-- 轮播（Carousel）项目 -->
-		<div class="carousel-inner">
-			<div class="item active">
-				<img decoding="async" src="https://chaozhanghnu.github.io/images/cover_photo.jpg" alt="First slide">
-			</div>
-			<div class="item">
-				<img decoding="async" src="https://chaozhanghnu.github.io/images/cover_photo.jpg" alt="Second slide">
-			</div>
-			<div class="item">
-				<img decoding="async" src="https://chaozhanghnu.github.io/images/direction1.png" alt="Third slide">
-			</div>
-		</div>
-	</div>	
-
 <h4>Research Theme</h4>
 <p><font size=4>"UNSAT" stands for the two key aspects of our research endeavor: one for physics and mechanics of UNSATurated porous media; another for UNderground Space Advanced Technologies. </font></p>
 <p><font size=4> This group is directed by Prof. Chao Zhang in the Department of Civil Engineering at Hunan University, we are a part of Advanced Technology Research Center for Underground Space Development. </font></p>
@@ -47,4 +25,4 @@ permalink: /
 <p><font size=4> Congratulations to Zhixiong and Ningning for accepting a paper titled "<a href="https://www.sciencedirect.com/science/article/pii/S0886779823000810#:~:text=The%20proposed%20paradigm%20is%20implemented,state%20to%20the%20reverse%20one">A paradigm for seismic resilience assessment of subway system.</a>" by TUST. -02/2023</font></p>
 
 <hr />
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wbh_LbGLKxvlhDomrwfThMKjvY4MT4-nCNTSx8VTZrA"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=wbh_LbGLKxvlhDomrwfThMKjvY4MT4-nCNTSx8VTZrA&cl=ffffff&w=a"></script>
