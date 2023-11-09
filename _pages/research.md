@@ -9,14 +9,20 @@ permalink: /research/
 <p><font size=4>"UNSAT" stands for the two key aspects of our research endeavor: one for physics and mechanics of UNSATurated porous media; another for UNderground Space Advanced Technologies. </font></p>
 <hr />
 <h4>Phase Equilibirum and Transition in Porous Media</h4>
-<img src="https://chaozhanghnu.github.io/images/research/d1.JPG" width="75%" height="75%" >
+<div style="text-align: center; width: 500px; border: green solid 1px;">
+<img alt="" src="https://chaozhanghnu.github.io/images/research/d1.JPG" style="margin: 0 auto;" >
+</div>
+
 <hr />
 
 <h4>Stress State and Constitutive Relation for Unsaturated Soil</h4>
 <hr />
 
 <h4>Soil - Shield Machine Interaction and Its Intelligent Control</h4>
-<img src="https://chaozhanghnu.github.io/images/research/d3.JPG" width="75%" height="75%" >
+<div style="text-align: center; width: 500px; border: green solid 1px;">
+<img alt="" src="https://chaozhanghnu.github.io/images/research/d2.JPG" style="margin: 0 auto;" >
+</div>
+
 <hr />
 
 <h4>Advanced Testing and Resilience for Underground Structures</h4>
