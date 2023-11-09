@@ -26,3 +26,4 @@ permalink: /
 <p><font size=4> Congratulations to Zhixiong and Ningning for accepting a paper titled "<a href="https://www.sciencedirect.com/science/article/pii/S0886779823000810#:~:text=The%20proposed%20paradigm%20is%20implemented,state%20to%20the%20reverse%20one">A paradigm for seismic resilience assessment of subway system.</a>" by TUST. -02/2023</font></p>
 
 <hr />
+<a href='https://clustrmaps.com/site/1bxb1'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=c8c8cb&w=300&t=tt&d=wbh_LbGLKxvlhDomrwfThMKjvY4MT4-nCNTSx8VTZrA&co=f7f9f9&ct=0c0c0c'/></a>
