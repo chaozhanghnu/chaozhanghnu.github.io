@@ -8,19 +8,19 @@ permalink: /
 <div class="slideshow-container">
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img decoding="async" src="{{ site.url }}{{ site.baseurl }}/images/cover_photo.jpg" style="width:100%">
+    <img decoding="async" src="http:/chaozhanghnu.github.io/images/cover_photo.jpg" style="width:100%">
     <div class="text">文本 1</div>
   </div>
  
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img decoding="async" src="{{ site.url }}{{ site.baseurl }}/images/cover_photo.jpg" style="width:100%">
+    <img decoding="async" src="http:/chaozhanghnu.github.io/images/cover_photo.jpg" style="width:100%">
     <div class="text">文本 2</div>
   </div>
  
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img decoding="async" src="{{ site.url }}{{ site.baseurl }}/images/cover_photo.jpg" style="width:100%">
+    <img decoding="async" src="http:/chaozhanghnu.github.io/images/cover_photo.jpg" style="width:100%">
     <div class="text">文本 3</div>
   </div>
  
