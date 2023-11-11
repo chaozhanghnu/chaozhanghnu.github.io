@@ -18,6 +18,7 @@ permalink: /PI/
 
 
 <h4> Education </h4>
+<p> Postdoc, Colorado School of Mines, 2019</p>
 <p> Ph.D. , Civil Engineering, Michigan Technological University, 2017</p>
 <p> M.Sc., Civil Engineering, Hunan University, 2014</p>
 <p> B.Sc., Civil Engineering, Hunan University, 2012</p>
