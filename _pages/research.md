@@ -15,6 +15,8 @@ permalink: /research/
 <hr />
 
 <h4>Stress State and Constitutive Relation for Unsaturated Soil</h4>
+    <img src="https://chaozhanghnu.github.io/images/research/d2.png" width="50%" height="50%" >
+
 <hr />
 
 <h4>Soil - Shield Machine Interaction and Its Intelligent Control</h4>
