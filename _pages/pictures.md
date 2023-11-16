@@ -7,11 +7,10 @@ permalink: /pictures/
 
 <h4>Gallery</h4>
 
-<h5>2023 Group Home Party</h5>
-<img src="https://chaozhanghnu.github.io/images/pic/fangte.jpg" width="85%">
+<h5>2023 Group Summer Gathering @Fangte Park</h5>
 <hr />
 
-<h5>2023 Group Summer Gathering @Fangte Park</h5>
+<h5>2023 Group Home Party</h5>
 <img src="https://chaozhanghnu.github.io/images/pic/home-party.jpg" width="85%">
 <hr />
 
