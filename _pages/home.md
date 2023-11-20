@@ -19,6 +19,7 @@ permalink: /
 <hr />
 
 <h4>Recent News</h4>
+<p><font size=4> Congratulations to Lijun, Shaojie, and Lingyun for accepting a paper titled "<a href="https://www.sciencedirect.com/science/article/pii/S0017931023010591">Physical origin of adsorption heat and its significance in the isotherm equation</a>" by International Journal of Heat and Mass Transfer.-011/2023</font></p>
 <p><font size=4> Congratulations to Ningning and Shaojie for accepting a paper titled "<a href="https://www.sciencedirect.com/science/article/pii/S0927775723009354#:~:text=It%20is%20demonstrated%20that%20freezing,for%20freezing%20instead%20of%20capillarity">Physical Origins of Freezing and Melting Temperature Depressions of Water in Millimeter-Sized Pores.</a>" by Colloids and Surfaces A: Physicochemical and Engineering Aspects.-06/2023</font></p>
 <p><font size=4> Prof. Zhang, Zhengan, Zhixiong, Yangkai, Ziheng, Jiaxing and Yuhao attended the <a href="https://jres2023.xhby.net/fz/hydt/202303/t20230306_7853945.shtml">National Highway Tunnel Academic Annual Conference</a>. -03/2023</font></p>
 <p><font size=4> Congratulations to Lingyun and Shaojie for accepting a paper titled "<a href="https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-11388">A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity.</a>" by JGGE. -03/2023</font></p>
