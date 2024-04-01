@@ -17,4 +17,14 @@ permalink: /pictures/
 <img src="https://chaozhanghnu.github.io/images/pic/hiking.jpg" width="65%">
 <hr />
 
+<h5>2023 Some highlights </h5>
+<img src="https://chaozhanghnu.github.io/images/pic/幻灯片1.JPG" width="65%">
+<hr />
 
+<h5>2023 Some highlights </h5>
+<img src="https://chaozhanghnu.github.io/images/pic/幻灯片2.JPG" width="65%">
+<hr />
+
+<h5>2023 Some highlights </h5>
+<img src="https://chaozhanghnu.github.io/images/pic/幻灯片3.JPG" width="65%">
+<hr />
