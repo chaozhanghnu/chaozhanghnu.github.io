@@ -25,7 +25,7 @@ permalink: /PI/
 <hr />
 
 <h4> Biography </h4>
-Dr. Chao Zhang is a Distinguished Professor of Civil Engineering at Hunan University, China. His research focuses on the mechanics and physics of variably saturated soils, with applications in vadose zone science and geotechnical engineering. His pioneering work on unified effective stress equation for soil has been recognized with the prestigious Norman Medal, the highest honor for a technical paper awarded by the American Society of Civil Engineers.
+Dr. Chao Zhang is a Distinguished Professor of Civil Engineering at Hunan University, China. His research focuses on the mechanics and physics of variably saturated soils and intelligent construction technologies for underground space. His pioneering work on unified effective stress equation for soil has been recognized with the prestigious Norman Medal, the highest honor for a technical paper awarded by the American Society of Civil Engineers.
 
 Currently, Dr. Zhang holds the position of Vice Dean for Research at the College of Civil Engineering at Hunan University and serves as an Associate Editor for the Vadose Zone Journal. He is also an active member of committees on unsaturated zones in the American Geophysical Union (AGU), as well as committees on poromechanics, unsaturated soils, and engineering geology in the American Society of Civil Engineers (ASCE). Dr. Zhang's dedication to advancing the fields of soil science and geotechnical engineering through research, publication, and service underscores his commitment to academic excellence and professional leadership.
 
