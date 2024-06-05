@@ -5,7 +5,7 @@ excerpt: "UNSAT at Hunan University."
 sitemap: false
 permalink: /PI/
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ZC.jpg" class="img-responsive" width="20%" style="float: right" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ZC.png" class="img-responsive" width="20%" style="float: right" />
 
 <h4> Chao Zhang 张超 </h4>
 <p> Professor of Civil Engineering </p>
