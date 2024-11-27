@@ -1,7 +1,7 @@
 ---
-title: "UNSAT - Pictures"
+title: "SMARIN - Pictures"
 layout: piclay
-excerpt: "UNSAT at Hunan University."
+excerpt: "SMARIN at University of Miami."
 permalink: /pictures/
 ---
 
