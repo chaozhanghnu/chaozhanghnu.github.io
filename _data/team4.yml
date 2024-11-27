@@ -1,12 +1,22 @@
+- name: <a href="https://labs.wsu.edu/smartgreeninfrastructure/our-lab-team/"> Jialuo He </a>
+  photo: JLH.jpg
+  info1: Director, National UTC TriDurLE
+  info2: 
+  email: <a href="mailto:jialuo.he@wsu.edu">Email - jialuo.he@wsu.edu</a>
+  number_educ: 3
+  education1: Ph.D. Washington State University (2019)
+  education2: M.S. IIIinois Institute of Technology (2015)
+  education3: M.S. Nanjing Tech University, China (2013)
+
 - name: <a href="https://labs.wsu.edu/smartgreeninfrastructure/our-lab-team/"> Yong Deng </a>
-  photo: YD.jpg
+  photo: DY.jpg
   info1: Research Fellow at South China University of Technology, China
   info2: 
   email: <a href="mailto:yong.deng1@wsu.edu">Email - yong.deng1@wsu.edu</a>
   number_educ: 3
-  education1: Ph.D., Washington State University, WA
-  education2: M.S., IIIinois Institute of Technology
-  education3: M.S., Nanjing Tech University, China
+  education1: Ph.D. Texas A&M University (2020)
+  education2: M.S. Texas A&M University (2017)
+  education3: M.S. Wuhan University of Technology, China (2015)
 
   
   
