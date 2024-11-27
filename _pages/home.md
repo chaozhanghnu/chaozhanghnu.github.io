@@ -42,4 +42,9 @@ permalink: /
     
 <p><font size=4> Congratulations to Zhigang Zhang, Zhipeng Li, Jialuo He, Shunzhi Qian and Prof. Xianming Shi for accepting a paper titled "<a href="https://doi.org/10.1016/j.jclepro.2024.142476">Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)</a>" by Journal of Cleaner Production. -06/2024</font></p>
 
+<div style="width: 300px; height: 300px;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=zLEYu_qp3LhWBE4uAnpL7JkaDmDtH8ehrQqWco6hNvw"></script>
+</div>
+
+
 
