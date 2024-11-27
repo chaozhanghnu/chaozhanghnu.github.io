@@ -1,32 +1,13 @@
-- name: Ningning Zhao
-  photo: ZNN.jpeg
-  info1: Research topic - Phase transition in porous media
-  info2: WeChat - zngovernment
-  email: Email - zhaoningning@hnu.edu.cn
-  number_educ: 2 
-  education1: B.S. Central South University
-  education2: M.S. Central South University
+- name: <a href="https://sjhu7.github.io/"> Meili (Mandy) Liu </a>
+  photo: MLL.jpg
+  info1: 
+  info2: 
+  email: <a href="mailto:mxl2120@miami.edu">Email - mxl2120@miami.edu</a>
+  number_educ: 3 
+  education1: Ph.D. University of California, Berkeley 
+  education2: Ph.D. Beijing Normal University 
+  education3: B.S. Hunan Normal University(2016)
 
-- name: <a href="https://sjhu7.github.io/"> Shaojie Hu </a>
-  photo: HSJ.jpeg
-  info1: Research topic - Unsaturated soils
-  info2: WeChat - sjhuhnu
-  email: Email - sjhu@hnu.edu.cn
-  number_educ: 1 
-  education1: B.S. Hunan University
 
-- name: Lijun Li
-  photo: LLJ.jpeg
-  info1: Research topic - Phase transition in porous media
-  info2: WeChat - _13980857404
-  email: Email - lilijun@hnu.edu.cn
-  number_educ: 1
-  education1: B.S. Hunan University
 
-- name: Xin Lin
-  photo: LX.jpeg
-  info1: Research topic - Phase transition in porous media
-  info2: WeChat - LX824KBLove
-  email: Email - zhou_jx@hnu.edu.cn
-  number_educ: 1
-  education1: B.S. Hunan University
+  
