@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Chao Zhang's Lab
-email: your-email@domain.com
+title: XIANMING SHI LAB
+email: xxs784@miami.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the Chao Zhang's Lab.
+  Website of the XIANMING SHI LAB.
 baseurl: ""
 url: ""
 
