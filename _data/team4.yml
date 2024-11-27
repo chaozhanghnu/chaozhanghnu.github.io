@@ -1,12 +1,12 @@
-- name: "This could be you !"
-  photo: um.jpg
-  info: 
-  email: 
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+- name: <a href="https://labs.wsu.edu/smartgreeninfrastructure/our-lab-team/"> Zhiliang Zhou </a>
+  photo: ZZL.png
+  info1: 
+  info2: 
+  email: <a href="mailto:zaz336@miami.edu">Email - zaz336@miami.edu</a>
+  number_educ: 3
+  education1: Ph.D. student, University of Miami, FL & Washington State University, WA
+  education2: M.S., University of Jinan, China
+  education3: B.S. University of Jinan, China
 
 
 
