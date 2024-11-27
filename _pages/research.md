@@ -1,12 +1,12 @@
 ---
-title: "UNSAT - Research"
+title: "SMARIN - Research"
 layout: textlay
-excerpt: "UNSAT at Hunan University."
+excerpt: "SMARIN at University of Miami."
 sitemap: false
 permalink: /research/
 ---
 <h4>Research Theme</h4>
-<p><font size=4>"UNSAT" stands for the two key aspects of our research endeavor: one for physics and mechanics of UNSATurated porous media; another for UNderground Space Advanced Technologies. </font></p>
+<p><font size=4>"SMARIN" stands for the Sustainable Materials and Resilient Infrastructure. </font></p>
 <hr />
 
 <h4>Phase Equilibirum and Transition in Porous Media</h4>
