@@ -1,40 +1,21 @@
-- name: Jianbo Wang
-  photo: WJB.png
-  info1: Research topic - Unsaturated soil mechanics
-  info2: WeChat - Leonenor
-  email: Email - wangjianbo93@hnu.edu.cn
-  number_educ: 2
-  education1: B.S. Hunan University
-  education2: M.S. Hunan University
+- name: <a href="https://labs.wsu.edu/smartgreeninfrastructure/our-lab-team/"> Zhiliang Zhou </a>
+  photo: ZZL.png
+  info1: 
+  info2: 
+  email: <a href="mailto:zaz336@miami.edu">Email - zaz336@miami.edu</a>
+  number_educ: 3 
+  education1: Ph.D. student, University of Miami, FL & Washington State University, WA
+  education2: M.S., University of Jinan, China
+  education3: B.S. University of Jinan, China
 
-- name: Zhenhai Liu
-  photo: LZH (2).jpg
-  info1: Research topic - Deep soil mechanics
-  info2: WeChat - lzh980204
-  email: Email - liuzh@hnu.edu.cn
-  number_educ: 1 
-  education1: B.S. Hunan University
+  - name: <a href="https://labs.wsu.edu/smartgreeninfrastructure/our-lab-team/"> Ali Mahmoodigahrouei </a>
+  photo: Ali.png
+  info1: 
+  info2: 
+  email: <a href="mailto:axm9090@miami.edu">Email - axm9090@miami.edu</a>
+  number_educ: 3 
+  education1: Ph.D. student, University of Miami, FL 
+  education2: Ph.D. student, Washington State University, WA
+  education3: M.S. Armirkabir University of Technology, Iran.
 
-- name: Yuhan Yang
-  photo: YYH.jpeg
-  info1: Research topic - Desiccation cracking of granular materials
-  info2: WeChat - yyh_ce
-  email: Email - yhyang@hnu.edu.cn
-  number_educ: 1 
-  education1: B.S. Hunan University
-
-- name: <a href="https://lingyungou11.github.io/"> Lingyun Gou </a>
-  photo: GLY.jpeg
-  info1: Research topic - Poromechanics
-  info2: WeChat - Lingyun_Gou
-  email: Email - lygou@hnu.edu.cn
-  number_educ: 1
-  education1: B.S. Hunan University
-
-- name: Xiaolei Yi
-  photo: YXL.jpeg
-  info1: Research topic - TBD
-  info2: WeChat - yxl18892119530
-  email: Email - yixiaolei@hnu.edu.cn
-  number_educ: 1
-  education1: B.S. Northwest A&F University
+  
