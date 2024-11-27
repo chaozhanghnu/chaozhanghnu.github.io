@@ -1,30 +1,45 @@
 ---
-title: "UNSAT - Home"
+title: "SMARIN - Home"
 layout: homelay
-excerpt: "UNSAT at Hunan University."
+excerpt: "SMARIN at University of Miami."
 sitemap: false
 permalink: /
 ---
 
-<h4>Research Theme</h4>
-<p><font size=4>"UNSAT" stands for the two key aspects of our research endeavor: one for physics and mechanics of UNSATurated porous media; another for UNderground Space Advanced Technologies. </font></p>
-<p><font size=4> This group is directed by Prof. Chao Zhang in the Department of Civil Engineering at Hunan University. We are a part of Center for Underground Space Advanced Technologies directed by Prof. Renpeng Chen. </font></p>
-<font size=4>Our current research at Hunan University encompasses the following interconnected areas:</font>
+<h4>RESEARCH THEME</h4>
+<p><font size=4>"SMARIN" stands for Sustainable Materials and Resilient Infrastrucuture. </font></p>
+<p><font size=4> This group is directed by Prof. Xianming Shi in the Department of Civil & Architectural Engineering at University of Miami. </font></p>
+<font size=4>Our current research at University of Miami encompasses the following interconnected areas:</font>
 <ul >
-    <li><font size=4>Phase Equilibirum and Transition in Porous Media</font></li>
-    <li><font size=4>Stress State and Constitutive Relation for Unsaturated Soil</font></li>
-    <li><font size=4>Soil - Shield Machine Interaction and Its Intelligent Control</font></li>
-    <li><font size=4>Advanced Testing and Resilience for Underground Structures</font></li>
+    <li><font size=4>Construction of eco-smart communities and sustainable built environments: e.g., multifunctional coatings and admixtures, recycling and valorization of industrial byproducts and agro-wastes, permeable pavements, and nanotechnology for civil infrastructures</font></li>
+    <li><font size=4>Materials science for circular economy, for historically underserved communities, and for decarbonization, construction, and resilience of infrastructure</font></li>
+    <li><font size=4>Durable and resilient infrastructure, e.g., multi-scale engineering and characterization, corrosion protection, preservation and rehabilitation techniques, self-healing concrete, coatings, and functional layers</font></li>
 </ul>
 <hr />
 
-<h4>Recent News</h4>
-<p><font size=4> Congratulations to Lijun, Shaojie, and Lingyun for accepting a paper titled "<a href="https://www.sciencedirect.com/science/article/pii/S0017931023010591">Physical origin of adsorption heat and its significance in the isotherm equation.</a>" by International Journal of Heat and Mass Transfer.-011/2023</font></p>
-<p><font size=4> Congratulations to Ningning and Shaojie for accepting a paper titled "<a href="https://www.sciencedirect.com/science/article/pii/S0927775723009354#:~:text=It%20is%20demonstrated%20that%20freezing,for%20freezing%20instead%20of%20capillarity">Physical Origins of Freezing and Melting Temperature Depressions of Water in Millimeter-Sized Pores.</a>" by Colloids and Surfaces A: Physicochemical and Engineering Aspects.-06/2023</font></p>
-<p><font size=4> Prof. Zhang, Zhengan, Zhixiong, Yangkai, Ziheng, Jiaxing and Yuhao attended the <a href="https://jres2023.xhby.net/fz/hydt/202303/t20230306_7853945.shtml">National Highway Tunnel Academic Annual Conference</a>. -03/2023</font></p>
-<p><font size=4> Congratulations to Lingyun and Shaojie for accepting a paper titled "<a href="https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-11388">A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity.</a>" by JGGE. -03/2023</font></p>
-<p><font size=4> Congratulations to Yuhao and Minxiang for accepting a paper titled "<a href="https://link.springer.com/article/10.1007/s11440-023-01859-8">Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study.</a>" by Acta Geotechnica. -02/2023</font></p>
-<p><font size=4> Congratulations to Zhixiong and Ningning for accepting a paper titled "<a href="https://www.sciencedirect.com/science/article/pii/S0886779823000810#:~:text=The%20proposed%20paradigm%20is%20implemented,state%20to%20the%20reverse%20one">A paradigm for seismic resilience assessment of subway system.</a>" by TUST. -02/2023</font></p>
-
+<h4>OUR GOAL</h4>
+<p><font size=4>Our goal is to effect positive changes to industry and society through innovations and partnerships. To this end, we strive to develop innovative and cost-effective solutions and focus on impactful R&D.</font></p>
 <hr />
-<a href='https://clustrmaps.com/site/1bxb1'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=c8c8cb&w=300&t=tt&d=wbh_LbGLKxvlhDomrwfThMKjvY4MT4-nCNTSx8VTZrA&co=f7f9f9&ct=0c0c0c'/></a>
+
+<h4>OUR PHILOSOPHY</h4>
+<p>The SGI philosophy is focused on the following:</p>
+<ul >
+<li>Stimulate cross-disciplinary collaboration and synergy</li>
+<li>Make a difference in reducing footprints of civil infrastructures and enabling durable, sustainable, and resilient built environment</li>
+<li>Promote professional growth and success of team members</li>
+</ul>
+<hr />
+
+<h4>RECENT NEWS</h4>
+<p><font size=4><a href="https://lnkd.in/g8tHQ_xS"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) to be held at the Newman Alumni Center, University of Miami, Coral Gables, Florida, March 2 to 5, 2025.</a></p>
+<p><font size=4><a href="https://lnkd.in/geBF_yCZ"> Call for papers by the Journal of Infrastructure Preservation & Resilience (Springer Nature)</a></p>
+    
+<p><font size=4><a href="https://www.linkedin.com/feed/update/urn:li:activity:7263661365251190784/"> Congrats to Prof. Xianming Shi and the Engineering Bombers on their 3-0 victory in the University of Miami’s intramural soccer league opener!</a></p>
+
+<p><font size=4><a href="https://news.miami.edu/coe/stories/2024/08/construction-materials-expert-to-lead-civil-and-architectural-engineering-department.html"> Congrats to Prof. Shi on being named Chair of Civil and Architectural Engineering at the University of Miami!</a></p>
+
+<p><font size=4><a href="https://www.linkedin.com/posts/xianmingshi_i-am-humbled-by-the-honor-of-receiving-the-activity-7194155375028232192-64Yp/"> Congratulations to Prof. Xianming Shi for humbling by the honor of receiving the Anjan Bose Outstanding Researcher Award by the Voiland College of Engineering and Architecture, Washington State University. </a></p>
+    
+<p><font size=4> Congratulations to Zhigang Zhang, Zhipeng Li, Jialuo He, Shunzhi Qian and Prof. Xianming Shi for accepting a paper titled "<a href="https://doi.org/10.1016/j.jclepro.2024.142476">Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)</a>" by Journal of Cleaner Production. -06/2024</font></p>
+
+
