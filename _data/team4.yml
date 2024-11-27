@@ -1,12 +1,26 @@
 - name: <a href="https://labs.wsu.edu/smartgreeninfrastructure/our-lab-team/"> Zhipeng Li </a>
   photo: ZPL.jpg
-  info1: 
+  info1: Assistant Director
   info2: 
   email: <a href="mailto:li_zhipeng@hotmail.com">Email - li_zhipeng@hotmail.com</a>
+  number_educ: 4
+  education1: Ph.D., Washington State University, WA
+  education2: M.S., Washington State University, WA
+  education3: M.S., Wuhan Polytechnic University, China
+  education4: B.S. Wuhan University of Sci and Tech, China
+
+- name: <a href="https://labs.wsu.edu/smartgreeninfrastructure/our-lab-team/"> Yong Deng </a>
+  photo: YD.jpg
+  info1: Research Assistant Professor
+  info2: 
+  email: <a href="mailto:yong.deng1@wsu.edu">Email - yong.deng1@wsu.edu</a>
   number_educ: 3
-  education1: Ph.D. student, University of Miami, FL & Washington State University, WA
-  education2: M.S., University of Jinan, China
-  education3: B.S. University of Jinan, China
+  education1: Ph.D., Washington State University, WA
+  education2: M.S., IIIinois Institute of Technology
+  education3: M.S., Nanjing Tech University, China
+
+  
+  
 
 
 
