@@ -198,7 +198,7 @@ permalink: /team/
 {% endif %}
 <hr />
 
-<h4>Alumi</h4>
+<h4>Alumni</h4>
 {% assign number_printed = 0 %}
 {% for member in site.data.team4 %}
 {% assign even_odd = number_printed | modulo: 2 %}
