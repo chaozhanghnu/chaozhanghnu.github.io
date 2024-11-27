@@ -5,7 +5,7 @@ excerpt: "SMARIN at University of Miami."
 sitemap: false
 permalink: /PI/
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/xianmingshi.png" class="img-responsive" width="20%" style="float: right" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/xianmingshi.jpg" class="img-responsive" width="20%" style="float: right" />
 
 <h4> Xianming (Shane) Shi </h4>
 <p> Professor of Department of Civil & Architectural Engineering </p>
