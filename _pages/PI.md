@@ -116,9 +116,7 @@ Dr. Shi is a Senior Member of the National Academy of Inventors and his work has
 <p><a href="https://lnkd.in/g8tHQ_xS "> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) to be held at the Newman Alumni Center, University of Miami, Coral Gables, Florida, March 2 to 5, 2025. </a></p>
 <hr />
 
-<div style="width: 300px; height: 300px;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=zLEYu_qp3LhWBE4uAnpL7JkaDmDtH8ehrQqWco6hNvw"></script>
-</div>
+
 
 
 
