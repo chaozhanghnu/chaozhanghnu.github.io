@@ -1,4 +1,4 @@
-# Chao Zhang's Lab Website
+# XIANMING SHI LAB Website
 
-This is the website of our academic research group at Hunan University.
+This is the website of our academic research group at University of Miami.
 
