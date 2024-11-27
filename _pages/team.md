@@ -42,18 +42,18 @@ permalink: /team/
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  <p> {{ member.education1 }} </p>
+  <p> {{ member.education2 }} </p>
+  <p> {{ member.education3 }} </p>
+  <p> {{ member.education4 }} </p>
   {% endif %}
 
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
+  <p> {{ member.education1 }} </p>
+  <p> {{ member.education2 }} </p>
+  <p> {{ member.education3 }} </p>
+  <p> {{ member.education4 }} </p>
+  <p> {{ member.education5 }} </p>
   {% endif %}
 
 </div>
@@ -105,18 +105,18 @@ permalink: /team/
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  <p> {{ member.education1 }} </p>
+  <p> {{ member.education2 }} </p>
+  <p> {{ member.education3 }} </p>
+  <p> {{ member.education4 }} </p>
   {% endif %}
 
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
+  <p> {{ member.education1 }} </p>
+  <p> {{ member.education2 }} </p>
+  <p> {{ member.education3 }} </p>
+  <p> {{ member.education4 }} </p>
+  <p> {{ member.education5 }} </p>
   {% endif %}
 
 </div>
@@ -168,18 +168,18 @@ permalink: /team/
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  <p> {{ member.education1 }} </p>
+  <p> {{ member.education2 }} </p>
+  <p> {{ member.education3 }} </p>
+  <p> {{ member.education4 }} </p>
   {% endif %}
 
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
+  <p> {{ member.education1 }} </p>
+  <p> {{ member.education2 }} </p>
+  <p> {{ member.education3 }} </p>
+  <p> {{ member.education4 }} </p>
+  <p> {{ member.education5 }} </p>
   {% endif %}
 
 </div>
@@ -231,18 +231,18 @@ permalink: /team/
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  <p> {{ member.education1 }} </p>
+  <p> {{ member.education2 }} </p>
+  <p> {{ member.education3 }} </p>
+  <p> {{ member.education4 }} </p>
   {% endif %}
 
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
+  <p> {{ member.education1 }} </p>
+  <p> {{ member.education2 }} </p>
+  <p> {{ member.education3 }} </p>
+  <p> {{ member.education4 }} </p>
+  <p> {{ member.education5 }} </p>
   {% endif %}
 
 </div>
