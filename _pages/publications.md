@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-**Bold** indicates Prof.Shi, Underline indicates Corresponding author.
+**Bold** indicates Prof. Shi, Underline indicates Corresponding author.
 
 ******
 
