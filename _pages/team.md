@@ -9,7 +9,7 @@ permalink: /team/
 <p><font size=4>PhD or Postdoc positions are available. Please contact for details via xxs784@miami.edu.</font></p>
 <hr />
 
-<h4>Post-doctoral Scholars</h4>
+<h4>Research Staff</h4>
 {% assign number_printed = 0 %}
 {% for member in site.data.team2 %}
 {% assign even_odd = number_printed | modulo: 2 %}
