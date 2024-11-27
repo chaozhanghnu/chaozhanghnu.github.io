@@ -17,13 +17,16 @@ permalink: /pictures/
 <img src="https://SMARIN-LAB.github.io/images/pic/aci2024.jpg" width="65%">
 <hr />
 
-<h5>2024 Intramural soccer league @University of Miami </h5>
-<img src="https://SMARIN-LAB.github.io/images/pic/1.jpg" width="65%">
-<hr />
 
 <h5>2024 Research Symposium -- poster @ COE & University of Miami </h5>
 <img src="https://SMARIN-LAB.github.io/images/pic/researchday.jpg" width="65%">
 <hr />
+
+
+<h5>2024 Intramural soccer league @University of Miami </h5>
+<img src="https://SMARIN-LAB.github.io/images/pic/1.jpg" width="65%">
+<hr />
+
 
 <h5>2024 The Anjan Bose Outstanding Researcher Award </h5>
 <img src="https://SMARIN-LAB.github.io/images/pic/award.jpg" width="65%">
