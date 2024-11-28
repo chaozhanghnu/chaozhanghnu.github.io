@@ -22,8 +22,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic2/{{ member.photo }}" class="img-responsive" width="28%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <p>{{ member.info1 }}</p>
-  <p>{{ member.email }}</p>
   <p>{{ member.info2 }}</p>
+  <p>{{ member.email }}</p>
 
 
   {% if member.number_educ == 1 %}
@@ -85,8 +85,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic2/{{ member.photo }}" class="img-responsive" width="28%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <p>{{ member.info1 }}</p>
-  <p>{{ member.email }}</p>
   <p>{{ member.info2 }}</p>
+  <p>{{ member.email }}</p>
 
 
   {% if member.number_educ == 1 %}
@@ -148,8 +148,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic2/{{ member.photo }}" class="img-responsive" width="28%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <p>{{ member.info1 }}</p>
-  <p>{{ member.email }}</p>
   <p>{{ member.info2 }}</p>
+  <p>{{ member.email }}</p>
 
 
   {% if member.number_educ == 1 %}
@@ -211,8 +211,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic2/{{ member.photo }}" class="img-responsive" width="35%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <p>{{ member.info1 }}</p>
-  <p>{{ member.email }}</p>
   <p>{{ member.info2 }}</p>
+  <p>{{ member.email }}</p>
 
 
   {% if member.number_educ == 1 %}
