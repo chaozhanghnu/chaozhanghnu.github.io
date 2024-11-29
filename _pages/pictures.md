@@ -12,6 +12,9 @@ permalink: /pictures/
 <img src="https://SMARIN-LAB.github.io/images/pic/CSI3.jpg" width="65%">
 <hr />
 
+<h5>2024 Thanksgiving Holiday </h5>
+<img src="https://SMARIN-LAB.github.io/images/pic/Thanksgiving.jpg" width="65%">
+<hr />
 
 <h5>2024 ACI Conference </h5>
 <img src="https://SMARIN-LAB.github.io/images/pic/aci2024.jpg" width="65%">
