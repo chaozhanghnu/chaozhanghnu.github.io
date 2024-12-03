@@ -202,7 +202,7 @@ permalink: /publications/
 
 <h4>BOOKS</h4>
 <ul>
-<li> Pacheco-Torgal, F., Melchers, R.E., <b>Shi, X.</b>, Sáez, A. (2024). Eco-efficient Repair and Rehabilitation of Concrete Infrastructure (Eds.). 2nd Edition. Elsevier.(https://github.com/user-attachments/assets/a6653da3-fa45-4f15-8be6-ebe8312a0218)</li>
+<li> Pacheco-Torgal, F., Melchers, R.E., <b>Shi, X.</b>, Sáez, A. (2024). Eco-efficient Repair and Rehabilitation of Concrete Infrastructure (Eds.). 2nd Edition. Elsevier. ["https://shop.elsevier.com/books/eco-efficient-repair-and-rehabilitation-of-concrete-infrastructures/pacheco-torgal/978-0-443-13470-8"]</li>
 
    
 <li> <b>Shi, X.</b>, Liu, Z., Liu, J. (2018). Proceedings of GeoShanghai 2018 International Conference: Transportation Geotechnics and Pavement Engineering (Eds.). ISBN 978-981-13-0011-0. Springer. DOI: 10.1007/978-981-13-0011-0.</li>
