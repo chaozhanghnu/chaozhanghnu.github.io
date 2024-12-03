@@ -12,9 +12,7 @@ permalink: /publications/
 
 ******
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <font size="10">2024</font>
-</div>
+<p align="center" style="font-size: 60px;">2024</p>
 
 
 <font size=5> 2024 </font>
