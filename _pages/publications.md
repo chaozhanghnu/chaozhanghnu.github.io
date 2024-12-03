@@ -209,8 +209,6 @@ permalink: /publications/
 
 <li><font size=4> Pacheco-Torgal, F., Melchers, R.E., <b>Shi, X.</b>, Sáez, A. (2024). "<a href="https://shop.elsevier.com/books/eco-efficient-repair-and-rehabilitation-of-concrete-infrastructures/pacheco-torgal/978-0-443-13470-8"> Eco-efficient Repair and Rehabilitation of Concrete Infrastructure (Eds.) </a>" 2nd Edition. Elsevier. </font></li>
 
-<p><font size=4> Congratulations to Zhigang Zhang, Zhipeng Li, Jialuo He, Shunzhi Qian and Prof. Xianming Shi for accepting a paper titled "<a href="https://doi.org/10.1016/j.jclepro.2024.142476">Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)</a>" by Journal of Cleaner Production. -06/2024</font></p>
-
 <li>  ["Eco-efficient Repair and Rehabilitation of Concrete Infrastructure (Eds.). 2nd Edition. Elsevier."](https://doi.org/10.1007/s00521-022-07305-2)</li>
 
    
