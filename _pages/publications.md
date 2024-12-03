@@ -7,8 +7,8 @@ permalink: /publications/
 ---
 
 1. __Publication__
-
-| **Selected Presentations and Technical Reports** | **Books** </p>
+2. __Selected Presentations and Technical Reports__
+3.  __Books__
 
 **Bold** indicates Prof. Shi, Underline indicates Corresponding author.
 
