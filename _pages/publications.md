@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-**Publication** | **Selected Presentations and Technical Reports** | **Books**
+<p>**Publication** | **Selected Presentations and Technical Reports** | **Books** </p>
 
 **Bold** indicates Prof. Shi, Underline indicates Corresponding author.
 
