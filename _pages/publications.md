@@ -206,8 +206,11 @@ permalink: /publications/
 
 <p align="center" style="font-size: 35px;">Books</p>
 
-<ul>
-<li> Pacheco-Torgal, F., Melchers, R.E., <b>Shi, X.</b>, Sáez, A. (2024). ["Eco-efficient Repair and Rehabilitation of Concrete Infrastructure (Eds.). 2nd Edition. Elsevier."](https://doi.org/10.1007/s00521-022-07305-2)</li>
+
+<li><font size=4> Pacheco-Torgal, F., Melchers, R.E., <b>Shi, X.</b>, Sáez, A. (2024). "<a href="https://shop.elsevier.com/books/eco-efficient-repair-and-rehabilitation-of-concrete-infrastructures/pacheco-torgal/978-0-443-13470-8">2nd Edition. Elsevier. </font></li>
+
+
+<li>  ["Eco-efficient Repair and Rehabilitation of Concrete Infrastructure (Eds.). 2nd Edition. Elsevier."](https://doi.org/10.1007/s00521-022-07305-2)</li>
 
    
 <li> <b>Shi, X.</b>, Liu, Z., Liu, J. (2018). Proceedings of GeoShanghai 2018 International Conference: Transportation Geotechnics and Pavement Engineering (Eds.). ISBN 978-981-13-0011-0. Springer. DOI: 10.1007/978-981-13-0011-0.</li>
@@ -223,6 +226,4 @@ permalink: /publications/
 <li> Fay, L., Akin, M., <b>Shi, X.</b> (2012). Cost-effective and Sustainable Road Slope Stabilization and Erosion Control. Washington, D.C.: National Academies DOI: 10.13140/2.1.1229.1525。</li>
    
 <li> <b>Shi, X.</b> (2008). Impact of Airport Pavement Deicing Products on Aircraft and Airfield Infrastructure. Washington, C.: National Academies Press.</li>
-</ul>
-<hr />
 
