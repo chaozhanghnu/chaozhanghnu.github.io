@@ -12,8 +12,8 @@ permalink: /publications/
 
 ******
 
-<div style="text-align: center;">
-    <font size="10">Publication</font>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <font size="10">2024</font>
 </div>
 
 
