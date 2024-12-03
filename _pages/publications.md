@@ -186,7 +186,7 @@ permalink: /publications/
 
 
 ****
-
+<ul>
 <p align="center" style="font-size: 35px;">Selected Presentations and Technical Reports</p>
 
 <li>Leveraging microbiology for sustainable transportation and resilient infrastructure</li>
@@ -200,7 +200,7 @@ permalink: /publications/
 <li>Editorial: Intelligent Concrete, New Functionalities and Nanotechnologye</li>
 
 <li>Foreword from the editor-in-chief: the inaugural issue of journal of infrastructure preservation and resiliencee</li>
-
+</ul>
 ****
 
 <p align="center" style="font-size: 35px;">Books</p>
