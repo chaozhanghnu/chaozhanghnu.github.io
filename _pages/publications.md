@@ -6,7 +6,10 @@ sitemap: false
 permalink: /publications/
 ---
 
-[**Publication**](#publication) | [**Selected Presentations and Technical Reports**](#presentations) | [**Books**](#books)
+<p align="center">
+Publication | Selected Presentations and Technical Reports | Books
+</p>
+
 
 
 ******
