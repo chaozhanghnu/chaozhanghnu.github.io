@@ -16,7 +16,7 @@ permalink: /publications/
 
 <p align="center" style="font-size: 35px;">Publication</p>
 
-
+<ul>
 <font size=5> 2024 </font>
 1. Zhigang Zhang, Zhipeng Li., Jialuo He, Shunzhi Qian, **<u>Xianming Shi</u>**,["Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)."](https://doi.org/10.1016/j.jclepro.2024.142476)  *Journal of Cleaner Production* 457, (2024): 142476.
    
@@ -184,6 +184,10 @@ permalink: /publications/
 19. <u>Yaqin He</u>, <u>Md Tawhidur Rahman</u>, <u>Michelle Akin</u>, <u>Yinhai Wang</u>, <u>Kakan Dey</u> and **<u>Xianming Shi</u>**, ["Connected Vehicle Technology for Improved Multimodal Winter Travel: Agency Perspective and a Conceptual Exploration."](https://doi.org/10.3390/su12125071), *Sustainability* 2020, 12, 12.
 
 20. Ziyuan Pu, Chenglong Liu, **Xianming Shi**, Zhiyong Cui, and <u>Yinhai Wang</u>, ["Road Surface Friction Prediction Using Long Short- Term Memory Neural Network Based on Historical Data."](https://doi.org/10.1080/15472450.2020.1780922), *Journal of Intelligent Transportation Systems* 2020, 26, 1.
+
+</ul>
+<hr />
+
 
 ****
 
