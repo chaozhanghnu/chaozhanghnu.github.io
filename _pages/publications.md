@@ -241,21 +241,21 @@ permalink: /publications/
 8.	**Shi, X.**, Fu, L. (2018). ["Chapter 14: Source Control Tactics for Sustainable Winter Road Maintenance."](https://doi.org/10.1002/9781119185161.ch14) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell,
 pp. 309-333.
 
-9.	**Shi, X.**, Strecker, E., Jungwirth, S. (2018). Chapter 15: Reactive Approaches for Environmentally Sustainable Winter Road Operations. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 334-357.
+9.	**Shi, X.**, Strecker, E., Jungwirth, S. (2018). ["Chapter 15: Reactive Approaches for Environmentally Sustainable Winter Road Operations."](https://www.wiley.com/en-us/Sustainable+Winter+Road+Operations-p-9781119185154) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 334-357.
 
-10.	**Shi, X.**, Jungwirth, S. (2018). Chapter 17: The Search for “Greener” Materials for Winter Road Maintenance Operations. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley- Blackwell, pp. 378-401.
+10.	**Shi, X.**, Jungwirth, S. (2018). ["Chapter 17: The Search for “Greener” Materials for Winter Road Maintenance Operations."](https://cesticc.uaf.edu/media/280969/TheSearchforGreenDeicer-Slides4Webinar.pdf) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley- Blackwell, pp. 378-401.
     
-11.	**Shi, X.**, Huang, J., Yang, Z. (2018). Chapter 18: Pavement Treatments for Sustainable Winter Road Maintenance. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley- Blackwell, pp. 402-422.
+11.	**Shi, X.**, Huang, J., Yang, Z. (2018). ["Chapter 18: Pavement Treatments for Sustainable Winter Road Maintenance."](https://doi.org/10.1002/9781119185161.ch18) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley- Blackwell, pp. 402-422.
     
-12.	Fu, L., **Shi, X.** (2018). Chapter 21: A Look into the Future. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 472-478.
+12.	Fu, L., **Shi, X.** (2018). ["Chapter 21: A Look into the Future."](https://doi.org/10.1002/9781119185161.ch21) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 472-478.
     
-13.	**Shi, X.** (2017). Chapter 4: Monitoring of Reinforced Concrete Corrosion. In Pacheco-Torgal, F., et al. (Eds.), Eco-efficient Repair and Rehabilitation of Concrete Infrastructure, Elsevier, pp. 69-95. Web link
+13.	**Shi, X.** (2017). ["Chapter 4: Monitoring of Reinforced Concrete Corrosion. In Pacheco-Torgal, F., et al. (Eds.), Eco-efficient Repair and Rehabilitation of Concrete Infrastructures."](https://shop.elsevier.com/books/eco-efficient-repair-and-rehabilitation-of-concrete-infrastructures/pacheco-torgal/978-0-443-13470-8) Elsevier, pp. 69-95. Web link
     
 14.	Xu, G., Navarro, L. G., Wong, K., **Shi, X.** Freeze-Thaw and Salt Resistance of a Fly Ash Based Pervious Concrete. ACI Fall Convention 2017, Anaheim, CA. ACI SP-03- 01.
     
 15.	Jiang, Y., Xu, G., Shi, X. ["Multifunction Green Corrosion Inhibiting Admixtures for Mortar under Chloride Environment."](https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/51722456) ACI Fall Convention 2017, Anaheim, CA. ACI Special Publication, SP-03-07. 
     
-16.	Nazari, M.H., **Shi, X.** (2016). ["Polymer-based nanocomposite coatings for anticorrosion applications."](https://doi/org/10.1007/978-3-319-26893-4_18.) In M. Hosseini & A. S. H. Makhlouf (Eds.), Industrial Applications for Intelligent Polymers and Coatings. New York, Philadelphia: Springer Publishing, pp. 373-399. 
+16.	Nazari, M.H., **Shi, X.** (2016). ["Polymer-based nanocomposite coatings for anticorrosion applications."](https://doi.org/10.1007/978-3-319-26893-4_18.) In M. Hosseini & A. S. H. Makhlouf (Eds.), Industrial Applications for Intelligent Polymers and Coatings. New York, Philadelphia: Springer Publishing, pp. 373-399. 
     
 17.	Xie, N., Muthumani, A., Dang, Y., **Shi, X.** (2015). ["Deicer Impacts on Concrete Bridge Decks: A Comparative Study of Field Cores from Potassium Acetate and Sodium Chloride Environments."](https:doi.org/10.1061/9780784479278.005) In S. Zhao, J. Liu & X. Zhang (Eds.), Innovative Materials and Design for Sustainable Transportation Infrastructure: pp. 42-57. ASCE Construction Institute. Special Publication.
     
