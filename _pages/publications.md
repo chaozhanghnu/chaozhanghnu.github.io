@@ -6,8 +6,8 @@ sitemap: false
 permalink: /publications/
 ---
 
-<p align="center" style="font-size: 25px";>
-Publication | Selected Presentations and Technical Reports | Books
+<p align="center" style="font-size: 25px;">
+    Publication | Selected Presentations and Technical Reports | Books
 </p>
 
 
