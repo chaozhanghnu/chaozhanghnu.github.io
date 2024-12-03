@@ -6,12 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-<div style="text-align: center; font-size: 18px; font-weight: bold;">
-    <a href="#publication" style="text-decoration: none; margin: 0 15px;">Publication</a> |
-    <a href="#presentations" style="text-decoration: none; margin: 0 15px;">Selected Presentations and Technical Reports</a> |
-    <a href="#books" style="text-decoration: none; margin: 0 15px;">Books</a>
-</div>
-
+[**Publication**](#publication) | [**Selected Presentations and Technical Reports**](#presentations) | [**Books**](#books)
 
 
 ******
