@@ -10,9 +10,12 @@ permalink: /publications/
 2. __Selected Presentations and Technical Reports__
 3.  __Books__
 
-**Bold** indicates Prof. Shi, Underline indicates Corresponding author.
-
 ******
+
+
+__Publication__
+
+**Bold** indicates Prof. Shi, Underline indicates Corresponding author.
 
 <font size=5> 2024 </font>
 1. Zhigang Zhang, Zhipeng Li., Jialuo He, Shunzhi Qian, **<u>Xianming Shi</u>**,["Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)."](https://doi.org/10.1016/j.jclepro.2024.142476)  *Journal of Cleaner Production* 457, (2024): 142476.
