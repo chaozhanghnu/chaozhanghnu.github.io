@@ -11,7 +11,7 @@ permalink: /publications/
 
 ******
 
-<p align="center" style="font-size: 45px;">Publication</p>
+<p align="center" style="font-size: 35px;">Publication</p>
 
 
 <font size=5> 2024 </font>
