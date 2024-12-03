@@ -10,7 +10,7 @@ permalink: /publications/
     Publication | Selected Presentations and Technical Reports | Books
 </p>
 
-
+**Bold** indicates Prof. Shi, while **underlined** represents the corresponding author.
 
 ******
 
