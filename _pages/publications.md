@@ -208,9 +208,8 @@ permalink: /publications/
 
 ******
 
-<p align="center" style="font-size: 35px;">BOOKS</p>
+<p align="center" style="font-size: 35px;">Books</p>
 
-<h4>BOOKS</h4>
 <ul>
 <li> Pacheco-Torgal, F., Melchers, R.E., <b>Shi, X.</b>, Sáez, A. (2024). Eco-efficient Repair and Rehabilitation of Concrete Infrastructure (Eds.). 2nd Edition. Elsevier. ["https://shop.elsevier.com/books/eco-efficient-repair-and-rehabilitation-of-concrete-infrastructures/pacheco-torgal/978-0-443-13470-8"]</li>
 
