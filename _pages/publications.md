@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-__Publication__
+1. __Publication__
 
 | **Selected Presentations and Technical Reports** | **Books** </p>
 
