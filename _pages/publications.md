@@ -6,9 +6,13 @@ sitemap: false
 permalink: /publications/
 ---
 
-1. __Publication__
-2. __Selected Presentations and Technical Reports__
-3.  __Books__
+<div style="text-align: center; font-size: 18px; font-weight: bold;">
+    <a href="#publication" style="text-decoration: none; margin: 0 15px;">Publication</a> |
+    <a href="#presentations" style="text-decoration: none; margin: 0 15px;">Selected Presentations and Technical Reports</a> |
+    <a href="#books" style="text-decoration: none; margin: 0 15px;">Books</a>
+</div>
+
+
 
 ******
 
