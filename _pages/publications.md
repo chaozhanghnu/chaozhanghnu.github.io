@@ -190,7 +190,6 @@ permalink: /publications/
 
 <p align="center" style="font-size: 35px;">Selected Presentations and Technical Reports</p>
 
-<h4>Selected Presentations and Technical Reports</h4>
 <ul>
 <li>Leveraging microbiology for sustainable transportation and resilient infrastructure</li>
 
