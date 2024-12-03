@@ -186,7 +186,7 @@ permalink: /publications/
 20. Ziyuan Pu, Chenglong Liu, **Xianming Shi**, Zhiyong Cui, and <u>Yinhai Wang</u>, ["Road Surface Friction Prediction Using Long Short- Term Memory Neural Network Based on Historical Data."](https://doi.org/10.1080/15472450.2020.1780922), *Journal of Intelligent Transportation Systems* 2020, 26, 1.
 
 
-******
+****
 
 <p align="center" style="font-size: 35px;">Selected Presentations and Technical Reports</p>
 
