@@ -205,7 +205,7 @@ permalink: /publications/
 ****
 
 <p align="center" style="font-size: 35px;">Books</p>
-
+<ul>
 <li><font size=4> Pacheco-Torgal, F., Melchers, R.E., <b>Shi, X.</b>, Sáez, A. (2024). "<a href="https://shop.elsevier.com/books/eco-efficient-repair-and-rehabilitation-of-concrete-infrastructures/pacheco-torgal/978-0-443-13470-8"> Eco-efficient Repair and Rehabilitation of Concrete Infrastructure (Eds.) </a>" 2nd Edition. Elsevier. </font></li>
 
 <li><font size=4> <b>Shi, X.</b>, Liu, Z., Liu, J. (2018). "<a href="https://link.springer.com/book/10.1007/978-981-13-0011-0"> Proceedings of GeoShanghai 2018 International Conference: Transportation Geotechnics and Pavement Engineering (Eds.) </a>" ISBN 978-981-13-0011-0. Springer. DOI: 10.1007/978-981-13-0011-0. </font></li>
@@ -221,7 +221,9 @@ permalink: /publications/
 <li><font size=4> Fay, L., Akin, M., <b>Shi, X.</b> (2012). "<a href="https://www.researchgate.net/publication/262301284_Cost-Effective_and_Sustainable_Road_Slope_Stabilization_and_Erosion_Control?channel=doi&linkId=0a85e53745763d32bf000000&showFulltext=true"> Cost-effective and Sustainable Road Slope Stabilization and Erosion Control. </a>"  Washington, D.C.: National Academies Press. DOI: 10.13140/2.1.1229.1525. </font></li>
 
 <li><font size=4> <b>Shi, X.</b> (2008). "<a href="https://nap.nationalacademies.org/catalog/13913/impact-of-airport-pavement-deicing-products-on-aircraft-and-airfield-infrastructure">Impact of Airport Pavement Deicing Products on Aircraft and Airfield Infrastructure. </a>"  Washington, D.C.: National Academies Press. </font></li>
+</ul>
 
+    
 <p align="center" style="font-size: 35px;">Book Chapters</p>
 
 1. **Shi, X.**, Fu, L. (2018). ["Chapter 1: Introduction to Sustainable Winter Road Maintenance."](https://doi.org/10.1002/9781119185161.ch1) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 1-6.
