@@ -224,21 +224,21 @@ permalink: /publications/
 
 <p align="center" style="font-size: 35px;">Book Chapters</p>
 
-1. **Shi, X.**, Fu, L. (2018). Chapter 1: Introduction to Sustainable Winter Road Maintenance. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 1-6.
+1. **Shi, X.**, Fu, L. (2018). ["Chapter 1: Introduction to Sustainable Winter Road Maintenance."](https://doi.org/10.1002/9781119185161.ch1) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 1-6.
    
-2.	Cui, N., Xie, N., **Shi, X.** (2018). Chapter 2: A Framework for Life-Cycle Sustainability Assessment of Road Salt Used in Winter Maintenance Operations. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 7-22.
+2.	Cui, N., Xie, N., **Shi, X.** (2018). ["Chapter 2: A Framework for Life-Cycle Sustainability Assessment of Road Salt Used in Winter Maintenance Operations."](https://doi.org/10.1002/9781119185161.ch2) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 7-22.
    
-3.	Veneziano, D., **Shi, X.**, Fay, L. (2018). Chapter 9: Economic Benefits of Winter Road Operations. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 156-179.
+3.	Veneziano, D., **Shi, X.**, Fay, L. (2018). ["Chapter 9: Economic Benefits of Winter Road Operations."](https://doi.org/10.1002/9781119185161.ch9) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 156-179.
    
-4.	**Shi, X.**, Du, S., Fay, L. (2018). Chapter 10: Environmental Risks of Snow and Ice Control Materials. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 180-210.
+4.	**Shi, X.**, Du, S., Fay, L. (2018). ["Chapter 10: Environmental Risks of Snow and Ice Control Materials."](https://doi.org/10.1002/9781119185161.ch10) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 180-210.
    
-5.	Xu, G., **Shi, X.** (2018). Chapter 11: Impact of Chemical Deicers on Roadway Infrastructure: Risks and Best Management Practices. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 211-240.
+5.	Xu, G., **Shi, X.** (2018). ["Chapter 11: Impact of Chemical Deicers on Roadway Infrastructure: Risks and Best Management Practices."](https://doi.org/10.1002/9781119185161.ch11) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 211-240.
    
-6.	Nazari, M.H., **Shi, X.** (2018). Chapter 12: Vehicle Risks of Winter Road Operations and Best Management Practices. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley- Blackwell, pp. 241-272.
+6.	Nazari, M.H., **Shi, X.** (2018). ["Chapter 12: Vehicle Risks of Winter Road Operations and Best Management Practices."]( https://doi.org/10.1002/9781119185161.ch12) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley- Blackwell, pp. 241-272.
    
-7.	Muresan, M., Kwon, T.J., Fu, L., **Shi, X.** (2018). Chapter 13: Strategic Planning and Management for Sustainable Winter Road Maintenance. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 273-308.
+7.	Muresan, M., Kwon, T.J., Fu, L., **Shi, X.** (2018). ["Chapter 13: Strategic Planning and Management for Sustainable Winter Road Maintenance."](https://doi.org/10.1002/9781119185161.ch13) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 273-308.
    
-8.	**Shi, X.**, Fu, L. (2018). Chapter 14: Source Control Tactics for Sustainable Winter Road Maintenance. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell,
+8.	**Shi, X.**, Fu, L. (2018). ["Chapter 14: Source Control Tactics for Sustainable Winter Road Maintenance."](https://doi.org/10.1002/9781119185161.ch14) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell,
 pp. 309-333.
 
 9.	**Shi, X.**, Strecker, E., Jungwirth, S. (2018). Chapter 15: Reactive Approaches for Environmentally Sustainable Winter Road Operations. In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 334-357.
