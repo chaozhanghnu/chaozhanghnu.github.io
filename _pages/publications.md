@@ -35,7 +35,7 @@ permalink: /publications/
 8. Yong Deng, Haifeng Wang, **<u>Xianming Shi</u>**. ["Physics-Guided Neural Network for Predicting Asphalt Mixture Rutting with Balanced Accuracy, Stability and Rationality."](https://doi.org/10.1016/j.neunet.2023.12.039) *Neural Networks*,2024,172,106085.
 
 
-*****
+
 
 
 <font size=5> 2023 </font>
@@ -58,7 +58,8 @@ permalink: /publications/
 
 9. Md Tanvir Ashraf, <u>Kakan Dey</u>, **Xianming Shi**, ["Impacts of Real-time Transit Information on Transit Accessibility – A Case Study."](https://doi.org/10.1016/j.jpubtr.2023.100043) *Journal of Public Transportation*, 2023, 25, 100043.
 
-*****
+
+
 
 <font size=5> 2022 </font>
 
@@ -98,7 +99,7 @@ permalink: /publications/
 
 18. Mehdi Honarvar Nazari and **Xianming Shi**. ["Deicer Corrosion of Trucks: A Case Study"](https://www.materialsperformance.com/articles/coating-linings/2022/11/deicer-corrosion-of-trucks-a-case-study) *Cement and Concrete Composites*, 2022.
 
-*****
+
 
 <font size=5> 2021 </font>
 
@@ -141,7 +142,7 @@ permalink: /publications/
 
 19.  Zhuo Tang, Zhipeng Li, Liang Fan, Jing Gong, Zhong Jing, **<u>Xianming Shi</u>**. ["Effect of Surface Tension, Foaming Stabilizer, and Graphene Oxide on the Properties of Foamed Paste."](https://doi.org/10.1166/jnn.2021.19282) *Journal of Nanoscience and Nanotechnology*, 2021, 21, 5, 3123-3133.
 
-****
+
 
 <font size=5> 2020 </font>
 
