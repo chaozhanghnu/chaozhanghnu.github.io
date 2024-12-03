@@ -255,7 +255,7 @@ pp. 309-333.
     
 15.	Jiang, Y., Xu, G., Shi, X. ["Multifunction Green Corrosion Inhibiting Admixtures for Mortar under Chloride Environment."](https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/51722456) ACI Fall Convention 2017, Anaheim, CA. ACI Special Publication, SP-03-07. 
     
-16.	Nazari, M.H., **Shi, X.** (2016). ["Polymer-based nanocomposite coatings for anticorrosion applications."](https://doi/org/10.1007/978-3-319-26893-4_18) In M. Hosseini & A. S. H. Makhlouf (Eds.), Industrial Applications for Intelligent Polymers and Coatings. New York, Philadelphia: Springer Publishing, pp. 373-399. 
+16.	Nazari, M.H., **Shi, X.** (2016). ["Polymer-based nanocomposite coatings for anticorrosion applications."](https://doi/org/10.1007/978-3-319-26893-4_18.) In M. Hosseini & A. S. H. Makhlouf (Eds.), Industrial Applications for Intelligent Polymers and Coatings. New York, Philadelphia: Springer Publishing, pp. 373-399. 
     
 17.	Xie, N., Muthumani, A., Dang, Y., **Shi, X.** (2015). ["Deicer Impacts on Concrete Bridge Decks: A Comparative Study of Field Cores from Potassium Acetate and Sodium Chloride Environments."](https:doi.org/10.1061/9780784479278.005) In S. Zhao, J. Liu & X. Zhang (Eds.), Innovative Materials and Design for Sustainable Transportation Infrastructure: pp. 42-57. ASCE Construction Institute. Special Publication.
     
