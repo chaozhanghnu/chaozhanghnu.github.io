@@ -19,6 +19,7 @@ permalink: /PI/
   <a href="https://people.miami.edu/profile/c1dd0fa3a520f2e7e212c02fe86ab12e">Department Webpage</a> |
   <a href="https://scholar.google.com/citations?user=NqPzp04AAAAJ&hl=en">Google Scholar</a> |
   <a href="https://www.linkedin.com/in/xianmingshi/">LinkedIn</a> |
+  <a href="https://orcid.org/0000-0003-3576-8952">ORCID</a> |
   <a href="https://www.researchgate.net/profile/Xianming-Shi/">Research Gate</a>
 </p>
 
