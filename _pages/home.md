@@ -34,13 +34,13 @@ permalink: /
 <p><font size=4><a href="https://lnkd.in/g8tHQ_xS"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) to be held at the Newman Alumni Center, University of Miami, Coral Gables, Florida, March 2 to 5, 2025.</a></p>
 <p><font size=4><a href="https://lnkd.in/geBF_yCZ"> Call for papers by the Journal of Infrastructure Preservation & Resilience (Springer Nature)</a></p>
     
-<p><font size=4><a href="https://www.linkedin.com/feed/update/urn:li:activity:7263661365251190784/"> Congrats to Prof. Xianming Shi and the Engineering Bombers on their 3-0 victory in the University of Miami’s intramural soccer league opener!</a></p>
+<p><font size=4>🎉Prof. Xianming Shi and the Engineering Bombers on their <a href="https://www.linkedin.com/feed/update/urn:li:activity:7263661365251190784/"> 3-0 victory in the University of Miami’s intramural soccer league opener!</a></p>
 
-<p><font size=4><a href="https://news.miami.edu/coe/stories/2024/08/construction-materials-expert-to-lead-civil-and-architectural-engineering-department.html"> Congrats to Prof. Shi on being named Chair of Civil and Architectural Engineering at the University of Miami!</a></p>
+<p><font size=4> 🎉🎉🎉Prof. Shi on being named <a href="https://news.miami.edu/coe/stories/2024/08/construction-materials-expert-to-lead-civil-and-architectural-engineering-department.html"> Chair of Civil and Architectural Engineering </a> at the University of Miami!</p>
 
-<p><font size=4><a href="https://www.linkedin.com/posts/xianmingshi_i-am-humbled-by-the-honor-of-receiving-the-activity-7194155375028232192-64Yp/"> Congratulations to Prof. Xianming Shi for humbling by the honor of receiving the Anjan Bose Outstanding Researcher Award by the Voiland College of Engineering and Architecture, Washington State University. </a></p>
+<p><font size=4> 🎉🎉 Prof. Xianming Shi for <a href="https://www.linkedin.com/posts/xianmingshi_i-am-humbled-by-the-honor-of-receiving-the-activity-7194155375028232192-64Yp/"> humbling by the honor of receiving the Anjan Bose Outstanding Researcher Award </a> by the Voiland College of Engineering and Architecture, Washington State University.</p>
     
-<p><font size=4> 🎉 Congratulations to Zhigang Zhang, Zhipeng Li, Jialuo He, Shunzhi Qian and Prof. Xianming Shi for accepting a paper titled "<a href="https://doi.org/10.1016/j.jclepro.2024.142476">Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)</a>" by Journal of Cleaner Production. -06/2024</font></p>
+<p><font size=4> 🎉 Zhigang Zhang, Zhipeng Li, Jialuo He, Shunzhi Qian and Prof. Xianming Shi for accepting a paper titled "<a href="https://doi.org/10.1016/j.jclepro.2024.142476">Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)</a>" by Journal of Cleaner Production. -06/2024</font></p>
 
 <div style="width: 300px; height: 300px;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=zLEYu_qp3LhWBE4uAnpL7JkaDmDtH8ehrQqWco6hNvw"></script>
