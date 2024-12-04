@@ -8,8 +8,7 @@ permalink: /PI/
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/xianmingshi.jpg" class="img-responsive" width="20%" style="float: right" />
 
 <h4> Xianming (Shane) Shi </h4>
-<p> Professor of Department of Civil & Architectural Engineering </p>
-<p> Department of Chair </p>
+<p> Professor & Chair of Department of Civil & Architectural Engineering </p>
 <p>Affiliated Professor, Chemical, Environmental & Materials Engineering Department</p>
 <p> Director, Sustainable Materials and Resilient Infrastructure (SMARIN) Group </p>
 <hr />
