@@ -108,52 +108,52 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 16. Lu, D., **Shi, X.**, Wong, H.S., Jiang, Z., <u>Zhong, J.</u> ["Graphene Coated Sand for Smart Cement Composites."](https://doi.org/10.1016/j.conbuildmat.2022.128313) *Construction and Building Materials*, 2022, 364, 5, 128313.
 
-17. Yan Zhang, Yong Deng, **<u>Xianming Shi</u>**. ["Model Development and Prediction of Anti-Icing Longevity of Asphalt Pavement with Salt-Storage Additive."](https://doi.org/10.1186/s43065-021-00047-w) *Journal of Infrastructure Preservation and Resilience*, 2022, 3, 1, 104366.
+17. Zhang, Y.&#42;&#42;, Deng, Y., **<u>Shi, X.</u>**, ["Model Development and Prediction of Anti-Icing Longevity of Asphalt Pavement with Salt-Storage Additive."](https://doi.org/10.1186/s43065-021-00047-w) *Journal of Infrastructure Preservation and Resilience*, 2022, 3, 1, 104366.
 
-18. Mehdi Honarvar Nazari and **Xianming Shi**. ["Deicer Corrosion of Trucks: A Case Study"](https://www.materialsperformance.com/articles/coating-linings/2022/11/deicer-corrosion-of-trucks-a-case-study) *Cement and Concrete Composites*, 2022.
+18. Nazari, M.H.&#42;&#42;, **<u>Shi, X.</u>**  ["Deicer Corrosion of Trucks: A Case Study"](https://www.materialsperformance.com/articles/coating-linings/2022/11/deicer-corrosion-of-trucks-a-case-study) *Cement and Concrete Composites*, 2022.
 
 
 
 <font size=5> 2021 </font>
 
 
-1. <u>Sen Du</u>, <u>Yong Ge</u>, **<u>Xianming Shi</u>**. ["Multi-phase Sphere Modeling of High-Volume Fly Ash Concrete: Freezing-thawing Performance."](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003813) *Journal of Materials in Civil Engineering*, 2021, 33, 7.
+1. Du, S.&#42;&#42;, Ge, Y., **<u>Shi, X.</u>**  ["Multi-phase Sphere Modeling of High-Volume Fly Ash Concrete: Freezing-thawing Performance."](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003813) *Journal of Materials in Civil Engineering*, 2021, 33, 7.
 
-2. Liang Fan, **<u>Xianming Shi</u>**. ["Techniques of Corrosion Monitoring of Steel Rebar in Reinforced Concrete Structures: A Review."](https://doi.org/10.1177/14759217211030911) *Structural Health Monitoring*, 2021, 21, 4.
+2. Fan, L., **<u>Shi, X.</u>** ["Techniques of Corrosion Monitoring of Steel Rebar in Reinforced Concrete Structures: A Review."](https://doi.org/10.1177/14759217211030911) *Structural Health Monitoring*, 2021, 21, 4.
 
-3. <u>Jialuo He</u>, **<u>Xianming Shi</u>**. ["Laboratory Assessment of a Self-healing System for Early-Age Durability Benefits to Cementitious Composites."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 44, 102602.
+3. He, J.#42;&#42;, **<u>Shi, X.</u>** ["Laboratory Assessment of a Self-healing System for Early-Age Durability Benefits to Cementitious Composites."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 44, 102602.
 
-4. Zhipeng Li, Gang Xu, **<u>Xianming Shi</u>**. ["Reactivity of Coal Fly Ash Used in Cementitious Binder Systems: A State-of-the-Art Overview."](https://doi.org/10.1016/j.fuel.2021.121031) *Fuel*, 2021, 301, 121031.
+4. Li, Z.#42;&#42;, Xu, G.#42;&#42;, **<u>Shi, X.</u>** ["Reactivity of Coal Fly Ash Used in Cementitious Binder Systems: A State-of-the-Art Overview."](https://doi.org/10.1016/j.fuel.2021.121031) *Fuel*, 2021, 301, 121031.
 
-5. <u>Zhipeng Li</u>, <u>Ming-En Fei</u>, <u>Chenxi Huyan</u>, **<u>Xianming Shi</u>**. ["Nano-Engineered, Fly Ash-Based Geopolymer Composites: An Overview."](https://doi.org/10.1016/j.resconrec.2020.105334) *Resources, Conservation and Recycling*, 2021, 168, 105334.
+5. Li, Z.#42;&#42;, Fei, M., Huyan, C., **<u>Shi, X.</u>** ["Nano-Engineered, Fly Ash-Based Geopolymer Composites: An Overview."](https://doi.org/10.1016/j.resconrec.2020.105334) *Resources, Conservation and Recycling*, 2021, 168, 105334.
 
-6. <u>Yan Zhang</u>, <u>Zhuangzhuang Liu</u>, **<u>Xianming Shi</u>**. ["Development and Use of Salt-Storage Additives in Asphalt Pavement for Anti-icing: Literature Review."](https://doi.org/10.1061/JPEODX.0000311) *Journal of Transportation Engineering, Part B: Pavements*, 2021, 147, 4.
+6. Zhang, Y.#42;&#42;, Liu, Z., **<u>Shi, X.</u>** ["Development and Use of Salt-Storage Additives in Asphalt Pavement for Anti-icing: Literature Review."](https://doi.org/10.1061/JPEODX.0000311) *Journal of Transportation Engineering, Part B: Pavements*, 2021, 147, 4.
 
-7. <u>Zhen Lei</u>, <u>Zhipeng Li</u>, <u>Xiang Zhang</u>, **<u>Xianming Shi</u>**. ["Durability of CFRP-Wrapped Concrete in Cold Regions: A Laboratory Evaluation of Montmorillonite Nanoclay-Modified Siloxane Epoxy Adhesive."](https://doi.org/10.1016/j.conbuildmat.2021.123253) *Construction and Building Materials*, 2021, 290, 123253.
+7. Lei, Z., Li, Z.#42;&#42;, Zhang, X.,**<u>Shi, X.</u>** ["Durability of CFRP-Wrapped Concrete in Cold Regions: A Laboratory Evaluation of Montmorillonite Nanoclay-Modified Siloxane Epoxy Adhesive."](https://doi.org/10.1016/j.conbuildmat.2021.123253) *Construction and Building Materials*, 2021, 290, 123253.
 
-8. Xinyu Cong, Zhen Tang, <u>Shuang Lu</u>, Yiqiu Tan, Chaohui Wang, Lei Yang, **<u>Xianming Shi</u>**. ["Effect of Rice Husk Ash Surface Modification by Silane Coupling Agents on Damping Capacity of Cement-Based."](https://doi.org/10.1016/j.conbuildmat.2021.123730) *Construction and Building Materials*, 2021, 296, 123730.
+8. Cong, X., Tang, Z., <u>Lu, S.</u>, Y. Tan, Wang, C., Wang, L., **<u>Shi, X.</u>** ["Effect of Rice Husk Ash Surface Modification by Silane Coupling Agents on Damping Capacity of Cement-Based."](https://doi.org/10.1016/j.conbuildmat.2021.123730) *Construction and Building Materials*, 2021, 296, 123730.
 
-9. Kefei Liu, Teng Li, Chaofan Wu, <u>Kang Jiang</u>, **<u>Xianming Shi</u>**. ["Bamboo Fiber Has Engineering Properties and Performance Suitable as Reinforcement for Asphalt Mixture."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 290, 123240.
+9. Liu, K., Li, T., Wu, C., <u>Jiang, K.</u>, **<u>Shi, X.</u>** ["Bamboo Fiber Has Engineering Properties and Performance Suitable as Reinforcement for Asphalt Mixture."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 290, 123240.
 
-10. Yan Zhang, **<u>Xianming Shi</u>**. ["Laboratory Evaluation of a Sustainable Additive for Anti-icing."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 44, 102602.
+10. Zhang, Y.#42;&#42;,**<u>Shi, X.</u>** ["Laboratory Evaluation of a Sustainable Additive for Anti-icing."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 44, 102602.
 
-11. Mehdi Honarvar Nazari, S. Zeinab Mousavi, Anna Potapva, Jenifer Mclntyre, **<u>Xianming Shi</u>**. ["Toxicological Impacts of Roadway Deicers on Aquatic Resources and Human Health: A Review."](https://doi.org/10.1002/wer.1581) *Water Environment Federation*, 2021.
+11. Nazari, M.H.#42;&#42;, Mousavi, S.Z., Potapova, A.#42;&#42;, McIntyre, J., **<u>Shi, X.</u>** ["Toxicological Impacts of Roadway Deicers on Aquatic Resources and Human Health: A Review."](https://doi.org/10.1002/wer.1581) *Water Environment Federation*, 2021.
 
-12. ZHipeng Li, Yudong Dang, Zhen Tang, Ning Xie, <u>SHuang Lu</u>, **<u>Xianming Shi</u>**. ["Optimal Overlays for Preservation of Concrete in Cold Climate: Decision Making by the Method of Fuzzy Comprehensive Evaluation Combined with AHP."](https://doi.org/10.1186/s43065-021-00046-x) *Journal of Infrastructure Preservation and Resilience*, 2021, 2, 31.
+12. Li, Z.#42;&#42;, Dang, Y., Tang, Z., Xie, N., <u>Lu, S.</u>, **<u>Shi, X.</u>** ["Optimal Overlays for Preservation of Concrete in Cold Climate: Decision Making by the Method of Fuzzy Comprehensive Evaluation Combined with AHP."](https://doi.org/10.1186/s43065-021-00046-x) *Journal of Infrastructure Preservation and Resilience*, 2021, 2, 31.
 
-13. <u>Ali Mahmoodi</u>, Ayda Dadras, Zahra Jiryaei, <u>Manouchehr Khorasani</u>, and **Xianming Shi**. ["A Yellow Lead-Free Pavement Marking Paint Based on Hybrid Dye-Clay Nanopigment: Morphological, Thermomechanical, and Photophysical Properties."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 9, 48, 16466-16473.
+13. <u>Mahmoodi, A.</u>, Dadras, A., Jiryaie, Z., <u>Khorasani, M.</u>, **Shi, X.**  ["A Yellow Lead-Free Pavement Marking Paint Based on Hybrid Dye-Clay Nanopigment: Morphological, Thermomechanical, and Photophysical Properties."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 9, 48, 16466-16473.
 
-14. <u>Ali Mahmoodi</u>, Ayda Dadras, Zahra Jiryaei, <u>Manouchehr Khorasani</u>, and **Xianming Shi**. ["A Hybrid Yellow Nanopigment as an Environmentally Sound Alternative to Lead Chromate Pigment in Pavement Markings."](https://doi.org/10.1016/j.jclepro.2021.128733) *Journal of Cleaner Production*, 2021, 319, 128733.
+14. <u>Mahmoodi, A.</u>, Jiryaie, Z., Dadras, A., <u>Khorasani, M.</u>, **Shi, X.**  ["A Hybrid Yellow Nanopigment as an Environmentally Sound Alternative to Lead Chromate Pigment in Pavement Markings."](https://doi.org/10.1016/j.jclepro.2021.128733) *Journal of Cleaner Production*, 2021, 319, 128733.
 
-15. Sen Du, Michelle Akin, Dave Bergner, Gang Xu, and **<u>Xianming Shi</u>**. ["Material Application Methodologies for Winter Road Maintenance Operations: A Renewed Perspective."](https://doi.org/10.1139/cjce-2019-0465) *Canadian Journal of Civil Engineering*, 2021.
+15. Du, S.#42;&#42;, Akin, M., Bergner, D., Xu, G.#42;&#42;, **<u>Shi, X.</u>** ["Material Application Methodologies for Winter Road Maintenance Operations: A Renewed Perspective."](https://doi.org/10.1139/cjce-2019-0465) *Canadian Journal of Civil Engineering*, 2021.
 
-16. Yaqin He, Michelle Akin, Qing Yang, **<u>Xianming Shi</u>**. ["Conceptualizing How Agencies Could Leverage Weather- related Connected Vehicle Application to Enhance Winter Road Services."](https://doi.org/10.1061/(ASCE)CR.1943-5495.0000258) *Journal of Cold Regions Engineering*, 2021, 35, 3.
+16. He, Y., Akin, M., Yang, Q., **<u>Shi, X.</u>** ["Conceptualizing How Agencies Could Leverage Weather- related Connected Vehicle Application to Enhance Winter Road Services."](https://doi.org/10.1061/(ASCE)CR.1943-5495.0000258) *Journal of Cold Regions Engineering*, 2021, 35, 3.
 
-17. <u>Yan Qi</u>, Mark Cornwell, **<u>Xianming Shi</u>**. ["Field Test of Living Snow Fences along Illinois Freeways."](https://doi.org/10.1061/(ASCE)CR.1943-5495.0000263) *Journal of Cold Regions Engineering*, 2021, 35, 4.
+17. <u>Qi, Y.</u>, Cornwell, M., **Shi, X.** ["Field Test of Living Snow Fences along Illinois Freeways."](https://doi.org/10.1061/(ASCE)CR.1943-5495.0000263) *Journal of Cold Regions Engineering*, 2021, 35, 4.
 
-18. Sen Du, QingXin Zhao, **<u>Xianming Shi</u>**. ["High-Volume Fly Ash Based Cementitious Composites as Sustainable Materials: A Review of Recent Advances."]( https://doi.org/10.1155/2021/4976169) *Advances in Civil Engineering*, 2021.
+18. Du, S.#42;&#42;, Zhao, Q., **<u>Shi, X.</u>** ["High-Volume Fly Ash Based Cementitious Composites as Sustainable Materials: A Review of Recent Advances."]( https://doi.org/10.1155/2021/4976169) *Advances in Civil Engineering*, 2021.
 
-19.  Zhuo Tang, Zhipeng Li, Liang Fan, Jing Gong, Zhong Jing, **<u>Xianming Shi</u>**. ["Effect of Surface Tension, Foaming Stabilizer, and Graphene Oxide on the Properties of Foamed Paste."](https://doi.org/10.1166/jnn.2021.19282) *Journal of Nanoscience and Nanotechnology*, 2021, 21, 5, 3123-3133.
+19.  Tang, Z., Li, Z.#42;&#42;, Fan, L., <u>Gong, J.</u>, Zhong, J., **<u>Shi, X.</u>** ["Effect of Surface Tension, Foaming Stabilizer, and Graphene Oxide on the Properties of Foamed Paste."](https://doi.org/10.1166/jnn.2021.19282) *Journal of Nanoscience and Nanotechnology*, 2021, 21, 5, 3123-3133.
 
 
 
