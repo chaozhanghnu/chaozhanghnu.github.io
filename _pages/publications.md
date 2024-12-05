@@ -135,7 +135,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 9. Liu, K., Li, T., Wu, C., <u>Jiang, K.</u>, **<u>Shi, X.</u>** ["Bamboo Fiber Has Engineering Properties and Performance Suitable as Reinforcement for Asphalt Mixture."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 290, 123240.
 
-10. Zhang, Y.&#42;&#42;,**<u>Shi, X.</u>** ["Laboratory Evaluation of a Sustainable Additive for Anti-icing."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 44, 102602.
+10. Zhang, Y.&#42;&#42;, **<u>Shi, X.</u>** ["Laboratory Evaluation of a Sustainable Additive for Anti-icing."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 44, 102602.
 
 11. Nazari, M.H.&#42;&#42;, Mousavi, S.Z., Potapova, A.#42;&#42;, McIntyre, J., **<u>Shi, X.</u>** ["Toxicological Impacts of Roadway Deicers on Aquatic Resources and Human Health: A Review."](https://doi.org/10.1002/wer.1581) *Water Environment Federation*, 2021.
 
