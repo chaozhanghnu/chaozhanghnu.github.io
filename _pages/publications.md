@@ -44,48 +44,47 @@ Double asterisks (&#42;&#42;) represent a graduate student.
    
 6. Fan, L., Li, Z.&#42;&#42;, Du, S.&#42;&#42;, **<u>Shi, X.</u>** ["Beetroot Juice Additive in Chloride Brines Reduces the Damage of Portland Cement Concrete Exposed to Freeze/Thaw Cycles."](https://doi.org/10.1061/JMCEE7.MTENG-1637) *Journal of Materials in Civil Engineering*, 2024, 36(2).
    
-7. Deng, Y., **<u>Shi X.</u>**.["Short-Term Prediction of Short-term Asphalt Pavement Rutting Using Deep Learning Models."](https://doi.org/10.1061/JPEODX.PVENG-1409) *ASCE Journal of Transportation Engineering Part B: Pavements*,2024,150(2).
+7. Deng, Y., **<u>Shi X.</u>** ["Short-Term Prediction of Short-term Asphalt Pavement Rutting Using Deep Learning Models."](https://doi.org/10.1061/JPEODX.PVENG-1409) *ASCE Journal of Transportation Engineering Part B: Pavements*,2024,150(2).
    
-8. Deng Y., <U>Wang, H.</U>, **<u>Xianming Shi</u>**. ["Physics-Guided Neural Network for Predicting Asphalt Mixture Rutting with Balanced Accuracy, Stability and Rationality."](https://doi.org/10.1016/j.neunet.2023.12.039) *Neural Networks*,2024,172,106085.
-
+8. Deng Y., <U>Wang, H.</U>, **<u>Shi X.</u>** ["Physics-Guided Neural Network for Predicting Asphalt Mixture Rutting with Balanced Accuracy, Stability and Rationality."](https://doi.org/10.1016/j.neunet.2023.12.039) *Neural Networks*,2024,172,106085.
 
 
 
 
 <font size=5> 2023 </font>
 
-1. <u>Sen Du</u>, <u>Qingxin Zhao</u>, **<u>Xianming Shi</u>**, ["Quantification of the reaction degree of fly ash in blended cement systems."](https://doi.org/10.1016/j.cemconres.2023.107121). *Cement and Concrete Research* 2023, 167.
+1. Du, S.&#42;&#42, Zhao, Q., **<u>Shi X.</u>** ["Quantification of the reaction degree of fly ash in blended cement systems."](https://doi.org/10.1016/j.cemconres.2023.107121). *Cement and Concrete Research* 2023, 167.
 
-2. Zhigang Zhang, Zhipeng Li, Jialuo He, **<u>Xianming Shi</u>**, ["High-Strength Engineered Cementitious Composites with Nanosilica Incorporated: Mechanical Performance and Autogenous Self-Healing Behavior."](https://doi.org/10.1016/j.cemconcomp.2022.104837) *Cement and Concrete Composites*, 2023,135:104837.
+2. Zhang, Z., Li, Z.&#42;&#42, He, J., **<u>Shi X.</u>** ["High-Strength Engineered Cementitious Composites with Nanosilica Incorporated: Mechanical Performance and Autogenous Self-Healing Behavior."](https://doi.org/10.1016/j.cemconcomp.2022.104837) *Cement and Concrete Composites*, 2023,135:104837.
 
-3. Zhipeng Li, **<u>Xianming Shi</u>**, ["Towards Sustainable Industrial Applications of Carbon-Negative Concrete: Synergistic Carbon-Capture by Concrete Washout Water and Biochar."](https://doi.org/10.1016/j.matlet.2023.134368) *Materials Letters*, 2023,342:134368.
+3. Li, Z.&#42;&#42, **<u>Shi X.</u>** ["Towards Sustainable Industrial Applications of Carbon-Negative Concrete: Synergistic Carbon-Capture by Concrete Washout Water and Biochar."](https://doi.org/10.1016/j.matlet.2023.134368) *Materials Letters*, 2023,342:134368.
 
-4. Chuang Chen, Yong Deng, Mengyan Li, **<u>Xianming Shi</u>**, ["Investigation of Key Climatic Factors Affecting Asphalt Pavement Roughness in Different Climate Regions."](https://doi.org/10.1016/j.trd.2023.103877) *Transportation Research Part D: Transport and Environment*, 2023,22:1043877.
+4. Chen, C.&#42;&#42, <u>Deng, Y.</u>, Li, M., **<u>Shi X.</u>** ["Investigation of Key Climatic Factors Affecting Asphalt Pavement Roughness in Different Climate Regions."](https://doi.org/10.1016/j.trd.2023.103877) *Transportation Research Part D: Transport and Environment*, 2023,22:1043877.
 
-5. Yong Deng,**<u>Xianming Shi</u>**, ["Modeling the Rutting Performance of Asphalt Pavements: A Review."](https://doi.org/10.1186/s43065-023-00082-9) *Journal of Infrastruct Preserv Resil*, 2023,4,17.
+5.  Deng, Y., **<u>Shi X.</u>** ["Modeling the Rutting Performance of Asphalt Pavements: A Review."](https://doi.org/10.1186/s43065-023-00082-9) *Journal of Infrastruct Preserv Resil*, 2023,4,17.
 
-6. Yong Deng, <u>Yazhou Zhang</u>, **<u>Xianming Shi</u>**, ["Feasibility of Determining Asphalt Pavement Condition from Falling Weight Deflectometer Test and Finite Element Model Updating."](https://doi.org/10.1098/rsta.2022.0168) *Philosophical Transactions of the Royal Society A*, 2023.
+6. Deng, Y., <u>Zhang, Y.</u>, **<u>Shi X.</u>** ["Feasibility of Determining Asphalt Pavement Condition from Falling Weight Deflectometer Test and Finite Element Model Updating."](https://doi.org/10.1098/rsta.2022.0168) *Philosophical Transactions of the Royal Society A*, 2023.
 
-7. Lichao Feng, Yongran Zhang, Xioawei Wang, Stephene Mery, Michelle Akin, Mengchao Li, Ning Xie, <u>Zhengming Li</u>, **<u>Xianming Shi</u>**, ["Impact of Deicing salts on Pervious Concrete Pavement."](https://doi.org/10.3389/fmats.2023.1189114) *Frontiers in Materials*, 2023,10, 229.
+7. Feng, L., Zhang, Y., Wang, X., Mery, S., Akin, M., Li, M., Xie, N., <u>Li, Z.</u>, **<u>Shi X.</u>** ["Impact of Deicing salts on Pervious Concrete Pavement."](https://doi.org/10.3389/fmats.2023.1189114) *Frontiers in Materials*, 2023,10, 229.
 
-8. Willis, O., Zhang, Y., Reed, C., **<u>Xianming Shi</u>**, ["Outreach Program for Middle and High School Students to Promote Transportation Engineering."](https://www.ijee.ie/contents/c390423.html) *International Journal of Engineering Education*, 2023,39, 4.
+8. Willis, O., Zhang, Y., Reed, C., **<u>Shi X.</u>** ["Outreach Program for Middle and High School Students to Promote Transportation Engineering."](https://www.ijee.ie/contents/c390423.html) *International Journal of Engineering Education*, 2023,39, 4.
 
-9. Md Tanvir Ashraf, <u>Kakan Dey</u>, **Xianming Shi**, ["Impacts of Real-time Transit Information on Transit Accessibility – A Case Study."](https://doi.org/10.1016/j.jpubtr.2023.100043) *Journal of Public Transportation*, 2023, 25, 100043.
+9. Ashraf, Md. T., <u>Dey, K.</u>, Carrola, A., **<u>Shi X.</u>** ["Impacts of Real-time Transit Information on Transit Accessibility – A Case Study."](https://doi.org/10.1016/j.jpubtr.2023.100043) *Journal of Public Transportation*, 2023, 25, 100043.
 
 
 
 
 <font size=5> 2022 </font>
 
-1. Yong Deng, **<u>Xianming Shi</u>**. ["Development of Predictive Models of Asphalt Pavement Distresses in Idaho through Gene Expression Programming.."](https://doi.org/10.1007/s00521-022-07305-2) *Neural Computing & Applications*, 2022,1-18.
+1. Deng, Y., **<u>Shi X.</u>** ["Development of Predictive Models of Asphalt Pavement Distresses in Idaho through Gene Expression Programming.."](https://doi.org/10.1007/s00521-022-07305-2) *Neural Computing & Applications*, 2022,1-18.
 
-2. Yong Deng, **<u>Xianming Shi</u>**. ["Reproducible and Robust Model to Predict the Rutting of Asphalt Pavement: Neural Networks Coupled with Particle Swarm Optimization."](https://doi.org/10.1109/TITS.2022.3149268) *IEEE Transactions on Intelligent Transportation Systems*, 2022,23,11, 22063-22072.
+2. Deng, Y., **<u>Shi X.</u>** ["Reproducible and Robust Model to Predict the Rutting of Asphalt Pavement: Neural Networks Coupled with Particle Swarm Optimization."](https://doi.org/10.1109/TITS.2022.3149268) *IEEE Transactions on Intelligent Transportation Systems*, 2022,23,11, 22063-22072.
 
-3. Qiang Mao, Yicong Li, Kuizhou Liu, <u>Hui Peng</u>, **<u>Xianming Shi</u>**. ["Mechanism, Characterization and Factors of Reaction between Basalt and Alkali: Exploratory Investigation for Potential Application in Geopolymer Concrete."](https://doi.org/10.1016/j.cemconcomp.2022.104526) *Cement and Concrete Composites*, 2022, 130, 104526.
+3. Mao, Q., Li, Y., Liu, K., <u>Peng, H.</u>, **<u>Shi X.</u>** ["Mechanism, Characterization and Factors of Reaction between Basalt and Alkali: Exploratory Investigation for Potential Application in Geopolymer Concrete."](https://doi.org/10.1016/j.cemconcomp.2022.104526) *Cement and Concrete Composites*, 2022, 130, 104526.
 
-4. Dong Lu, **Xianming Shi**, <u>Jing Zhong</u>. ["Interfacial Bonding Between Graphene Oxide Coated Carbon Nanotube Fiber and Cement Paste Matrix."](https://doi.org/10.1016/j.cemconcomp.2022.104802) *Cement and Concrete Composites*, 2022, 134, 104802.
+4. Lu, D., **<u>Shi X.</u>**, <u>Zhong, J.</u> ["Interfacial Bonding Between Graphene Oxide Coated Carbon Nanotube Fiber and Cement Paste Matrix."](https://doi.org/10.1016/j.cemconcomp.2022.104802) *Cement and Concrete Composites*, 2022, 134, 104802.
 
-5. Dong Lu, **Xianming Shi**, <u>Jing Zhong</u>. ["Understanding the Role of Unzipped Carbon Nanotubes in Cement pastes."](https://doi.org/10.1016/j.cemconcomp.2021.104366) *Cement and Concrete Composites*, 2022, 126, 104366.
+5. Lu, D., **<u>Shi X.</u>**, <u>Zhong, J.</u> ["Understanding the Role of Unzipped Carbon Nanotubes in Cement pastes."](https://doi.org/10.1016/j.cemconcomp.2021.104366) *Cement and Concrete Composites*, 2022, 126, 104366. <span style="color:orange;">Top 1% Highly Cited Paper</span>
 
 6. Xiaonan Wang, Decheng Feng, **<u>Xianming Shi</u>**,<u>Jing Zhong</u>, <u>Jing Zhong</u>. ["Carbon Nanotubes Do Not Provide Strong Seeding Effect for the Nucleation of C3S Hydration."](https://doi.org/10.1617/s11527-022-02008-5) *Materials and Structures*, 2022, 126.
 
