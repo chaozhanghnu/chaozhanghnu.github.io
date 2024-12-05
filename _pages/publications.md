@@ -129,7 +129,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 6. Zhang, Y.&#42;&#42;, Liu, Z., **<u>Shi, X.</u>** ["Development and Use of Salt-Storage Additives in Asphalt Pavement for Anti-icing: Literature Review."](https://doi.org/10.1061/JPEODX.0000311) *Journal of Transportation Engineering, Part B: Pavements*, 2021, 147, 4.
 
-7. Lei, Z., Li, Z.&#42;&#42;, Zhang, X.,**<u>Shi, X.</u>** ["Durability of CFRP-Wrapped Concrete in Cold Regions: A Laboratory Evaluation of Montmorillonite Nanoclay-Modified Siloxane Epoxy Adhesive."](https://doi.org/10.1016/j.conbuildmat.2021.123253) *Construction and Building Materials*, 2021, 290, 123253.
+7. Lei, Z., Li, Z.&#42;&#42;, Zhang, X., **<u>Shi, X.</u>** ["Durability of CFRP-Wrapped Concrete in Cold Regions: A Laboratory Evaluation of Montmorillonite Nanoclay-Modified Siloxane Epoxy Adhesive."](https://doi.org/10.1016/j.conbuildmat.2021.123253) *Construction and Building Materials*, 2021, 290, 123253.
 
 8. Cong, X., Tang, Z., <u>Lu, S.</u>, Y. Tan, Wang, C., Wang, L., **<u>Shi, X.</u>** ["Effect of Rice Husk Ash Surface Modification by Silane Coupling Agents on Damping Capacity of Cement-Based."](https://doi.org/10.1016/j.conbuildmat.2021.123730) *Construction and Building Materials*, 2021, 296, 123730.
 
