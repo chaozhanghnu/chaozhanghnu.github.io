@@ -9,7 +9,7 @@ permalink: /pictures/
 
 
 <h5>2025 The 1st Symposiums on Climate-Smart Infrastructure Innovations &Implementation (CSI3) </h5>
-<p><font size=4>💡 <a href="https://tridurle.wsu.edu/tridurle-university-of-miami-symposium-2025/"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) 🌍 </a>to be held at the Newman Alumni Center, University of Miami 🙌, Coral Gables, Florida, March 2 to 5, 2025.</p>
+<p><font size=4>2025 <a href="https://tridurle.wsu.edu/tridurle-university-of-miami-symposium-2025/"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) </a></p>
 <img src="https://SMARIN-LAB.github.io/images/slides-lq/CSI3conference.jpg" width="65%">
 <hr />
 
