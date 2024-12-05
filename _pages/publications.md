@@ -25,13 +25,13 @@ Double asterisks (**) represent a graduate student.
 
 <font size=5> *In Review* </font>
 1. Li, Z.**, Lei, Z., Mislang, J.B.B., Zhang, G., **<u>Shi, X.</u>** Nano-Modified Fly Ash-Based Geopolymer Concrete Filled CFRP Tube Composite: Mechanical Model and Life Cycle Assessment. *Transportation Research Record*, 2024.
-   
+
 2. Lei, Z., Ran, H., Li, Z., **<u>Shi, X.</u>** Synergistic Effect of Nano-TiO2 and Organic Montmorillonite Modification of Epoxy Resin on the CFRP/Concrete Interfacial Characteristics. *Journal of Composites for Construction*, 2024.
    
 3. Lei, Z., Xiao, T., Yang, C., Li, Z., **<u>Shi, X.</u>** Improving the Performance of CFRP-Reinforced Concrete Cylinders in Sulfate-Laden Environment through Nanoclay Modification of Epoxy Resin. *Construction and Building Materials*, 2024.
 
 <font size=5> 2024 </font>
-1. Zhigang Zhang, Zhipeng Li., Jialuo He, Shunzhi Qian, **<u>Xianming Shi</u>**,["Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)."](https://doi.org/10.1016/j.jclepro.2024.142476)  *Journal of Cleaner Production* 457, (2024): 142476.
+1.Zhang, Z., Li, Z.**, He, J., Qian, S., **<u>Xianming Shi</u>**,["Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)."](https://doi.org/10.1016/j.jclepro.2024.142476)  *Journal of Cleaner Production* 457, (2024): 142476.
    
 2. Jing Gong, Yi Qian, <u>Ziyang Xu</u>, Chaoqian Chen, Yijing Jin, Junze Zhang, Zhipeng Li, and **<u>Xianming Shi</u>**. ["Effect of Graphene Oxide on the Properties of Ternary Limestone Clay Cement (LCC) Paste."](https://doi.org/10.1515/ntrev-2023-0222) *Nanotechnology Reviews*, (2024), in press.
    
