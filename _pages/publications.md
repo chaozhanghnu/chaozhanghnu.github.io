@@ -13,7 +13,7 @@ permalink: /publications/
 
 ******
 
-<p align="center" style="font-size: 35px;">Publications📝 </p>
+<p align="center" style="font-size: 35px;"> Selected Journal Articles📝 </p>
 
 <p>
  <a href="https://scholar.google.com/citations?user=NqPzp04AAAAJ&hl=en">Google Scholar</a>: 14254 citations; H-index of 58; Web of Science: 6,985 citations; H-index of 42; Web of Science citations/paper: 40.
@@ -23,7 +23,12 @@ Double asterisks (**) represent a graduate student.
 **underlined** represents the corresponding author.
 </p>
 
-
+<font size=5> *In Review* </font>
+1. Li, Z.**, Lei, Z., Mislang, J.B.B., Zhang, G., **Shi, X.** ["Nano-Modified Fly Ash-Based Geopolymer Concrete Filled CFRP Tube Composite: Mechanical Model and Life Cycle Assessment."] **Transportation Research Record**, 2024.
+   
+2. Lei, Z., Ran, H., Li, Z., **Shi, X.** ["Synergistic Effect of Nano-TiO2 and Organic Montmorillonite Modification of Epoxy Resin on the CFRP/Concrete Interfacial Characteristics."] *Journal of Composites for Construction*, 2024.
+   
+3. Lei, Z., Xiao, T., Yang, C., Li, Z., **Shi, X.** ["Improving the Performance of CFRP-Reinforced Concrete Cylinders in Sulfate-Laden Environment through Nanoclay Modification of Epoxy Resin."] *Construction and Building Materials*, 2024.
 
 <font size=5> 2024 </font>
 1. Zhigang Zhang, Zhipeng Li., Jialuo He, Shunzhi Qian, **<u>Xianming Shi</u>**,["Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)."](https://doi.org/10.1016/j.jclepro.2024.142476)  *Journal of Cleaner Production* 457, (2024): 142476.
