@@ -86,27 +86,27 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 5. Lu, D., **<u>Shi X.</u>**, <u>Zhong, J.</u> ["Understanding the Role of Unzipped Carbon Nanotubes in Cement pastes."](https://doi.org/10.1016/j.cemconcomp.2021.104366) *Cement and Concrete Composites*, 2022, 126, 104366. <span style="color:orange;">Top 1% Highly Cited Paper</span> 
 
-6. Xiaonan Wang, Decheng Feng, **<u>Xianming Shi</u>**,<u>Jing Zhong</u>, <u>Jing Zhong</u>. ["Carbon Nanotubes Do Not Provide Strong Seeding Effect for the Nucleation of C3S Hydration."](https://doi.org/10.1617/s11527-022-02008-5) *Materials and Structures*, 2022, 126.
+6. Wang, X., Feng, D., **<u>Shi X.</u>**, <u>Zhong, J.</u> ["Carbon Nanotubes Do Not Provide Strong Seeding Effect for the Nucleation of C3S Hydration."](https://doi.org/10.1617/s11527-022-02008-5) *Materials and Structures*, 2022, 126.
 
-7. Xiaonan Wang, <u>Decheng Feng</u>, <u>Jing Zhong</u>, **Xianming Shi**, ["Reinforcement of Cement Paste by Reduced Graphene Oxide: Effect of Dispersion State."](https://doi.org/10.1617/s11527-021-01826-3) *Materials and Structures*, 2022, 55, 25.
+7. Wang, X., Feng, D., <u>Zhong, J.</u>, **<u>Shi X.</u>** ["Reinforcement of Cement Paste by Reduced Graphene Oxide: Effect of Dispersion State."](https://doi.org/10.1617/s11527-021-01826-3) *Materials and Structures*, 2022, 55, 25.
 
-8. <u>Zhipeng Li</u>, **<u>Xianming Shi</u>**. ["Effects of Nanomaterials on Engineering Performance of a Potassium Methyl Siliconate-Based Sealer for Cementitious Composite."](https://doi.org/10.1061/(ASCE)MT.1943-5533.0004148) *Journal of Materials in Civil Engineering*, 2022, 34, 4.
+8. Li, Z.&#42;&#42;, **<u>Shi X.</u>** ["Effects of Nanomaterials on Engineering Performance of a Potassium Methyl Siliconate-Based Sealer for Cementitious Composite."](https://doi.org/10.1061/(ASCE)MT.1943-5533.0004148) *Journal of Materials in Civil Engineering*, 2022, 34, 4.
 
-9. <u>Hui Peng</u>, <u>Yiwei Yang</u>, <u>Yaping Ge</u>, <u>Yicong Li</u>, **<u>Xianming Shi</u>**. ["Metakaolin-Based Geopolymer Features Different Pore Structure Characteristics from Ordinary Portland Cement Paste: A Mechanistic Study."](https://doi.org/10.1061/(ASCE)MT.1943-5533.0004485) *Journal of Materials in Civil Engineering*, 2022, 34, 12.
+9. Peng, H., Yang, Y., Ge, Y., Li, Y., **<u>Shi X.</u>** ["Metakaolin-Based Geopolymer Features Different Pore Structure Characteristics from Ordinary Portland Cement Paste: A Mechanistic Study."](https://doi.org/10.1061/(ASCE)MT.1943-5533.0004485) *Journal of Materials in Civil Engineering*, 2022, 34, 12.
 
-10. Mehdi Honarvar Nazari, Yan Zhang, Ali Mahmoodi, Gang Xu, Jiang Yu, Junliang Wu, **<u>Xianming Shi</u>**. ["Nanocomposite Organic Coatings for Corrosion Protection of Metals: A Review of Recent Advances."](https://doi.org/10.1016/j.porgcoat.2021.106573) *Progress in Organic Coatings*, 2022, 162, 106573.
+10. Nazari, M.H.&#42;&#42;, Zhang, Y.&#42;&#42;, Mahmoodi, A., Xu G.&#42;&#42;, Yu J.&#42;&#42;, Wu J.&#42;&#42;, and **<u>Shi X.</u>** ["Nanocomposite Organic Coatings for Corrosion Protection of Metals: A Review of Recent Advances."](https://doi.org/10.1016/j.porgcoat.2021.106573) *Progress in Organic Coatings*, 2022, 162, 106573.
 
-11. Zhipeng Li, Zhigang Zhang, Ming-en Fei, **<u>Xianming Shi</u>**, <u>Jing Zhong</u>. ["Upcycling Waster Mask PP Microfibers in Portland Cement Paste: Surface Treatment by Graphene Oxide."](https://doi.org/10.1016/j.matlet.2022.132238) *Materials Letters*, 2022, 318, 132238.
+11. Li, Z.&#42;&#42;, Zhang, Z., Fei, M., **<u>Shi X.</u>** ["Upcycling Waster Mask PP Microfibers in Portland Cement Paste: Surface Treatment by Graphene Oxide."](https://doi.org/10.1016/j.matlet.2022.132238) *Materials Letters*, 2022, 318, 132238.
 
-12. Xiaonan Wang, Decheng Feng, **<u>Xianming Shi</u>**, <u>Jing Zhong</u>. ["Comparative Study of Mechanical Strengths of Cement Pastes Incorporating Carbon Nanomaterials with Distinct Surface Chemistry and Morphology."](https://doi.org/10.1016/j.matlet.2022.132198) *Materials Letters*, 2022, 318, 132198.
+12. Wang, X., Feng, D., **<u>Shi X.</u>**, <u>Zhong, J.</u> ["Comparative Study of Mechanical Strengths of Cement Pastes Incorporating Carbon Nanomaterials with Distinct Surface Chemistry and Morphology."](https://doi.org/10.1016/j.matlet.2022.132198) *Materials Letters*, 2022, 318, 132198.
 
-13. <u>Jing Gong</u>, <u>Lili Yu</u>, <u>Zhipeng Li</u>, **<u>Xianming Shi</u>**. ["Mechanical Activation Improves Reactivity and Reduces Leaching of MSWI Bottom Ash in a Cement Hydration System."](https://doi.org/10.1016/j.jclepro.2022.132533) *Journal of Cleaner Production*, 2022, 363, 132533.
+13. Gong, J., Yu, L., Li, Z.&#42;&#42;, **Shi, X.** ["Mechanical Activation Improves Reactivity and Reduces Leaching of MSWI Bottom Ash in a Cement Hydration System."](https://doi.org/10.1016/j.jclepro.2022.132533) *Journal of Cleaner Production*, 2022, 363, 132533.
 
-14. Dong Lu, **Xianming Shi**, <u>Jing Zhong</u>. ["Interfacial Nano-Engineering by Graphene Oxide to Enable Better Utilization of Silica Fume in Cementitious Composite."](https://doi.org/10.1016/j.jclepro.2022.131381) *Journal of Cleaner Production*, 2022, 354, 131381.
+14. Lu, D., **Shi, X.**, <u>Zhong, J.</u> ["Interfacial Nano-Engineering by Graphene Oxide to Enable Better Utilization of Silica Fume in Cementitious Composite."](https://doi.org/10.1016/j.jclepro.2022.131381) *Journal of Cleaner Production*, 2022, 354, 131381.
 
-15. Dong Lu, **Xianming Shi**, <u>Jing Zhong</u>. ["Nano-engineering the Interfacial Transition Zone in Cement Composites with Graphene Oxide."](https://doi.org/10.1016/j.conbuildmat.2022.129284) *Construction and Building Materials*, 2022, 356, 129284.
+15. Lu, D., **Shi, X.**, <u>Zhong, J.</u> ["Nano-engineering the Interfacial Transition Zone in Cement Composites with Graphene Oxide."](https://doi.org/10.1016/j.conbuildmat.2022.129284) *Construction and Building Materials*, 2022, 356, 129284.
 
-16. Dong Lu, **Xianming Shi**, Hong S. Wong, Zhenliang Jiang, <u>Jing Zhong</u>. ["Graphene Coated Sand for Smart Cement Composites."](https://doi.org/10.1016/j.conbuildmat.2022.128313) *Construction and Building Materials*, 2022, 364, 5, 128313.
+16. Lu, D., **Shi, X.**, Wong, H.S., Jiang, Z., <u>Zhong, J.</u> ["Graphene Coated Sand for Smart Cement Composites."](https://doi.org/10.1016/j.conbuildmat.2022.128313) *Construction and Building Materials*, 2022, 364, 5, 128313.
 
 17. Yan Zhang, Yong Deng, **<u>Xianming Shi</u>**. ["Model Development and Prediction of Anti-Icing Longevity of Asphalt Pavement with Salt-Storage Additive."](https://doi.org/10.1186/s43065-021-00047-w) *Journal of Infrastructure Preservation and Resilience*, 2022, 3, 1, 104366.
 
