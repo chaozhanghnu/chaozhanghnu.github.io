@@ -7,13 +7,13 @@ permalink: /publications/
 ---
 
 <p align="center" style="font-size: 18px;">
-    Publication | Selected Presentations and Technical Reports | Books
+    Publications | Selected Presentations and Technical Reports | Books
 </p>
 
 
 ******
 
-<p align="center" style="font-size: 35px;">Publication</p>
+<p align="center" style="font-size: 35px;">Publications</p>
 
 <p>
  <a href="https://scholar.google.com/citations?user=NqPzp04AAAAJ&hl=en">Google Scholar</a>: 14254 citations; H-index of 58; Web of Science: 6,985 citations; H-index of 42; Web of Science citations/paper: 40.
