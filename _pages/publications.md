@@ -44,9 +44,9 @@ Double asterisks (**) represent a graduate student.
    
 6. Fan, L., Li, Z.&#42;&#42;, Du, S.&#42;&#42;, **<u>Shi, X.</u>** ["Beetroot Juice Additive in Chloride Brines Reduces the Damage of Portland Cement Concrete Exposed to Freeze/Thaw Cycles."](https://doi.org/10.1061/JMCEE7.MTENG-1637) *Journal of Materials in Civil Engineering*, 2024, 36(2).
    
-7. Yong Deng, **<u>Xianming Shi</u>**.["Short-Term Prediction of Short-term Asphalt Pavement Rutting Using Deep Learning Models."](https://doi.org/10.1061/JPEODX.PVENG-1409) *ASCE Journal of Transportation Engineering Part B: Pavements*,2024,150(2).
+7. Deng, Y., **<u>Shi X.</u>**.["Short-Term Prediction of Short-term Asphalt Pavement Rutting Using Deep Learning Models."](https://doi.org/10.1061/JPEODX.PVENG-1409) *ASCE Journal of Transportation Engineering Part B: Pavements*,2024,150(2).
    
-8. Yong Deng, Haifeng Wang, **<u>Xianming Shi</u>**. ["Physics-Guided Neural Network for Predicting Asphalt Mixture Rutting with Balanced Accuracy, Stability and Rationality."](https://doi.org/10.1016/j.neunet.2023.12.039) *Neural Networks*,2024,172,106085.
+8. Deng Y., <U>Wang, H.</U>, **<u>Xianming Shi</u>**. ["Physics-Guided Neural Network for Predicting Asphalt Mixture Rutting with Balanced Accuracy, Stability and Rationality."](https://doi.org/10.1016/j.neunet.2023.12.039) *Neural Networks*,2024,172,106085.
 
 
 
