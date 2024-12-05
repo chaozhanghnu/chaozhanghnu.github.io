@@ -26,10 +26,10 @@ permalink: /PI/
 
 
 <h4> Education </h4>
-<p> Ph.D., Polymer Chemistry, 1999 – Chinese Academy of Sciences, Beijing, China</p>
-<p> M.S., Industrial & Management Engineering, 2002 – Montana State University, Bozeman, MT</p>
-<p> M.S., Applied Chemistry, 1996 – Tianjin University, Tianjin, China</p>
-<p> B.S., Corrosion & Protection, 1993 – Beijing Institute of Chemical Technology, Beijing, China</p>
+<p> 🎓 Ph.D., Polymer Chemistry, 1999 – Chinese Academy of Sciences, Beijing, China</p>
+<p> 🎓 M.S., Industrial & Management Engineering, 2002 – Montana State University, Bozeman, MT</p>
+<p> 🎓 M.S., Applied Chemistry, 1996 – Tianjin University, Tianjin, China</p>
+<p> 🎓 B.S., Corrosion & Protection, 1993 – Beijing Institute of Chemical Technology, Beijing, China</p>
 <hr />
 
 <h4> Biography </h4>
