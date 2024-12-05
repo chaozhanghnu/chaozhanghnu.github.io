@@ -31,7 +31,7 @@ permalink: /
 <hr />
 
 <h4>RECENT NEWS</h4>
-<p><font size=4>🌍💡 <a href="https://lnkd.in/g8tHQ_xS"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) </a>to be held at the Newman Alumni Center, University of Miami🙌, Coral Gables, Florida, March 2 to 5, 2025.</p>
+<p><font size=4>💡 <a href="https://lnkd.in/g8tHQ_xS"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) 🌍 </a>to be held at the Newman Alumni Center, University of Miami🙌, Coral Gables, Florida, March 2 to 5, 2025.</p>
     
 <p><font size=4>🌟 Call for papers by<a href="https://lnkd.in/geBF_yCZ"> the Journal of Infrastructure Preservation & Resilience </a> (Springer Nature) </p>
     
