@@ -137,7 +137,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 10. Zhang, Y.&#42;&#42;, **<u>Shi, X.</u>** ["Laboratory Evaluation of a Sustainable Additive for Anti-icing."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 44, 102602.
 
-11. Nazari, M.H.&#42;&#42;, Mousavi, S.Z., Potapova, A.#42;&#42;, McIntyre, J., **<u>Shi, X.</u>** ["Toxicological Impacts of Roadway Deicers on Aquatic Resources and Human Health: A Review."](https://doi.org/10.1002/wer.1581) *Water Environment Federation*, 2021.
+11. Nazari, M.H.&#42;&#42;, Mousavi, S.Z., Potapova, A.&#42;&#42;, McIntyre, J., **<u>Shi, X.</u>** ["Toxicological Impacts of Roadway Deicers on Aquatic Resources and Human Health: A Review."](https://doi.org/10.1002/wer.1581) *Water Environment Federation*, 2021.
 
 12. Li, Z.&#42;&#42;, Dang, Y., Tang, Z., Xie, N., <u>Lu, S.</u>, **<u>Shi, X.</u>** ["Optimal Overlays for Preservation of Concrete in Cold Climate: Decision Making by the Method of Fuzzy Comprehensive Evaluation Combined with AHP."](https://doi.org/10.1186/s43065-021-00046-x) *Journal of Infrastructure Preservation and Resilience*, 2021, 2, 31.
 
@@ -145,7 +145,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 14. <u>Mahmoodi, A.</u>, Jiryaie, Z., Dadras, A., <u>Khorasani, M.</u>, **Shi, X.**  ["A Hybrid Yellow Nanopigment as an Environmentally Sound Alternative to Lead Chromate Pigment in Pavement Markings."](https://doi.org/10.1016/j.jclepro.2021.128733) *Journal of Cleaner Production*, 2021, 319, 128733.
 
-15. Du, S.&#42;&#42;, Akin, M., Bergner, D., Xu, G.#42;&#42;, **<u>Shi, X.</u>** ["Material Application Methodologies for Winter Road Maintenance Operations: A Renewed Perspective."](https://doi.org/10.1139/cjce-2019-0465) *Canadian Journal of Civil Engineering*, 2021.
+15. Du, S.&#42;&#42;, Akin, M., Bergner, D., Xu, G.&#42;&#42;, **<u>Shi, X.</u>** ["Material Application Methodologies for Winter Road Maintenance Operations: A Renewed Perspective."](https://doi.org/10.1139/cjce-2019-0465) *Canadian Journal of Civil Engineering*, 2021.
 
 16. He, Y., Akin, M., Yang, Q., **<u>Shi, X.</u>** ["Conceptualizing How Agencies Could Leverage Weather- related Connected Vehicle Application to Enhance Winter Road Services."](https://doi.org/10.1061/(ASCE)CR.1943-5495.0000258) *Journal of Cold Regions Engineering*, 2021, 35, 3.
 
