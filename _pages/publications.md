@@ -203,7 +203,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 
 ****
-<ul>
+
 <p align="center" style="font-size: 35px;">Selected Presentations and Technical Reports 🎤</p>
 
 <font size=8> Outreach Publications & Technical Reports - Selected </font>
