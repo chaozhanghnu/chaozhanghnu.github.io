@@ -31,13 +31,13 @@ permalink: /
 <hr />
 
 <h4>RECENT NEWS</h4>
-<p><font size=4>💡 <a href="https://lnkd.in/g8tHQ_xS"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) 🌍 </a>to be held at the Newman Alumni Center, University of Miami🙌, Coral Gables, Florida, March 2 to 5, 2025.</p>
+<p><font size=4>💡 <a href="https://lnkd.in/g8tHQ_xS"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) 🌍 </a>to be held at the Newman Alumni Center, University of Miami 🙌, Coral Gables, Florida, March 2 to 5, 2025.</p>
     
 <p><font size=4>🌟 Call for papers by<a href="https://lnkd.in/geBF_yCZ"> the Journal of Infrastructure Preservation & Resilience </a> (Springer Nature) </p>
     
 <p><font size=4>🏆 Prof. Xianming Shi and the Engineering Bombers on their <a href="https://www.linkedin.com/feed/update/urn:li:activity:7263661365251190784/"> 3-0 victory in the University of Miami’s intramural soccer league opener!⚽🔥</a></p>
 
-<p><font size=4> 👑 Prof. Shi on being named <a href="https://news.miami.edu/coe/stories/2024/08/construction-materials-expert-to-lead-civil-and-architectural-engineering-department.html"> Chair of Civil and Architectural Engineering </a> at the University of Miami!🙌</p>
+<p><font size=4> 👑 Prof. Shi on being named <a href="https://news.miami.edu/coe/stories/2024/08/construction-materials-expert-to-lead-civil-and-architectural-engineering-department.html"> Chair of Civil and Architectural Engineering </a> at the University of Miami! 🙌</p>
 
 <p><font size=4> 🥇 Prof. Xianming Shi for <a href="https://www.linkedin.com/posts/xianmingshi_i-am-humbled-by-the-honor-of-receiving-the-activity-7194155375028232192-64Yp/"> humbling by the honor of receiving the Anjan Bose Outstanding Researcher Award </a> by the Voiland College of Engineering and Architecture, Washington State University.</p>
     
