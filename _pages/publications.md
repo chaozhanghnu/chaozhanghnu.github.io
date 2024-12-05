@@ -123,7 +123,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 3. He, J.&#42;&#42;, **<u>Shi, X.</u>** ["Laboratory Assessment of a Self-healing System for Early-Age Durability Benefits to Cementitious Composites."](https://doi.org/10.1016/j.jobe.2021.102602) *Journal of Building Engineering*, 2021, 44, 102602.
 
-4. Li, Z.&#42;&#42;, Xu, G.#42;&#42;, **<u>Shi, X.</u>** ["Reactivity of Coal Fly Ash Used in Cementitious Binder Systems: A State-of-the-Art Overview."](https://doi.org/10.1016/j.fuel.2021.121031) *Fuel*, 2021, 301, 121031.
+4. Li, Z.&#42;&#42;, Xu, G.&#42;&#42;, **<u>Shi, X.</u>** ["Reactivity of Coal Fly Ash Used in Cementitious Binder Systems: A State-of-the-Art Overview."](https://doi.org/10.1016/j.fuel.2021.121031) *Fuel*, 2021, 301, 121031.
 
 5. Li, Z.&#42;&#42;, Fei, M., Huyan, C., **<u>Shi, X.</u>** ["Nano-Engineered, Fly Ash-Based Geopolymer Composites: An Overview."](https://doi.org/10.1016/j.resconrec.2020.105334) *Resources, Conservation and Recycling*, 2021, 168, 105334.
 
@@ -159,45 +159,47 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 <font size=5> 2020 </font>
 
-1. Michelle Akin, Laura Fay, **<u>Xianming Shi</u>**. ["Friction and Snow-Pavement Bond after Salting and Plowing Permeable Friction Surfaces."](https://doi.org/10.1177/0361198120949250) *Transportation Research Record*, 2020, 2674, 11, 794-805.
+1. Akin, M., Fay, L., **<u>Shi, X.</u>** ["Friction and Snow-Pavement Bond after Salting and Plowing Permeable Friction Surfaces."](https://doi.org/10.1177/0361198120949250) *Transportation Research Record*, 2020, 2674, 11, 794-805.
 
-2. <u>Yan Zhang</u>,<u> Michelle Akin</u>, **<u>Xianming Shi</u>**. ["Laboratory Investigation of Prewet Deicer Performance for Winter Mobility in the Pacific Northwest."](https://doi.org/10.1061/(ASCE)CR.1943-5495.0000228) *Journal of Cold regions Engineering*, 2020, 34, 4.
+2. Zhang, Y.&#42;&#42;, Akin, M., **<u>Shi, X.</u>** ["Laboratory Investigation of Prewet Deicer Performance for Winter Mobility in the Pacific Northwest."](https://doi.org/10.1061/(ASCE)CR.1943-5495.0000228) *Journal of Cold regions Engineering*, 2020, 34, 4.
 
-3. <u> Jialuo He</u>, and **<u>Xianming Shi</u>**. ["Accelerated Laboratory Assessment of Discrete Sacrificial Anodes for Rehabilitation of Salt Contaminated Reinforced Concrete"](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003374) *Journal of Materials in Civil Engineering*, 2020, 32, 11.
+3. He, J.&#42;&#42;, **<u>Shi, X.</u>** ["Accelerated Laboratory Assessment of Discrete Sacrificial Anodes for Rehabilitation of Salt Contaminated Reinforced Concrete"](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003374) *Journal of Materials in Civil Engineering*, 2020, 32, 11.
 
-4. <u>Mehdi Honarvar Nazari</u>, <u>Jiang Yu</u>, **Xianming Shi**, ["Effects of Ferrous Alloy Type, Beetroot Juice, Deicer Type and Concentration on Early-Stage Corrosion Behavior of Buried Pipes."](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003379), *ASCE Journal of Materials in Civil Engineering* 2020, 32, 10.
+4. Nazari, M.H.&#42;&#42;, Jiang, Y.&#42;&#42;,**<u>Shi, X.</u>** ["Effects of Ferrous Alloy Type, Beetroot Juice, Deicer Type and Concentration on Early-Stage Corrosion Behavior of Buried Pipes."](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003379), *ASCE Journal of Materials in Civil Engineering* 2020, 32, 10.
 
-5. <u>Jialuo He</u>, <u>Kyle Gray</u>, <u>Alyssa Norris</u>, <u>Alexander Charlemagne Ewing</u>, <u>Justin Jurgerson</u>, **<u>Xianming Shi</u>**, ["Use of Biological Additives in Pavements: A Review of Opportunities and Challenges."](https://doi.org/10.1061/JPEODX.0000188), *Journal of Transportation Engineering, Part B: Pavements* 2020, 146, 3.
+5. He, J.&#42;&#42;, Gray, K.&#42;, Norris, A.&#42;, Ewing, A. C.&#42;, Jurgerson, J.&#42;, **<u>Shi, X.</u>** ["Use of Biological Additives in Pavements: A Review of Opportunities and Challenges."](https://doi.org/10.1061/JPEODX.0000188), *Journal of Transportation Engineering, Part B: Pavements* 2020, 146, 3.
 
-6. **<u>Xianming Shi</u>**, ["More Than Smart Pavements: Connected Infrastructure Paves the Way for Enhanced Winter Safety and Mobility on Highways."](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003379), *Journal of Infrastructructure Preservation and Resilience* 2020, 1, 13.
+6. **<u>Shi, X.</u>** ["More Than Smart Pavements: Connected Infrastructure Paves the Way for Enhanced Winter Safety and Mobility on Highways."](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003379), *Journal of Infrastructructure Preservation and Resilience* 2020, 1, 13.
 
-7. Mehdi Honarvar Nazari, Mehdi Salih Shihab, Eden Adele Havens, and **<u>Xianming Shi</u>**, ["Mechanism of Corrosion Protection in Chloride Solution by an Apple-Based Green Inhibitor: Experimental and Theoretical."](https://doi.org/10.1186/s43065-020-00007-w), *Journal of Infrastructructure Preservation and Resilience* 2020, 1, 7. The 2020 Most Cited Paper Award.
+7. Nazari, M.H.&#42;&#42;, Shihab, M., Havens, E.A.&#42;, **<u>Shi, X.</u>** ["Mechanism of Corrosion Protection in Chloride Solution by an Apple-Based Green Inhibitor: Experimental and Theoretical."](https://doi.org/10.1186/s43065-020-00007-w), *Journal of Infrastructructure Preservation and Resilience* 2020, 1, 7. The 2020 Most Cited Paper Award.
 
-8. <u>Zhipeng Li</u>, **<u>Xianming Shi</u>**, ["Graphene Oxide Modified, Clinker-Free Cementitious Paste with Principally Alkali-Activated Fly"](https://doi.org/10.1016/j.fuel.2020.117418), *Fuel* 2019, 269, 117418.
+8. Li, Z.&#42;&#42;, **<u>Shi, X.</u>** ["Graphene Oxide Modified, Clinker-Free Cementitious Paste with Principally Alkali-Activated Fly"](https://doi.org/10.1016/j.fuel.2020.117418), *Fuel* 2019, 269, 117418.
 
-9. Gang Xu, **<u>Xianming Shi</u>**, ["Fly Ash Geopolymer Pervious Concrete: A Study of Durability Performance under Cold-Climate Conditions."](https://www.scribd.com/document/520107384/ContentServer), *Concrete International* 2020, 42, 1.
+9. Xu, G.&#42;&#42;, **<u>Shi, X.</u>** ["Fly Ash Geopolymer Pervious Concrete: A Study of Durability Performance under Cold-Climate Conditions."](https://www.scribd.com/document/520107384/ContentServer), *Concrete International* 2020, 42, 1.
 
-10. <u>Dezhi Zhao</u>, <u>Zheng Wang</u>, <u>Shuang Lu</u>, **Xianming Shi**, ["An Amidoxime-Functionalized Polypropylene Fiber: Competitive Removal of Cu(II), Pb(II) and Zn(II) from Wastewater and Subsequent Sequestration in Cement Mortar."](https://doi.org/10.1016/j.jclepro.2020.123049), *Journal of Cleaner production* 2020, 274.
+10. Zhao, D., Wang, Z., <u>Lu, S.</u>, **<u>Shi, X.</u>** ["An Amidoxime-Functionalized Polypropylene Fiber: Competitive Removal of Cu(II), Pb(II) and Zn(II) from Wastewater and Subsequent Sequestration in Cement Mortar."](https://doi.org/10.1016/j.jclepro.2020.123049), *Journal of Cleaner production* 2020, 274.
 
-11. Xinyu Cong, <u>Shuang Lu</u>, Yunhe Gao, Yan Yao, Mohamed Elchalakani, **Xianming Shi**, ["Effects of Microwave, Thermomechanical and Chemical Treatments of Sewage Sludge Ash on Its Early-Age Behavior as Supplementary Cementitious Material."](https://doi.org/10.1016/j.jclepro.2020.120647), *Journal of Cleaner production* 2020, 258, 120647.
+11. Cong, X., <u>Lu, S.</u>, Gao, Y., Yao, Y., Elchalakani, M., **<u>Shi, X.</u>** ["Effects of Microwave, Thermomechanical and Chemical Treatments of Sewage Sludge Ash on Its Early-Age Behavior as Supplementary Cementitious Material."](https://doi.org/10.1016/j.jclepro.2020.120647), *Journal of Cleaner production* 2020, 258, 120647.
 
-12. Zhen Tang, Zedong Qiu, <u>Shuang Lu</u>, **<u>Xianming Shi</u>**, ["Functionalized Layered Double Hydroxide Applied to Heavy Metal Ions Absorption: A review"](https://doi.org/10.1515/ntrev-2020-0065), *The Journal Nanotechnology Reviews* 2020, 9, 800-819.
+12. Tang, Z., Qiu, Z., <u>Lu, S.</u>, **<u>Shi, X.</u>** ["Functionalized Layered Double Hydroxide Applied to Heavy Metal Ions Absorption: A review"](https://doi.org/10.1515/ntrev-2020-0065), *The Journal Nanotechnology Reviews* 2020, 9, 800-819.
 
-13. Juncai Zhu, Kun Zhang, <u>Kefei Liu</u>, **<u>Xianming Shi</u>**, ["Adhesion Characteristics of Graphene Oxide Modified Asphalt Unveiled by Surface Free Energy and AFM-Scanned Micro-Morphology."](https://doi.org/10.1016/j.conbuildmat.2020.118404), *Construction and Building Materials* 2020, 244.
+13. Zhu, J., Zhang, K., <u>Liu, K.</u>, **<u>Shi, X.</u>** ["Adhesion Characteristics of Graphene Oxide Modified Asphalt Unveiled by Surface Free Energy and AFM-Scanned Micro-Morphology."](https://doi.org/10.1016/j.conbuildmat.2020.118404), *Construction and Building Materials* 2020, 244.
 
-14. Jieqiong Wu, <u>Bo Diao</u>, Yuan Cao, Jing Zhong, **Xianming Shi**, ["Chloride Concentration Distributions in Fatigue Damaged RC Beams Revealed by Energy-Dispersive X-ray Spectroscopy."](https://doi.org/10.1016/j.conbuildmat.2019.117396), *Construction and Building Materials* 2020, 234.
+14. Wu, J.&#42;&#42;, <u>Diao, B.</u>, Cao, Y., Zhong, J., **<u>Shi, X.</u>** ["Chloride Concentration Distributions in Fatigue Damaged RC Beams Revealed by Energy-Dispersive X-ray Spectroscopy."](https://doi.org/10.1016/j.conbuildmat.2019.117396), *Construction and Building Materials* 2020, 234.
 
-15. Sen Du, Yan Jiang, Jing Zhong, <u>Yong Ge</u>, **<u>Xianming Shi</u>**, ["Surface Abrasion Resistance of High-Volume Fly Ash Concrete Modified by Graphene Oxide: Macro- and Micro- Perspectives."](https://doi.org/10.1016/j.conbuildmat.2019.117686), *Construction and Building Materials* 2020, 237.
+15. Du, S.&#42;&#42;, Jiang, Y., Zhong, J., <u>Ge, Y.</u>, **<u>Shi, X.</u>** ["Surface Abrasion Resistance of High-Volume Fly Ash Concrete Modified by Graphene Oxide: Macro- and Micro- Perspectives."](https://doi.org/10.1016/j.conbuildmat.2019.117686), *Construction and Building Materials* 2020, 237.
 
-16. <u>Zhou Tang</u>, <u>Dong Lu</u>, <u>JIng Gong</u>, **<u>Xianming Shi</u>**, and <u>Jing Zhong</u>, ["Self-heating Graphene Nanocomposite Bricks."](https://doi.org/10.3390/ma13030714), *Materials* 2020, 13, 3, 714.
+16. Tang, Z., Lu, D., <u>Gong, J.</u>, **<u>Shi, X.</u>**, <u>Zhong, J.</u> ["Self-heating Graphene Nanocomposite Bricks."](https://doi.org/10.3390/ma13030714), *Materials* 2020, 13, 3, 714.
 
-17. Qilin Yang, Xiaolin Li, Liang Zhang, Yue Qian, Yuzhao Qi, Hamed Sadegh Kouhestani, **Xianming Shi**, Xuchun Gui, <u>Dawei Wang</u>, <u>Jing Zhong</u>, ["Performance Evaluation of Bitumen with a Homogenous Dispersion of Carbon"](https://doi.org/10.1016/j.carbon.2019.11.013), *Carbon* 2020, 158, 465-471.
+17. Yang, Q., Li, X., Zhang, L., Qian, Y., Qi, Y., Kouhestani, H.S., **<u>Shi, X.</u>**, Gui, X., <u>Wang, D.</u>, <u>Zhong, J.</u> ["Performance Evaluation of Bitumen with a Homogenous Dispersion of Carbon"](https://doi.org/10.1016/j.carbon.2019.11.013), *Carbon* 2020, 158, 465-471.
 
-18. <u>Yi Jia</u>, <u>Renda Zhao</u>, <u>Fuhai Li</u>, <u>Zhidong Zhou</u>, <u>Yongbao Wang</u>, <u>Yulin Zhan</u>, **Xianming Shi**, ["Seismic Performance of Bridge Piers Constructed with PP-ECC at Potential Plastic Hinge Regions."](https://doi.org/10.3390/ma13081865), *Materials* 2020, 13, 8.
+18. Jia, Y.&#42;&#42;, Zhao, R., <u>Li, F.</u>, <u>Zhou, Z.</u>, Wang, Y., Zhan, Y., **<u>Shi, X.</u>** ["Seismic Performance of Bridge Piers Constructed with PP-ECC at Potential Plastic Hinge Regions."](https://doi.org/10.3390/ma13081865), *Materials* 2020, 13, 8.
 
-19. <u>Yaqin He</u>, <u>Md Tawhidur Rahman</u>, <u>Michelle Akin</u>, <u>Yinhai Wang</u>, <u>Kakan Dey</u> and **<u>Xianming Shi</u>**, ["Connected Vehicle Technology for Improved Multimodal Winter Travel: Agency Perspective and a Conceptual Exploration."](https://doi.org/10.3390/su12125071), *Sustainability* 2020, 12, 12.
+19. He, Y., Rahman, M.T., Akin, M., Wang, Y., <u>Dey, K.</u>, **<u>Shi, X.</u>** ["Connected Vehicle Technology for Improved Multimodal Winter Travel: Agency Perspective and a Conceptual Exploration."](https://doi.org/10.3390/su12125071), *Sustainability* 2020, 12, 12.
 
-20. Ziyuan Pu, Chenglong Liu, **Xianming Shi**, Zhiyong Cui, and <u>Yinhai Wang</u>, ["Road Surface Friction Prediction Using Long Short- Term Memory Neural Network Based on Historical Data."](https://doi.org/10.1080/15472450.2020.1780922), *Journal of Intelligent Transportation Systems* 2020, 26, 1.
+20. Pu, Z., Liu, C., **<u>Shi, X.</u>**, Cui, Z., <u>Wang, Y.</u> ["Road Surface Friction Prediction Using Long Short- Term Memory Neural Network Based on Historical Data."](https://doi.org/10.1080/15472450.2020.1780922), *Journal of Intelligent Transportation Systems* 2020, 26, 1.
+
+21. **<u>Shi, X.</u>**, ["Foreword from the Editor-in-Chief: The Inaugural Issue of Journal of Infrastructure Preservation and Resilience."](https://doi.org/10.1186/s43065-020-00006-x) *Journal of Infrastructure Preservation and Resilience*, 2020, 1, Article No. 1. 
 
 
 ****
