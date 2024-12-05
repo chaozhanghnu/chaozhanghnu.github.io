@@ -40,7 +40,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
    
 4. He, J., Manawadu, A., Deng, Y., Zhao, J., **<u>Shi, X.</u>** ["Frost Durability and Service Life Prediction of Self-Healing Concrete."](https://doi.org/10.14359/51742036) *ACI Materials Journal*, 2023,121(5):23-38.
    
-5. Li, Z.**, Zhang, Z., He, J., **<u>Shi, X.</u>** ["Graphene Oxide-Pretreated Waste Medical Mask Microfiber-Reinforced Cement Composites: Frost Damage Modeling and Chloride Migration."](https://doi.org/10.1061/JMCEE7.MTENG-16371) *Journal of Materials in Civil Engineering*, 2024, 36(1).
+5. Li, Z.&#42;&#42;, Zhang, Z., He, J., **<u>Shi, X.</u>** ["Graphene Oxide-Pretreated Waste Medical Mask Microfiber-Reinforced Cement Composites: Frost Damage Modeling and Chloride Migration."](https://doi.org/10.1061/JMCEE7.MTENG-16371) *Journal of Materials in Civil Engineering*, 2024, 36(1).
    
 6. Fan, L., Li, Z.&#42;&#42;, Du, S.&#42;&#42;, **<u>Shi, X.</u>** ["Beetroot Juice Additive in Chloride Brines Reduces the Damage of Portland Cement Concrete Exposed to Freeze/Thaw Cycles."](https://doi.org/10.1061/JMCEE7.MTENG-1637) *Journal of Materials in Civil Engineering*, 2024, 36(2).
    
