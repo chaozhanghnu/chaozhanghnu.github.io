@@ -32,7 +32,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 <font size=5> 2024 </font>
 
-1. Zhang, Z., Li, Z.**, He, J., Qian, S., **<u>Shi, X.</u>**,["Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)."](https://doi.org/10.1016/j.jclepro.2024.142476)  *Journal of Cleaner Production* 457, (2024): 142476.
+1. Zhang, Z., Li, Z.&#42;&#42;, He, J., Qian, S., **<u>Shi, X.</u>**,["Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)."](https://doi.org/10.1016/j.jclepro.2024.142476)  *Journal of Cleaner Production* 457, (2024): 142476.
    
 2. Gong, J., Qian, Y., Xu, Z., Chen, C., Jin, Y., Zhang, J., Li, Z.**, **<u>Shi, X.</u>** ["Effect of Graphene Oxide on the Properties of Ternary Limestone Clay Cement (LCC) Paste."](https://doi.org/10.1515/ntrev-2023-0222) *Nanotechnology Reviews*, (2024), in press.
    
