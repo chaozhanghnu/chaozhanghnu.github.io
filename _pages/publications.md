@@ -7,13 +7,13 @@ permalink: /publications/
 ---
 
 <p align="center" style="font-size: 18px;">
-    Publications | Selected Presentations and Technical Reports | Books📖
+    Publications📝 | Selected Presentations and Technical Reports 🎤 | Books📚
 </p>
 
 
 ******
 
-<p align="center" style="font-size: 35px;">Publications</p>
+<p align="center" style="font-size: 35px;">Publications📝 </p>
 
 <p>
  <a href="https://scholar.google.com/citations?user=NqPzp04AAAAJ&hl=en">Google Scholar</a>: 14254 citations; H-index of 58; Web of Science: 6,985 citations; H-index of 42; Web of Science citations/paper: 40.
@@ -197,7 +197,7 @@ Double asterisks (**) represent a graduate student.
 
 ****
 <ul>
-<p align="center" style="font-size: 35px;">Selected Presentations and Technical Reports</p>
+<p align="center" style="font-size: 35px;">Selected Presentations and Technical Reports 🎤</p>
 
 <li>Leveraging microbiology for sustainable transportation and resilient infrastructure</li>
 
@@ -213,7 +213,7 @@ Double asterisks (**) represent a graduate student.
 </ul>
 ****
 
-<p align="center" style="font-size: 35px;">Books</p>
+<p align="center" style="font-size: 35px;">Books 📚</p>
 <ul>
 <li><font size=4> Pacheco-Torgal, F., Melchers, R.E., <b>Shi, X.</b>, Sáez, A. (2024). "<a href="https://shop.elsevier.com/books/eco-efficient-repair-and-rehabilitation-of-concrete-infrastructures/pacheco-torgal/978-0-443-13470-8"> Eco-efficient Repair and Rehabilitation of Concrete Infrastructure (Eds.) </a>" 2nd Edition. Elsevier. </font></li>
 
@@ -233,7 +233,7 @@ Double asterisks (**) represent a graduate student.
 </ul>
 
     
-<p align="center" style="font-size: 35px;">Book Chapters</p>
+<p align="center" style="font-size: 35px;">Book Chapters 📖</p>
 
 1. **Shi, X.**, Fu, L. (2018). ["Chapter 1: Introduction to Sustainable Winter Road Maintenance."](https://doi.org/10.1002/9781119185161.ch1) In X. Shi, L. Fu (Eds.), Sustainable Winter Road Operations, Wiley-Blackwell, pp. 1-6.
    
