@@ -9,7 +9,7 @@ permalink: /pictures/
 
 
 <h5>2025 The 1st Symposiums on Climate-Smart Infrastructure Innovations &Implementation (CSI3) </h5>
-<img src="https://SMARIN-LAB.github.io/images/pic/CSI3.jpg" width="65%">
+<img src="https://SMARIN-LAB.github.io/images/slides-lq/CSI3conference.jpg" width="65%">
 <hr />
 
 <h5>2024 Nov. 28, Thu, Thanksgiving Holiday</h5>
