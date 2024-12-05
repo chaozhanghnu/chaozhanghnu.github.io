@@ -42,7 +42,7 @@ Double asterisks (**) represent a graduate student.
    
 5. Li, Z.**, Zhang, Z., He, J., **<u>Shi, X.</u>** ["Graphene Oxide-Pretreated Waste Medical Mask Microfiber-Reinforced Cement Composites: Frost Damage Modeling and Chloride Migration."](https://doi.org/10.1061/JMCEE7.MTENG-16371) *Journal of Materials in Civil Engineering*, 2024, 36(1).
    
-6. Fan, L., Li, Z.<span style="font-weight:normal;">**</span> and Du, S.<span style="font-weight:normal;">**</span>, **<u>Shi, X.</u>** ["Beetroot Juice Additive in Chloride Brines Reduces the Damage of Portland Cement Concrete Exposed to Freeze/Thaw Cycles."](https://doi.org/10.1061/JMCEE7.MTENG-1637) *Journal of Materials in Civil Engineering*, 2024, 36(2).
+6. Fan, L., Li, Z.&#42;&#42;Du, S.<span style="font-weight:normal;">**</span>, **<u>Shi, X.</u>** ["Beetroot Juice Additive in Chloride Brines Reduces the Damage of Portland Cement Concrete Exposed to Freeze/Thaw Cycles."](https://doi.org/10.1061/JMCEE7.MTENG-1637) *Journal of Materials in Civil Engineering*, 2024, 36(2).
    
 7. Yong Deng, **<u>Xianming Shi</u>**.["Short-Term Prediction of Short-term Asphalt Pavement Rutting Using Deep Learning Models."](https://doi.org/10.1061/JPEODX.PVENG-1409) *ASCE Journal of Transportation Engineering Part B: Pavements*,2024,150(2).
    
