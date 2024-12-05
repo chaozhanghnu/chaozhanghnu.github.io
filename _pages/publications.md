@@ -206,7 +206,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 <p align="center" style="font-size: 35px;">Selected Presentations and Technical Reports 🎤</p>
 
-<font size=6> Outreach Publications & Technical Reports - Selected </font>
+<font size=4> Outreach Publications & Technical Reports - Selected </font>
 
 1. Mahmoodi, A., **<u>Shi, X.</u>** Toxicological Effects of Antifouling Agents on Non-target Marine Species. A report for the Hazardous Waste and Toxics Reduction Program, Washington State Department of Ecology, Olympia, WA. November 2023. ["Publication 23-04-066."](https://apps.ecology.wa.gov/publications/documents/2304066.pdf)
    
@@ -274,9 +274,10 @@ https://doi.org/10.36501/0197-9191/20-019) Final report for the Illinois Center 
 32. Fay, L., Akin, M., Muthumani, A., **Shi, X.** Quantifying Salt Concentration on Pavement – Phase II: MARWIS and Teconer Laboratory Sensor Evaluation. Final report for the Aurora Pooled Fund and Iowa Department of Transportation, June 2018.
 
 
-<font size=8> Invited Presentations - Selected </font>
+<p><font size=4> Invited Presentations - Selected </font></p>
 
-<font size=5> Year 2023 </font>
+
+<font size=4> Year 2023 </font>
 
 1. **<u>Shi, X.</u>** Leveraging microbiology for sustainable transportation and resilient infrastructure. Invited Presentation by the International Scholarship Forum on Life Science and Comprehensive health, Wuhan Polytechnic University, December 28, 2023.
    
