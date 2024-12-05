@@ -210,7 +210,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 1. Mahmoodi, A., **Shi, X.** Toxicological Effects of Antifouling Agents on Non-target Marine Species. A report for the Hazardous Waste and Toxics Reduction Program, Washington State Department of Ecology, Olympia, WA. November 2023. ["Publication 23-04-066."](https://apps.ecology.wa.gov/publications/documents/2304066.pdf)
    
-2. Fay, L., Clouser, K., Hetherington, N., Bell, M., Price, A., Shi, X. Efficacy, Costs, and Impacts of Non-Chloride Deicers: An Educational Primer and Product Information Sheets. Final report for the Clear Roads Pooled Fund and Minnesota Department of Transportation, September 2023.
+2. Fay, L., Clouser, K., Hetherington, N., Bell, M., Price, A., Shi, X. Efficacy, Costs, and Impacts of Non-Chloride Deicers: An Educational Primer and Product Information Sheets. ["Final report"](https://www.clearroads.org/project/21-03/) for the Clear Roads Pooled Fund and Minnesota Department of Transportation, September 2023.
    
 3. Xiao, D.X., Kevern, J.T., Wang, H., Shi, X. Evaluating the Impact of Anti-icing Solutions on Concrete Durability. Final report for the Wisconsin Department of Transportation, Madison, WI. July 2023.
    
