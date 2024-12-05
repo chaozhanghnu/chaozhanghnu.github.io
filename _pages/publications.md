@@ -84,7 +84,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 4. Lu, D., **<u>Shi X.</u>**, <u>Zhong, J.</u> ["Interfacial Bonding Between Graphene Oxide Coated Carbon Nanotube Fiber and Cement Paste Matrix."](https://doi.org/10.1016/j.cemconcomp.2022.104802) *Cement and Concrete Composites*, 2022, 134, 104802.
 
-5. Lu, D., **<u>Shi X.</u>**, <u>Zhong, J.</u> ["Understanding the Role of Unzipped Carbon Nanotubes in Cement pastes."](https://doi.org/10.1016/j.cemconcomp.2021.104366) *Cement and Concrete Composites*, 2022, 126, 104366. <span style="color:orange;">Top 1% Highly Cited Paper</span>
+5. Lu, D., **<u>Shi X.</u>**, <u>Zhong, J.</u> ["Understanding the Role of Unzipped Carbon Nanotubes in Cement pastes."](https://doi.org/10.1016/j.cemconcomp.2021.104366) *Cement and Concrete Composites*, 2022, 126, 104366. <span style="color:orange;">Top 1% Highly Cited Paper</span> 
 
 6. Xiaonan Wang, Decheng Feng, **<u>Xianming Shi</u>**,<u>Jing Zhong</u>, <u>Jing Zhong</u>. ["Carbon Nanotubes Do Not Provide Strong Seeding Effect for the Nucleation of C3S Hydration."](https://doi.org/10.1617/s11527-022-02008-5) *Materials and Structures*, 2022, 126.
 
