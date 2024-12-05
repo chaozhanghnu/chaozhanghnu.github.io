@@ -17,6 +17,7 @@ permalink: /publications/
 
 <p>
  <a href="https://scholar.google.com/citations?user=NqPzp04AAAAJ&hl=en">Google Scholar</a>: 14254 citations; H-index of 58; Web of Science: 6,985 citations; H-index of 42; Web of Science citations/paper: 40.
+
 A single asterisk (*) indicates an undergraduate student.
 Double asterisks (**) represent a graduate student.
 **underlined** represents the corresponding author.
