@@ -23,7 +23,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 **underlined** represents the corresponding author.
 </p>
 
-<font size=5> *In Review* </font>
+<font size=5> In Review </font>
 1. Li, Z.&#42;&#42;, Lei, Z., Mislang, J.B.B., Zhang, G., **<u>Shi, X.</u>** Nano-Modified Fly Ash-Based Geopolymer Concrete Filled CFRP Tube Composite: Mechanical Model and Life Cycle Assessment. *Transportation Research Record*, 2024.
 
 2. Lei, Z., Ran, H., Li, Z., **<u>Shi, X.</u>** Synergistic Effect of Nano-TiO2 and Organic Montmorillonite Modification of Epoxy Resin on the CFRP/Concrete Interfacial Characteristics. *Journal of Composites for Construction*, 2024.
