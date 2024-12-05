@@ -165,7 +165,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 3. He, J.&#42;&#42;, **<u>Shi, X.</u>** ["Accelerated Laboratory Assessment of Discrete Sacrificial Anodes for Rehabilitation of Salt Contaminated Reinforced Concrete"](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003374) *Journal of Materials in Civil Engineering*, 2020, 32, 11.
 
-4. Nazari, M.H.&#42;&#42;, Jiang, Y.&#42;&#42;,**<u>Shi, X.</u>** ["Effects of Ferrous Alloy Type, Beetroot Juice, Deicer Type and Concentration on Early-Stage Corrosion Behavior of Buried Pipes."](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003379), *ASCE Journal of Materials in Civil Engineering* 2020, 32, 10.
+4. Nazari, M.H.&#42;&#42;, Jiang, Y.&#42;&#42;, **<u>Shi, X.</u>** ["Effects of Ferrous Alloy Type, Beetroot Juice, Deicer Type and Concentration on Early-Stage Corrosion Behavior of Buried Pipes."](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003379), *ASCE Journal of Materials in Civil Engineering* 2020, 32, 10.
 
 5. He, J.&#42;&#42;, Gray, K.&#42;, Norris, A.&#42;, Ewing, A. C.&#42;, Jurgerson, J.&#42;, **<u>Shi, X.</u>** ["Use of Biological Additives in Pavements: A Review of Opportunities and Challenges."](https://doi.org/10.1061/JPEODX.0000188), *Journal of Transportation Engineering, Part B: Pavements* 2020, 146, 3.
 
