@@ -53,13 +53,13 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 <font size=5> 2023 </font>
 
-1. Du, S.&#42;&#42, Zhao, Q., **<u>Shi X.</u>** ["Quantification of the reaction degree of fly ash in blended cement systems."](https://doi.org/10.1016/j.cemconres.2023.107121). *Cement and Concrete Research* 2023, 167.
+1. Du, S.&#42;&#42;, Zhao, Q., **<u>Shi X.</u>** ["Quantification of the reaction degree of fly ash in blended cement systems."](https://doi.org/10.1016/j.cemconres.2023.107121). *Cement and Concrete Research* 2023, 167.
 
-2. Zhang, Z., Li, Z.&#42;&#42, He, J., **<u>Shi X.</u>** ["High-Strength Engineered Cementitious Composites with Nanosilica Incorporated: Mechanical Performance and Autogenous Self-Healing Behavior."](https://doi.org/10.1016/j.cemconcomp.2022.104837) *Cement and Concrete Composites*, 2023,135:104837.
+2. Zhang, Z., Li, Z.&#42;&#42;, He, J., **<u>Shi X.</u>** ["High-Strength Engineered Cementitious Composites with Nanosilica Incorporated: Mechanical Performance and Autogenous Self-Healing Behavior."](https://doi.org/10.1016/j.cemconcomp.2022.104837) *Cement and Concrete Composites*, 2023,135:104837.
 
-3. Li, Z.&#42;&#42, **<u>Shi X.</u>** ["Towards Sustainable Industrial Applications of Carbon-Negative Concrete: Synergistic Carbon-Capture by Concrete Washout Water and Biochar."](https://doi.org/10.1016/j.matlet.2023.134368) *Materials Letters*, 2023,342:134368.
+3. Li, Z.&#42;&#42;, **<u>Shi X.</u>** ["Towards Sustainable Industrial Applications of Carbon-Negative Concrete: Synergistic Carbon-Capture by Concrete Washout Water and Biochar."](https://doi.org/10.1016/j.matlet.2023.134368) *Materials Letters*, 2023,342:134368.
 
-4. Chen, C.&#42;&#42, <u>Deng, Y.</u>, Li, M., **<u>Shi X.</u>** ["Investigation of Key Climatic Factors Affecting Asphalt Pavement Roughness in Different Climate Regions."](https://doi.org/10.1016/j.trd.2023.103877) *Transportation Research Part D: Transport and Environment*, 2023,22:1043877.
+4. Chen, C.&#42;&#42;, <u>Deng, Y.</u>, Li, M., **<u>Shi X.</u>** ["Investigation of Key Climatic Factors Affecting Asphalt Pavement Roughness in Different Climate Regions."](https://doi.org/10.1016/j.trd.2023.103877) *Transportation Research Part D: Transport and Environment*, 2023,22:1043877.
 
 5.  Deng, Y., **<u>Shi X.</u>** ["Modeling the Rutting Performance of Asphalt Pavements: A Review."](https://doi.org/10.1186/s43065-023-00082-9) *Journal of Infrastruct Preserv Resil*, 2023,4,17.
 
