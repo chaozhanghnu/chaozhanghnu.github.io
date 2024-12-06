@@ -12,7 +12,7 @@ permalink: /pictures/
 <img src="https://SMARIN-LAB.github.io/images/slides-lq/CSI3conference.jpg" width="65%">
 <hr />
 
-<h5>2024 Dec. 5, Exciting Visit from National Kaohsiung University of Science and Technology </h5>
+<p>2024 Dec. 5 Exciting Visit from <font size=4><a href="https://www.linkedin.com/feed/update/urn:li:activity:7270576904544432130/"> National Kaohsiung University of Science and Technology </a></p>
 <img src="https://SMARIN-LAB.github.io/images/pic/visit.jpg" width="65%">
 <hr />
 
