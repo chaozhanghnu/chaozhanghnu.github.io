@@ -12,8 +12,8 @@ permalink: /pictures/
 <img src="https://SMARIN-LAB.github.io/images/slides-lq/CSI3conference.jpg" width="65%">
 <hr />
 
-<h5>2024 Dec. 5, Thanksgiving Holiday</h5>
-<img src="https://SMARIN-LAB.github.io/images/pic/Thanksgiving.jpg" width="65%">
+<h5>2024 Dec. 5, Exciting Visit from National Kaohsiung University of Science and Technology </h5>
+<img src="https://SMARIN-LAB.github.io/images/pic/visit.jpg" width="65%">
 <hr />
 
 <h5>2024 Nov. 28, Thu, Thanksgiving Holiday</h5>
