@@ -33,32 +33,19 @@ permalink: /
 <h4>RECENT NEWS</h4>
 <p><font size=4>💡 <a href="https://tridurle.wsu.edu/tridurle-university-of-miami-symposium-2025/"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) 🌍 </a>to be held at the Newman Alumni Center, University of Miami 🙌, Coral Gables, Florida, March 2 to 5, 2025.</p>
     
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        /* 定义闪烁动画 */
-        @keyframes blink {
-            0% { opacity: 1; }
-            50% { opacity: 0; }
-            100% { opacity: 1; }
-        }
+<p><font size="4">
+  <span style="animation: blink 1s infinite;">🌟</span> 
+  Call for papers by <a href="https://lnkd.in/geBF_yCZ">the Journal of Infrastructure Preservation & Resilience</a> (Springer Nature)
+</font></p>
 
-        /* 应用动画到星星字符 */
-        .blink {
-            animation: blink 1s infinite; /* 1s闪烁一次 */
-        }
-    </style>
-    <title>闪烁星星</title>
-</head>
-<body>
+<style>
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
 
-<p><font size="4"><span class="blink">🌟</span> Call for papers by <a href="https://lnkd.in/geBF_yCZ">the Journal of Infrastructure Preservation & Resilience</a> (Springer Nature)</font></p>
-
-</body>
-</html>
 
     
 <p><font size=4>🏆 Prof. Xianming Shi and the Engineering Bombers on their <a href="https://www.linkedin.com/feed/update/urn:li:activity:7263661365251190784/"> 3-0 victory in the University of Miami’s intramural soccer league opener!⚽🔥</a></p>
