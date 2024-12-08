@@ -47,23 +47,27 @@ Dr. Shi is a Senior Member of the National Academy of Inventors and his work has
 <hr />
 
 <h4> Professional Experience</h4>
-<p>Chair, Civil & Architectural Engineering, University of Miami, August 2024-Present</p>
-<p>Adjoint Professor, Civil & Environmental Engineering, WSU-Pullman, August, 2024-Present</p>
-<p>Chair, Civil & Environmental Engineering, WSU-Pullman, 2021-August 2024</p>
-<p>Director, National Center for Transportation Infrastructure Durability & Life-Extension, 2019-present</p>
-<p>Professor, Civil & Environmental Engineering, WSU-Pullman, 2020-present</p>
-<p>Associate Professor, Civil & Environmental Engineering, WSU-Pullman, 2014-2020</p>
-<p>Deputy Director, WSU Strategic Research Initiative Stormwater Program, July 2018 – Present</p>
-<p>Associate Director, USDOT Center for Advanced Multimodal Mobility Solutions and Education (CAMMSE), November 2016 – Present</p>
-<p>Associate Director, USDOT Center for Environmentally Sustainable Transportation in Cold Climates (CESTiCC), 2013 – 2014; 2017 – 2019</p>
-<p>Founding Director, Corrosion & Sustainable Infrastructure Lab, MSU-Bozeman, 2004-2014</p>
-<p>Program Manager, Winter Maintenance & Effects, Western Transportation Institute, 2005–2014</p>
-<p>Research Professor, Civil Engineering, Montana State University (MSU), 2012–2014</p>
-<p>Adjunct Associate Professor, Mechanical & Industrial Engineering, MSU-Bozeman, 2009-2010</p>
-<p>Associate Research Professor, Civil Engineering, Montana State University, 2007–2012</p>
-<p>Research Scientist/Associate/Aide, Western Transportation Institute, 2002-2005</p>
-<p>Graduate Teaching Assistant, Mechanical & Industrial Engineering, MSU-Bozeman, Spring 2002</p>
-<p>Graduate Research Assistant, NSF Center for Biofilm Engineering, MSU-Bozeman, 1999-2001</p>
+<p>December 2024 - present Professor (secondary appointment), Chemical, Environmental & Materials Engineering, University of Miami, Coral Gables, FL</p>
+<p>August 2024 - present Professor & Chair, Civil & Architectural Engineering, University of Miami, Coral Gables, FL</p>
+<p>August 2024 - present Adjoint Professor, Civil & Environmental Engineering, Washington State University, Pullman, WA</p>
+<p>2024 - present Advisor, CarbonSilvanus Company, Pullman, WA</p>
+<p>2023 - 2024 Affiliate Professor, Mater. Sci. Eng. Program, Washington State University, Pullman, WA</p>
+<p>2023 - 2024, Site Director, USDOT Region 10 University Transportation Center: The Pacific Northwest Transportation Consortium (PacTrans)</p>
+<p>2023 - 2024, Site Director, USDOT Environmentally Responsible Transportation Center for Communities of Concern</p>
+<p>2021 - 2024 Chair, Civil & Environmental Eng. Department, Washington State University, Pullman, WA</p>
+<p>2021 - 2024 Director, Washington State Transportation Center, Pullman, WA</p>
+<p>2020 - 2024 Professor, Civil & Environmental Engineering, Washington State University, Pullman, WA</p>
+<p>2019 - 2020 Site Director, USDOT Center for Environmentally Sustainable Transportation in Cold Climates (CESTiCC), WSU-Pullman</p>
+<p>2017 - 2018 Visiting Guest Professor, Wuhan Polytechnic University, Wuhan, China</p>
+<p>2016 - 2023 Site Director, USDOT Center for Advanced Multimodal Mobility Solutions and Education (CAMMSE), WSU-Pullman</p>
+<p>2014 - 2020 Associate Professor, Civil & Environmental Engineering, Washington State University, Pullman, WA</p>
+<p>2013 - 2014, Site Director, USDOT Center for Environmentally Sustainable Transportation in Cold Climates (CESTiCC), MSU-Bozeman</p>
+<p>2009 - 2010 Adjunct Associate Professor, Mechanical & Industrial Engineering, Montana State University, Bozeman, MT</p>
+<p>2007 - 2014 Associate Research Professor/Research Professor, Civil & Environmental Engineering, Montana State University, Bozeman, MT</p>
+<p>2005 - 2014 Program Manager, Western Transportation Institute, Montana State University, Bozeman, MT</p>
+<p>2002 - 2005 Research Aid/Associate/Scientist, Western Transportation Institute, Montana State University, Bozeman, MT</p>
+<p>Spring 2022 Graduate Teaching Assistant, Mechanical & Industrial Engineering, Montana State University, Bozeman, MT</p>
+<p>1999-2001 Graduate Research Assistant, NSF Center for Biofilm Engineering, Montana State University, Bozeman, MT</p>
 <hr />
 
 <h4> Awards</h4>
