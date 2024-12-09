@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presentations and Technical Reports🎤
-permalink: /publications/selected-presentations/
+permalink: /publications/presentations/
 ---
 
 # Selected Presentations and Technical Reports
