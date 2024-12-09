@@ -14,13 +14,13 @@ permalink: /publications/patent-applications/
 
 
 <font size=5> Research Activities at Washington State University (Aug. 2014 - Present) </font>
-
+<ul>
 <li>Total Funding Awarded as Principal Investigator: ......................................................... $21,306,107</li>
 <li>Total Funding Awarded as Co-Principal Investigator: ...................................................... $2,240,934</li>
 
 Not including any in-kind match funds from WSU and other universities
 
-
+</ul>
  
 
 
