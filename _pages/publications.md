@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 <p align="center" style="font-size: 18px;">
-    Publications📝 | Patent applications🏷️ | Selected Presentations and Technical Reports 🎤 | Books📚
+    Journal Articles📝 | Patent applications🏷️ | Selected Presentations and Technical Reports 🎤 | Books📚
 </p>
 
 
