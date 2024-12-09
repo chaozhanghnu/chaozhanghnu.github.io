@@ -72,8 +72,8 @@ Dr. Shi is a Senior Member of the National Academy of Inventors and his work has
 
 <h4> Honors and Awards - Selected</h4>
 <p><em>Senior Member</em>, National Academy of Inventors, elected in Feb. 2024 </p>
-<p>Environmental Leadership Award, The 2021 Salt Symposium award committee</p>
-<p>Top 0.8% of scholars in the field of Building & Construction, based on <u>career-long impact<u>, 2021</p>
+<p><em>Environmental Leadership Award</em>, The 2021 Salt Symposium award committee</p>
+<p>Top 1% of scholars in the field of Building & Construction, based on ["career-long impact"](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/5), 2021</p>
 <p>ASCE Publishing’s 2020 Editor’s Choice Paper</p>
 <p>The 2020 Most Cited Paper Award, by the <u>Resources, Conservation & Recycling<u> journal</p>
 <p>Fellow, American Society of Civil Engineers (ASCE), elected effective July 1, 2020</p>
