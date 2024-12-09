@@ -71,23 +71,74 @@ Dr. Shi is a Senior Member of the National Academy of Inventors and his work has
 <hr />
 
 <h4> Honors and Awards - Selected</h4>
+
 <p><em>Senior Member</em>, National Academy of Inventors, elected in Feb. 2024 </p>
+
 <p><em>Environmental Leadership Award</em>, The 2021 Salt Symposium award committee</p>
+
 <p>Top 1% of scholars in the field of Building & Construction, based on ["career-long impact"](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/5), 2021</p>
-<p>ASCE Publishing’s 2020 Editor’s Choice Paper</p>
-<p>The 2020 Most Cited Paper Award, by the <u>Resources, Conservation & Recycling<u> journal</p>
+
+<p>The 2020 Most Cited Paper Award, by ["Journal of Infrastructure Preservation & Resilience"](https://jipr.springeropen.com/)</p>
+
+<p>The 2020 Most Cited Paper Award, by the ["Resources, Conservation & Recycling"](https://www.sciencedirect.com/journal/resources-conservation-and-recycling) journal</p>
+
+<p>ASCE Publishing’s 2020 <em>Editor’s</em> Choice Paper</p>
+
 <p>Fellow, American Society of Civil Engineers (ASCE), elected effective July 1, 2020</p>
+
 <p>AASHTO 2020 High Value Research Supplementary Award, Principal Investigator.</p>
+
+<p> Anjan Bose Outstanding Researcher Award, Voiland College of Engineering and Architecture, Washington State University, 2024.</p>
+
+<p> Outstanding Scholarship Award, Department of Civil and Environmental Engineering, Washington State University, 2024</p>
+
 <p>Outstanding Researcher Award, Department of Civil and Environmental Engineering, Washington State University, 2017, and then 2019</p>
-<p>Leon Luck Outstanding Faculty Award, Department of Civil and Environmental Engineering, Washington State University, presented on April 25, 2018</p>
-<p>2016 ASCE ExCEEd (Excellence in Civil Engineering Education) Teaching Fellow, selected by the ASCE Committee on Faculty Development</p>
+
+<p>2017 Leon Luck Most Effective Professor Award, Department of Civil and Environmental
+Engineering, Washington State University</p>
+
 <p>AASHTO 2016 Sweet Sixteen High Value Research Project, Co-Principal Investigator.</p>
-<p>Certificate of Scholarly Achievement, The Friends of Montana State University Library, 2013</p>
+
+<p>2016 ASCE ExCEEd (<em>Ex</em>cellence in <em>C</em>ivil <em>E</em>ngineering <em>E</em>ducation) Teaching Fellow, selected by the ASCE Committee on Faculty Development</p>
+
 <p>Highly Commended Award at the Literati Network Awards for Excellence, 2013 & 2012</p>
-<p>Best Paper (2011-2012), <u>ASCE Journal of Cold Regions Engineering<u>.</p>
-<p>Winner of the ITS America 2007 Award for Best “Return on Investment”, Principal Investigator</p>
+
+<p>Best Paper (2011-2012), ["ASCE Journal of Cold Regions Engineering."](https://ascelibrary.org/journal/jcrgei)</p>
+
+<p>Best Return on Investment Award (2007), ITS America, Principal Investigator</p>
+
 <p>Outstanding Research Award, College of Engineering, Montana State University, 2005</p>
+
+<p>Invited to join Tau Beta Pi (Engineering Honor Society) at Montana State University, Fall 2001</p>
+
 <p>Honorary Citizenship, City of Bozeman, MT, 2000</p>
+
+<p>Outstanding Student, Beijing Institute of Chemical Technology, 1992 – 1993</p>
+
+<p>Outstanding Reviewer of 2020, ASCE ["Journal of Cold Regions Engineering"](https://ascelibrary.org/journal/jcrgei) </p>
+
+<p>Top 1 Per Cent of Peer Reviewers in Cross-Field, awarded by Publons, 2019</p>
+
+<p> Excellent Reviewer in 2018 for the <em>Journal of Materials Engineering and Performance</em></p>
+
+<p>Outstanding Reviewer, ["Cement and Concrete Composites"](https://www.sciencedirect.com/journal/cement-and-concrete-composites), awarded in 2018 </p>
+
+<p>Outstanding Reviewer, ["Progress in Organic Coatings"](https://www.sciencedirect.com/journal/progress-in-organic-coatings), awarded in 2018 </p>
+
+<p>Top 1 Per Cent of Peer Reviewers in Materials Science, awarded by Publons, 2018 & 2017 </p>
+
+<p>Top 1 Per Cent of Peer Reviewers in Engineering, awarded by Publons, 2018 & 2017 </p>
+
+</p> Outstanding Reviewer, ["Cold Regions Science and Technology"](https://www.sciencedirect.com/browse/journals-and-books), awarded in 2017</p>
+
+<p>Outstanding Reviewer, Construction and Building Materials, awarded in 2015 </p>
+
+<p>Certificate of Scholarly Achievement, The Friends of Montana State University Library, 2013</p>
+
+<p>Outstanding Reviewer, CORROSION 2013 Symposium, Orlando, FL.</p>
+
+
+
 <hr />
 
 <h4> Research Interests</h4>
