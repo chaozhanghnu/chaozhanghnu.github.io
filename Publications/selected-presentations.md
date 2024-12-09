@@ -6,9 +6,6 @@ permalink: /publications/presentations/
 
 # Selected Presentations and Technical Reports
 
-
-<p align="center" style="font-size: 35px;">Selected Presentations and Technical Reports 🎤</p>
-
 <font size=4> Outreach Publications & Technical Reports - Selected </font>
 
 1. Mahmoodi, A., **<u>Shi, X.</u>** Toxicological Effects of Antifouling Agents on Non-target Marine Species. A report for the Hazardous Waste and Toxics Reduction Program, Washington State Department of Ecology, Olympia, WA. November 2023. ["Publication 23-04-066."](https://apps.ecology.wa.gov/publications/documents/2304066.pdf)
