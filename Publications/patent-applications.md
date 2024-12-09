@@ -13,6 +13,7 @@ permalink: /publications/patent-applications/
 2. **2024-06-20: Publication of US20240199486A1**; ["Graphene oxide fine aggregate in cement composites."](https://patents.google.com/patent/US20240199486A1/en)
 
 
+
 <font size=5> Research Activities at Washington State University (Aug. 2014 - Present) </font>
 <ul>
 <li>Total Funding Awarded as Principal Investigator: ......................................................... $21,306,107</li>
