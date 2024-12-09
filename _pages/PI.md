@@ -129,7 +129,7 @@ Engineering, Washington State University</p>
 
 <p>Top 1 Per Cent of Peer Reviewers in Engineering, awarded by Publons, 2018 & 2017 </p>
 
-</p> Outstanding Reviewer, ["Cold Regions Science and Technology"](https://www.sciencedirect.com/browse/journals-and-books), awarded in 2017</p>
+</p>Outstanding Reviewer, ["Cold Regions Science and Technology"](https://www.sciencedirect.com/browse/journals-and-books), awarded in 2017</p>
 
 <p>Outstanding Reviewer, Construction and Building Materials, awarded in 2015 </p>
 
