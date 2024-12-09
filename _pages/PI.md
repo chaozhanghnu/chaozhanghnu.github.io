@@ -70,7 +70,8 @@ Dr. Shi is a Senior Member of the National Academy of Inventors and his work has
 <p>1999-2001 Graduate Research Assistant, NSF Center for Biofilm Engineering, Montana State University, Bozeman, MT</p>
 <hr />
 
-<h4> Awards</h4>
+<h4> Honors and Awards - Selected</h4>
+<p><em>Senior Member</em>, National Academy of Inventors, elected in Feb. 2024 </p>
 <p>Environmental Leadership Award, The 2021 Salt Symposium award committee</p>
 <p>Top 0.8% of scholars in the field of Building & Construction, based on <u>career-long impact<u>, 2021</p>
 <p>ASCE Publishing’s 2020 Editor’s Choice Paper</p>
