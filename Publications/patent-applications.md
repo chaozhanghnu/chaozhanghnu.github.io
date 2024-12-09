@@ -4,7 +4,7 @@ title: Patent Applications
 permalink: /publications/patent-applications/
 ---
 
-# Patent Applications🏷️
+# Patent Applications
 
 
 
