@@ -19,7 +19,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 1. Li, Z.&#42;&#42;, Lei, Z., Mislang, J.B.B., Zhang, G., **<u>Shi, X.</u>** Nano-Modified Fly Ash-Based Geopolymer Concrete Filled CFRP Tube Composite: Mechanical Model and Life Cycle Assessment. *Transportation Research Record*, 2024.
 
-2. Lei, Z., Ran, H., Li, Z., **<u>Shi, X.</u>** Synergistic Effect of Nano-TiO2 and Organic Montmorillonite Modification of Epoxy Resin on the CFRP/Concrete Interfacial Characteristics. *Journal of Composites for Construction*, 2024.
+2. Lei, Z., Ran, H., Li, Z., **<u>Shi, X.</u>** Synergistic Effect of Nano-TiO<sub>2</sub> and Organic Montmorillonite Modification of Epoxy Resin on the CFRP/Concrete Interfacial Characteristics. *Journal of Composites for Construction*, 2024.
 
 <font size=5> 2024 </font>
 1. He, J., Manawadu, A., Deng, Y., Zhao, J., **<u>Shi, X.</u>** ["Frost Durability and Service Life Prediction of Self-Healing Concrete."](https://doi.org/10.14359/51742036) *ACI Materials Journal*, 2024,121(5):23-38.
