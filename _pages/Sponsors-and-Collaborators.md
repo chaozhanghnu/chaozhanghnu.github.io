@@ -1,12 +1,12 @@
 ---
-title: "SMARIN - Grants"
+title: "SMARIN - Sponsors & Collaborators"
 layout: gridlay
 excerpt: "SMARIN at University of Miami."
 sitemap: false
-permalink: /grants/
+permalink: /Sponsors-and-Collaborators/
 ---
 
-# Grants
+# Sponsors
 
 
 
