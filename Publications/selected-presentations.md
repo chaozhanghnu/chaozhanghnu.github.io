@@ -44,35 +44,7 @@ https://doi.org/10.36501/0197-9191/20-019) Final report for the Illinois Center 
 17. Chen, C., **<u>Shi, X.</u>** Effects of Incorporating Connected Vehicle Technologies into No-Notice Emergency Evacuation During Winter Weather (Phase I). Final report for the Center for Advanced Multimodal Mobility Solutions & Education. Charlotte, NC. August 2020.
 
 18. Willis, O., Reed, C., Zhang, Y., **<u>Shi, X.</u>** Multimodal Transportation Engineering Curriculum for Middle and High School Students. Final report for the Center for Advanced Multimodal Mobility Solutions & Education. Charlotte, NC. August 2020.
-
-19. Chen, C., **<u>Shi, X.</u>** Modeling the Macroscopic Effects of Winter Maintenance Operations on Traffic Mobility on Washington Highways. Final report for the Center for Advanced Multimodal Mobility Solutions & Education. Charlotte, NC. August 2019.
-
-20. Li, W., **<u>Shi, X.</u>** Cost-Effective Use of Sustainable Cementitious Materials as Reactive Filter Media (Phase I). Final report for the Center for Environmentally Sustainable Transportation in Cold Climates. Fairbanks, AK. August 2019.
-
-21. Zhang, Y., **<u>Shi, X.</u>** A New Sustainable Additive for Anti-icing Asphalt Mixture. Final report for the Center for Environmentally Sustainable Transportation in Cold Climates. Fairbanks, AK. August 2019.
-
-22. Du, S., Akin, M., Bergner, D., Xu, G., **<u>Shi, X.</u>** Synthesis of Material Application Methodologies for Winter Operations. Final report for the Clear Roads Pooled Fund and Minnesota Department of Transportation, April 2019.
-
-23. Du, S., Akin, M., Bergner, D., Xu, G., **<u>Shi, X.</u>** Material Application Methodologies Guidebook. Prepared for the Clear Roads Pooled Fund and Minnesota Department of Transportation, April 2019.
-
-24. Nazari, M.H., Oh, T., Ewing, A.C., Okon, D.A., Zhang, Y., Avalos, B., Alnuaimi, E., Havens, E.A., **<u>Shi, X.</u>** Bio-Based Renewable Additives for Anti-icing Applications (Phase II). Final report for the Washington State Department of Transportation, Olympia, WA. December 2018.
-
-25. Du, S., **<u>Shi, X.</u>** A Targeted Approach to High-Volume Fly Ash Concrete Pavement (Phase I).Final report for the Center for Environmentally Sustainable Transportation in Cold Climates. Fairbanks, AK. December 2018.
-
-26. Xu, G., **<u>Shi, X.</u>** Environmentally Friendly Pervious Concrete for Treating Deicer-Laden Stormwater (Phase II). Final report for the Center for Environmentally Sustainable Transportation in Cold Climates. Fairbanks, AK. December 2018.
-
-27. Akin, M., Zhang, Y., **<u>Shi, X.</u>** Pavement Surface Treatments for Ice-Prone Locations in the Illinois Highway System. Final report for the Illinois Center for Transportation, Springfield, IL. November 2018.
-
-28. Akin, M., Zhang, Y., **<u>Shi, X.</u>** Developing Friction Data to Support the Optimal Use of Pre-Wet Deicing Salt for Enhanced Winter Mobility. Final report for the Center for Advanced Multimodal Mobility Solutions & Education. Charlotte, NC. October 2018.
-
-29. Akin, M., He, Y., **<u>Shi, X.</u>** The Use of Connected Vehicle Technology to Facilitate Multimodal Winter Travel (Phase I). Final report for the Center for Advanced Multimodal Mobility Solutions & Education. Charlotte, NC. September 2018.
-
-30. Xu, G., **<u>Shi, X.</u>** Demonstration of a Fly-Ash-Based Cement-Free Binder. Final report for the Commercialization Gap Fund Project, Office of Commercialization, Washington State University, Pullman, Washington. May 2018.
-
-31. Xu, G., **<u>Shi, X.</u>** Graphene Oxide Enables the Clinker-Free Concrete Based on Coal Fly Ash. ["Science Trends"](https://sciencetrends.com/graphene-oxide-enables-the-clinker-free-concrete-based-on-coal-fly-ash/), May 21, 2018.
-
-32. Fay, L., Akin, M., Muthumani, A., **Shi, X.** Quantifying Salt Concentration on Pavement – Phase II: MARWIS and Teconer Laboratory Sensor Evaluation. Final report for the Aurora Pooled Fund and Iowa Department of Transportation, June 2018.
-
+    
 
 <p><font size=4> Invited Presentations - Selected </font></p>
 
@@ -88,4 +60,53 @@ https://doi.org/10.36501/0197-9191/20-019) Final report for the Illinois Center 
 4. **<u>Shi, X.</u>** Nanotechnology Is Key to More Sustainable and Durable Concrete Infrastructure. Invited Presentation by Case Western Reserve University, Cleveland, OH. June 16, 2023.
    
 5. **<u>Shi, X.</u>** Beneficial Use of Fruit Wastes for Greener Anti-icing Practices on Roadways. 2023 TRB Annual Meeting. Jan. 9, 2023, Washington D.C.
+
+<font size=4> Year 2022 </font>
+
+1. **<u>Shi, X.</u>** Nanotechnology Is Key to More Sustainable and Durable Concrete Infrastructure. Invited Presentation by Sellen Construction Company, Seattle, WA. July 14, 2022.
+   
+2. **<u>Shi, X.</u>** Graphene Oxide as a Carbon-Based Nanomaterial that Enables Fly Ash Geopolymer Concrete. Invited Presentation by the Department of Civil & Environmental Engineering, FAMU-FSU Engineering, Feb. 25, 2022. Online.
+   
+<font size=4> Year 2021 </font>
+
+1. **<u>Shi, X.</u>** Sustainable Road Maintenance Operations for Better Winter Mobility and Resilience. Keynote Presentation for the 20th and 21st Joint COTA International Conference of Transportation Professionals, Dec. 17, 2021. Online.
+   
+2. **<u>Shi, X.</u>**, Li, J.Y. Ongoing WSU Work in the Nexus of Transportation and Climate. Keynote Presentation for the 1st International Workshop on Resilient Infrastructure. International Joint Research Center for Resilient Infrastructure, Tongji University, Nov. 13, 2021. Online.
+
+3. **<u>Shi, X.</u>**, Li, Z. Synergy of Graphene Oxide and Nanoclay to Benefit the Performance of a Siliconate-Based Sealer for Concrete. Keynote Presentation for the 5th International Conference on Transportation Infrastructure and Materials (TIM 2021), Oct. 21, 2021. Online.
+
+4. **<u>Shi, X.</u>** Selected WSU Work in the Transportation – Climate Nexus. A presentation invited by the WSU Office of Research, October 20, 2021, Pullman, WA.
+
+5. **<u>Shi, X.</u>** Selected Sensing Topics from the Smart and Green Infrastructure Group at WSU Pullman. Invited Presentation for the METER Group, Pullman, WA, Oct. 14, 2021.
+
+6. **<u>Shi, X.</u>** Winter Road Maintenance Research Can Help Lower Salt Usage. Keynote Presentation for the 2021 Salt Symposium, August 4, 2021. Online.
+
+7. **<u>Shi, X.</u>** Six Key Elements of High-Quality Technical Writing. Invited seminar for the WSU CEE Graduate Students (and some non-WSU researchers), Feb. 22, 2021. Online.
+
+
+<font size=4> Year 2020 </font>
+
+1. **<u>Shi, X.</u>** Durability of Concrete Materials in Cold Regions: Emerging Challenges and Countermeasures. Plenary talk at the 1st Civil Engineering HuXiang Forum (Theme: Greenization and Intelligentization of Bridge and Building Structures), Dec. 20, 2020, Changsha, Hunan. Online.
+   
+2. **<u>Shi, X.</u>** Concrete as a Construction Material: Unique Characteristics and Recent Advances. Invited Guest Lecture for the ACI student chapter, University of the District of Columbia, Nov. 9, 2020, online.
+
+3. **<u>Shi, X.</u>** Concrete as a Construction Material: Unique Characteristics and Recent Advances. Invited Guest Lecture for the School of Mechanical and Materials Engineering, Washington State University, Course ME110, Oct. 29, 2020, online.
+
+4. **<u>Shi, X.</u>** Materials Innovations for Sustainable Built Environments: A Multidisciplinary Perspective. Invited Lecture by the School of Civil Engineering, Tianjin University, August 24, 2020, online.
+   
+6. **<u>Shi, X.</u>** Materials Innovations for Sustainable Built Environments: A Multidisciplinary Perspective. Invited Lecture by the School of Transportation Engineering, Changsha University of Science and Technology, August 4, 2020, online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
