@@ -1,9 +1,9 @@
 ---
-title: "SMARIN - Publications"
+title: "SMARIN - Grants"
 layout: gridlay
 excerpt: "SMARIN at University of Miami."
 sitemap: false
-permalink: /publications/
+permalink: /grants/
 ---
 
 
