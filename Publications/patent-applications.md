@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Patents
-permalink: /publications/patent-applications/
+permalink: /publications/patents/
 ---
 
 # Patents
