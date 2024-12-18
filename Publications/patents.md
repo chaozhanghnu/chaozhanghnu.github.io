@@ -11,7 +11,7 @@ permalink: /publications/patents/
 2. **2024-06-20: Publication of US20240199486A1**; ["Graphene oxide fine aggregate in cement composites."](https://patents.google.com/patent/US20240199486A1/en)
 
 
-# PATENTS - SELECTED
+# 2020-2024
 1. **Shi, X.**, Li, Z. Methods for Carbon-Capture within Biochar. Non-provisional patent (PCT) filed on March 1, 2024. PCT/US24/18024.
 
 2. **Shi, X.**, Li, Z. Carbon-Capture Concrete Using Biochar. Provisional patent filed on Jan. 9, 2024.
