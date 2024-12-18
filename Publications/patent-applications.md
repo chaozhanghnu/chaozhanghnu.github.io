@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Patent Applications
+title: Patents
 permalink: /publications/patent-applications/
 ---
 
-# Patent Applications
-
-
+# Patents
 
 1. **2024-11-07: Publication of US20240368036A1**; ["Nano-modified waterproof sealer compositions and methods for concrete preservation."](https://patents.google.com/patent/US20240368036A1/en)
 
