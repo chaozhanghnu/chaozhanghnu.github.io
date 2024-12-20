@@ -20,6 +20,6 @@ permalink: /Sponsors-and-Collaborators/
 
 👥 ["Kun Zhang – California Pavement Preservation Center – Chico State"](https://www.csuchico.edu/cp2c/about-us/people/staff/kun-zhang.shtml) 🤝
 
-👥 ["Jialuo He – Civil and Environmental Engineering – Washington State University"](https://ce.wsu.edu/faculty/jialuo-he/)"] 🤝
+👥 ["Jialuo He – Civil and Environmental Engineering – Washington State University"](https://ce.wsu.edu/faculty/jialuo-he/)" 🤝
 
 👥 ["CarbonSilvanus"](https://carbonsilvanus.com/) 🤝
