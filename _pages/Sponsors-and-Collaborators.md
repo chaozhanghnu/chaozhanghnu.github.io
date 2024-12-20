@@ -8,10 +8,10 @@ permalink: /Sponsors-and-Collaborators/
 
 # Sponsors
 
-<img src="https://SMARIN-LAB.github.io/images/pic/sponsors.jpg" width="65%">
+<img src="https://SMARIN-LAB.github.io/images/pic/sponsors.jpg" width="80%">
 
 
-# Collaborators:
+# Collaborators
 
 👥 ["Science at PNNL - James Amonette"](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=5639) 🤝
 
