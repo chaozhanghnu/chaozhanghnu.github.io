@@ -14,9 +14,9 @@ permalink: /publications/patents/
 
 4. **Shi, X.** Li, Z. Carbon-neutral and carbon-negative cementitious composites. Provisional patent filed on March 3, 2023.
 
-5. **Shi, X.**, Li, Z. Nano-modified waterproof sealer compositions and methods for concrete preservation. Non-provisional patent (PCT) filed in August 2022. ["link"](https://patents.google.com/patent/US20240368036A1/en) 
+5. **Shi, X.**, Li, Z. Nano-modified waterproof sealer compositions and methods for concrete preservation. Non-provisional patent (PCT) filed in August 2022. ["Link"](https://patents.google.com/patent/US20240368036A1/en) 
 
-6. **Shi, X.**, Zhong, J. Graphene oxide fine aggregate in cement composites. Non-provisional patent filed on April 19, 2022. PCT ["link"](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022221754&_cid=P11-LGFDGU-12802-1).
+6. **Shi, X.**, Zhong, J. Graphene oxide fine aggregate in cement composites. Non-provisional patent filed on April 19, 2022. PCT ["Link"](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022221754&_cid=P11-LGFDGU-12802-1).
 
 7. **Shi, X.** Biologically-derived deicer. Non-Provisional patent filed on Feb. 10, 2021 and approved on Sept. 29, 2022. IP Licensed to a company in Massachusetts in May 2021. ["US Patent  11535780"](https://patents.google.com/patent/US20210253923A1/en).
 
