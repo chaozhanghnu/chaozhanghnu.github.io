@@ -8,7 +8,9 @@ permalink: /Sponsors-and-Collaborators/
 
 # Sponsors
 
-
+<h5>2024 Research Symposium -- poster @ COE & University of Miami </h5>
+<img src="https://SMARIN-LAB.github.io/images/pic/researchday.jpg" width="65%">
+<hr />
 
 
 
