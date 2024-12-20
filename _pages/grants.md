@@ -8,8 +8,7 @@ permalink: /grants/
 
 # Grants
 
-
-# External Funding
+<p align="center" style="font-size: 30px;">External Funding </p>
 
 1. Towards Carbon-Neutral Asphalt Pavement: Value-Added Application of Biochars from Woody Biomass and Other Agro-Wastes. USDA National Institute of Food and Agriculture. Award No. 2025-68016-44163. **$999,996**. 12/15/2024 through 12/14/2027. **PI: Xianming Shi (University of Miami)**.
 
@@ -61,7 +60,7 @@ permalink: /grants/
 41.	Understanding the Salt Phase Diagram. Funded by the Clear Roads Pooled Fund through the Montana State University. $25,664. Jan. 2021 – Dec. 2021. PI (Washington State University).
 
 
-# Internal Funding:
+<p align="center" style="font-size: 30px;">Internal  Funding </p>
 
 42.	Nano-Modified Fine Aggregates and Methods for More Cost-Effective and Durable Concrete. FY2023 Commercialization Gap Fund award. Sponsored by the WSU Office of Commercialization. $39,995. Dec. 2022 – Feb. 2024. PI (Washington State University).
     
