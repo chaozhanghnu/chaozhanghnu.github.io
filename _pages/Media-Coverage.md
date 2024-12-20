@@ -6,6 +6,6 @@ sitemap: false
 permalink: /Media-Coverage/
 ---
 
-# Sponsors
+# Media Coverage
 
 <img src="https://SMARIN-LAB.github.io/images/pic/MediaCoverage.jpg" width="88%">
