@@ -8,6 +8,14 @@ permalink: /grants/
 
 # Grants
 
+
+# External Funding:
+
+1. Towards Carbon-Neutral Asphalt Pavement: Value-Added Application of Biochars from Woody Biomass and Other Agro-Wastes. USDA National Institute of Food and Agriculture. Award No. 2025-68016-44163. **$999,996**. 12/15/2024 through 12/14/2027. **PI: Xianming Shi (University of Miami)**.
+
+
+
+
 1. Region 10 University Transportation Center: PacTrans. Funded by the USDOT via the Bipartisan Infrastructure Law (BIL). June 2023 – May 2028, WSU is part of the Consortium led by University of Washington. WSU budget: $1,937,920 ($387,584 per year, renewed annually for the next four years). **Principal Investigator and Site Director** until August 2024.
 
 2. Tier 1 UTC: Environmentally Responsible Transportation Center for Communities of Concern. Funded by the USDOT via the Bipartisan Infrastructure Law. June 2023 – May 2028, WSU is part of the Consortium led by University of Missouri, Kansas City. WSU budget: $2,136,175 ($440,875 per year, renewed annually for the next four years). Grant No. 69A3552348335. **Principal Investigator and Site Director** until August 2024.
