@@ -1,11 +1,11 @@
 ---
-title: "SMARIN - Media Converage"
+title: "SMARIN - Sponsors & Collaborators"
 layout: gridlay
 excerpt: "SMARIN at University of Miami."
 sitemap: false
-permalink: /Media-Coverage/
+permalink: /Sponsors-and-Collaborators/
 ---
 
-# Media Converage
+# Sponsors
 
-<img src="https://SMARIN-LAB.github.io/images/pic/MediaCoverage.jpg" width="80%">
+<img src="https://SMARIN-LAB.github.io/images/pic/sponsors.jpg" width="80%">
