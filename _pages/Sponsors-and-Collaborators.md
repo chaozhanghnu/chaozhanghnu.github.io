@@ -10,10 +10,6 @@ permalink: /Sponsors-and-Collaborators/
 
 <h5>Sponsors</h5>
 <img src="https://SMARIN-LAB.github.io/images/pic/sponsors.jpg" width="65%">
-<hr />
-
-
-
 
 
 # Collaborators:
