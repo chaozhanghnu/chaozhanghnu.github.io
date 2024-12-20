@@ -8,4 +8,4 @@ permalink: /Media-Coverage/
 
 # Sponsors
 
-<img src="https://SMARIN-LAB.github.io/images/pic/MediaCoverage.jpg" width="80%">
+<img src="https://SMARIN-LAB.github.io/images/pic/MediaCoverage.jpg" width="88%">
