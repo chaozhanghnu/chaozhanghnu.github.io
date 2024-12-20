@@ -8,7 +8,6 @@ permalink: /Sponsors-and-Collaborators/
 
 # Sponsors
 
-<h5>Sponsors</h5>
 <img src="https://SMARIN-LAB.github.io/images/pic/sponsors.jpg" width="65%">
 
 
