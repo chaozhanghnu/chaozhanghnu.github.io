@@ -14,7 +14,7 @@ permalink: /publications/patents/
 
 4. **Shi, X.** Li, Z. Carbon-neutral and carbon-negative cementitious composites. Provisional patent filed on March 3, 2023.
 
-5. **Shi, X.**, Li, Z. Nano-modified waterproof sealer compositions and methods for concrete preservation. Non-provisional patent (PCT) filed in August 2022.
+5. **Shi, X.**, Li, Z. Nano-modified waterproof sealer compositions and methods for concrete preservation. Non-provisional patent (PCT) filed in August 2022. ["link"](https://patents.google.com/patent/US20240368036A1/en) 
 
 6. **Shi, X.**, Zhong, J. Graphene oxide fine aggregate in cement composites. Non-provisional patent filed on April 19, 2022. PCT ["link"](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022221754&_cid=P11-LGFDGU-12802-1).
 
