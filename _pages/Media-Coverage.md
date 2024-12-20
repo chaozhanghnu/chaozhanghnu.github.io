@@ -3,7 +3,7 @@ title: "SMARIN - Media Converage"
 layout: gridlay
 excerpt: "SMARIN at University of Miami."
 sitemap: false
-permalink: /Media-Converage/
+permalink: /Media-Coverage/
 ---
 
 # Media Converage
