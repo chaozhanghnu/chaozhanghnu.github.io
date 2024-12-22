@@ -38,3 +38,7 @@ permalink: /pictures/
 <h5>2024 The Anjan Bose Outstanding Researcher Award </h5>
 <img src="https://SMARIN-LAB.github.io/images/pic/award.jpg" width="65%">
 <hr />
+
+<h5>2019 Smart & Green Infrastructure Group back in 2019 at Washington State University </h5>
+<img src="https://SMARIN-LAB.github.io/images/pic/WSU1.jpg" width="65%">
+<hr />
