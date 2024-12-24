@@ -162,7 +162,7 @@ Engineering, Washington State University</p>
 <hr />
 
 
-<h4> Teaching</h4>
+<h4> Teaching Interests</h4>
 <ul >
 <li>Concrete Durability </li>
 <li>Corrosion of Metals</li>
