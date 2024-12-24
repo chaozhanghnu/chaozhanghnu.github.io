@@ -9,13 +9,6 @@ permalink: /
 <h4>RESEARCH THEME</h4>
 <p><font size=4>"SMARIN" stands for Sustainable Materials and Resilient Infrastrucuture. </font></p>
 <p><font size=4> This group is directed by Prof. Xianming Shi in the Department of Civil & Architectural Engineering at University of Miami. </font></p>
-<font size=4>Our current research at University of Miami encompasses the following interconnected areas:</font>
-<ul >
-    <li><font size=4>Construction of eco-smart communities and sustainable built environments: e.g., multifunctional coatings and admixtures, recycling and valorization of industrial byproducts and agro-wastes, permeable pavements, and nanotechnology for civil infrastructures</font></li>
-    <li><font size=4>Materials science for circular economy, for historically underserved communities, and for decarbonization, construction, and resilience of infrastructure</font></li>
-    <li><font size=4>Durable and resilient infrastructure, e.g., multi-scale engineering and characterization, corrosion protection, preservation and rehabilitation techniques, self-healing concrete, coatings, and functional layers</font></li>
-</ul>
-<hr />
 
 <h4>OUR GOAL</h4>
 <p><font size=4>Our goal is to effect positive changes to industry and society through innovations and partnerships. To this end, we strive to develop innovative and cost-effective solutions and focus on impactful R&D.</font></p>
