@@ -10,6 +10,7 @@ permalink: /Sponsors-and-Collaborators/
 
 <img src="https://SMARIN-LAB.github.io/images/pic/sponsors.jpg" width="80%">
 
+****
 
 # Collaborators
 
@@ -20,3 +21,5 @@ permalink: /Sponsors-and-Collaborators/
 👥 ["Jialuo He – Civil and Environmental Engineering – Washington State University"](https://ce.wsu.edu/faculty/jialuo-he/)" 🤝
 
 👥 ["CarbonSilvanus"](https://carbonsilvanus.com/) 🤝
+
+****
