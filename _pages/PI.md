@@ -5,6 +5,24 @@ excerpt: "SMARIN at University of Miami."
 sitemap: false
 permalink: /PI/
 ---
+
+<style>
+/* 解决导航栏遮挡问题 */
+body {
+    padding-top: 70px; /* 根据导航栏的高度调整 */
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 70px; /* 导航栏高度 */
+    z-index: 1000;
+}
+</style>
+
+
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/xianmingshi.jpg" class="img-responsive" width="20%" style="float: right" />
 
 <h4> Xianming (Shane) Shi </h4>
