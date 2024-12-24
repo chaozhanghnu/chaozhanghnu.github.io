@@ -9,8 +9,22 @@ img {
     border-radius: 2%;
 }
 
+/* 动态顶部填充，避免导航栏遮挡 */
+:root {
+    --navbar-height: 70px; /* 定义导航栏高度 */
+}
+
 body {
-    padding-top: 70px;
+    padding-top: var(--navbar-height); /* 使用 CSS 变量动态调整顶部填充 */
+}
+
+/* 导航栏样式 */
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: var(--navbar-height); /* 确保导航栏高度与顶部填充一致 */
+    z-index: 1000;
 }
 
 figcaption {
