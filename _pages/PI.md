@@ -164,8 +164,13 @@ Engineering, Washington State University</p>
 
 <h4> Teaching</h4>
 <ul >
-<li>Concrete Durability (CE 508)</li>
-<li>Durable & Sustainable Pavements and Bridges (CE 472)</li>
+<li>Concrete Durability </li>
+<li>Corrosion of Metals</li>
+<li>Infrastructure Preservation & Rehabilitation</li>
+<li>Low-carbon Infrastructure Materials</li>
+<li>Sustainable Pavements & Bridges</li>
+<li>Highway Materials Engineering</li>
+<li>Construction Materials</li>
 </ul>
 <hr />
 
