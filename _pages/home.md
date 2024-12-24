@@ -8,7 +8,7 @@ permalink: /
 
 <h4>RESEARCH THEME</h4>
 <p><font size=4>"SMARIN" stands for Sustainable Materials and Resilient Infrastrucuture. </font></p>
-<p><font size=4> This group is directed by Prof. Xianming Shi in the Department of Civil & Architectural Engineering at University of Miami. </font></p>
+<p><font size=4> This group is directed by **Prof. Xianming Shi** in the Department of Civil & Architectural Engineering at University of Miami. </font></p>
 
 <h4>OUR GOAL</h4>
 <p><font size=4>Our goal is to effect positive changes to industry and society through innovations and partnerships. To this end, we strive to develop innovative and cost-effective solutions and focus on impactful R&D.</font></p>
