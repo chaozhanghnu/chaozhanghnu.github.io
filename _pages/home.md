@@ -27,6 +27,19 @@ permalink: /
 <h4>RECENT NEWS</h4>
 
 <p><font size="4">
+  <span style="animation: blink 1s infinite;">🎉</span> 
+  <a href="https://news.miami.edu/coe/stories/2025/01/turning-farm-waste-into-sustainable-roads.html">Prof. Xianming Shi was awarded a grant from USDA to research turn farming byproducts into sustainable asphalt</a> (Springer Nature)
+</font></p>
+
+<style>
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
+
+<p><font size="4">
   <span style="animation: blink 1s infinite;">💡</span> 
   <a href="https://tridurle.wsu.edu/tridurle-university-of-miami-symposium-2025/">
     The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) 🌍
@@ -55,9 +68,6 @@ permalink: /
     100% { opacity: 1; }
   }
 </style>
-
-<p><font size=4>🎉 Prof. Shi was awarded a grant from USDA to research turn farming byproducts into sustainable asphalt <a href="https://news.miami.edu/coe/stories/2025/01/turning-farm-waste-into-sustainable-roads.html"> </a></p>
-
 
 <p><font size=4>🏆 Prof. Xianming Shi and the Engineering Bombers on their <a href="https://www.linkedin.com/feed/update/urn:li:activity:7263661365251190784/"> 3-0 victory in the University of Miami’s intramural soccer league opener!⚽🔥</a></p>
 
