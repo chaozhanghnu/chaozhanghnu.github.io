@@ -28,7 +28,7 @@ permalink: /
 
 <p><font size="4">
   <span style="animation: blink 1s infinite;">🎉</span> 
-  Prof. Xianming Shi was awarded a grant from USDA to research <a href="https://news.miami.edu/coe/stories/2025/01/turning-farm-waste-into-sustainable-roads.html"> how to turn farming byproducts into sustainable asphalt</a>
+  Prof. Xianming Shi was awarded a USDA grant focusing on <a href="https://news.miami.edu/coe/stories/2025/01/turning-farm-waste-into-sustainable-roads.html"> ‘Turning farm waste into sustainable roads'</a>
 </font></p>
 
 <style>
