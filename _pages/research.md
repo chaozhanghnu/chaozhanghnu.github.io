@@ -20,15 +20,15 @@ permalink: /research/
 
 
 <h4>Construction of eco-smart communities and sustainable built environments</h4>
-<img src="https://smarin-lab.github.io/images/research/" width="60%">
+<img src="https://smarin-lab.github.io/images/research/research_sub.png" width="60%">
 <hr />
 
 <h4>Materials science for circular economy, for historically underserved communities, and for decarbonization, construction, and resilience of infrastructure</h4>
-<img src="https://smarin-lab.github.io/images/research/" width="60%">
+<img src="https://smarin-lab.github.io/images/research/research_sub.png" width="60%">
 <hr />
 
 <h4>Durable and resilient infrastructure</h4>
-<img src="https://smarin-lab.github.io/images/research/" width="60%">
+<img src="https://smarin-lab.github.io/images/research/research_sub.png" width="60%">
 <hr />
 
 
