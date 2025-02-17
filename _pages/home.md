@@ -16,7 +16,7 @@ permalink: /
 <hr />
 
 <h4>OUR PHILOSOPHY</h4>
-<p><font size=4>The SGI philosophy is focused on the following:</font></p>
+<p><font size=4>The SMARIN philosophy is focused on the following:</font></p>
 <ul >
 <li><font size=4>Stimulate cross-disciplinary collaboration and synergy</font></li>
 <li><font size=4>Make a difference in reducing footprints of civil infrastructures and enabling durable, sustainable, and resilient built environment</font></li>
