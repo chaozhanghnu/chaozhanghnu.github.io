@@ -4,8 +4,26 @@
   info2: 
   email: <a href="eas384@miami.edu">Email - eas384@miami.edu</a>
   number_educ: 2
-  education1: Ph.D. Washington State University (2024)
-  education2: M.S. Hong Kong University of Science and Technology (2019)
+  education1: B.S Student,Environmental Engineering at UM
+  education2: 
+
+- name: Olivia Paulino
+  photo: Olivia.jpg
+  info1: 
+  info2: 
+  email: <a href="ohp9@miami.edu">Email - ohp9@miami.edu</a>
+  number_educ: 2
+  education1: B.S Student,Science in Chemistry at UM
+  education2: 
+
+- name: Emily Zhu
+  photo: Emily.jpg
+  info1: 
+  info2: 
+  email: <a href="exz173@miami.edu">Email - exz173@miami.edu</a>
+  number_educ: 2
+  education1: B.S Student,Mechanical Engineering at UM
+  education2: 
 
 - name: "This could be you !"
   photo: um.jpg
