@@ -1,7 +1,7 @@
 - name: Eric Saba
   photo: Eric.jpg
-  info1: Biochar
-  info2: Asphalt
+  info1: Biochar &  Asphalt
+  info2: 
   email: <a href="eas384@miami.edu">Email - eas384@miami.edu</a>
   number_educ: 2
   education1: B.S Student,Environmental Engineering at UM
@@ -9,8 +9,8 @@
 
 - name: Olivia Paulino
   photo: Ovilia.jpg
-  info1: Biochar
-  info2: Asphalt
+  info1: Biochar &  Asphalt
+  info2:
   email: <a href="ohp9@miami.edu">Email - ohp9@miami.edu</a>
   number_educ: 2
   education1: B.S Student,Science in Chemistry at UM
@@ -18,8 +18,8 @@
 
 - name: Emily Zhu
   photo: Emily.jpg
-  info1: Biochar
-  info2: Asphalt
+  info1: Biochar &  Asphalt
+  info2: 
   email: <a href="exz173@miami.edu">Email - exz173@miami.edu</a>
   number_educ: 2
   education1: B.S Student,Mechanical Engineering at UM
