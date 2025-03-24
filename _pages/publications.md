@@ -30,6 +30,10 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 2. Lei, Z., Ran, H., Li, Z., **<u>Shi, X.</u>** Synergistic Effect of Nano-TiO2 and Organic Montmorillonite Modification of Epoxy Resin on the CFRP/Concrete Interfacial Characteristics. *Journal of Composites for Construction*, 2024.
 
+<font size=5> 2025 </font>
+1. Li, Z., **<u>Shi, X.</u>** ["Influence of graphene oxide on resistance of a fly ash-based geopolymer paste to cyclic freeze-thaw damage and post-damage carbonation."](https://doi.org/10.1016/j.cemconcomp.2025.106023) *Cement and Concrete Composites* 160, (2025).
+
+
 <font size=5> 2024 </font>
 
 1. Lei, Z., Xiao, T., Yang, C., Li, Z., **<u>Shi, X.</u>** ["Improving the Performance of CFRP-Reinforced Concrete Cylinders in Sulfate-Laden Environment through Nanoclay Modification of Epoxy Resin."](https://doi.org/10.1016/j.conbuildmat.2024.136860) *Construction and Building Materials* 436, (2024):136860.
