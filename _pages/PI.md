@@ -144,9 +144,9 @@ Engineering, Washington State University</p>
 
 <h4> Research Interests</h4>
 <ul >
-<li>Construction of smart cities and sustainable built environments: g., multifunctional coatings and admixtures, recycling and valorization of industrial byproducts and wastes, permeable pavements, and nanotechnology for civil infrastructure and connected infrastructure</li>
-<li>Materials science for circular economy and for construction, preservation and resilience of transportation infrastructure</li>
-<li>Durable, sustainable, and smart pavements, e.g., multi-scale engineering and characterization, preservation and rehabilitation techniques, self-healing concrete, coatings, and functional layers</li>
+<li> Construction of resilient communities and sustainable built environments: e.g., multifunctional coatings and admixtures, recycling and upcycling of byproducts and wastes, and novel use of biochar; </li>
+<li> Nanotechnology and electrochemical engineering for circular economy and for energy innovations;</li>
+<li> Multi-scale engineering and characterization, corrosion protection, preservation & rehabilitation, self-healing concrete, coatings, and functional layers</li>
 </ul>
 <hr />
 
