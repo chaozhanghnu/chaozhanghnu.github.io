@@ -11,9 +11,9 @@ permalink: /research/
 
 <font size=4>Our current research at University of Miami encompasses the following interconnected areas:</font>
 <ul >
-    <li><font size=4>Construction of eco-smart communities and sustainable built environments: e.g., multifunctional coatings and admixtures, recycling and valorization of industrial byproducts and agro-wastes, permeable pavements, and nanotechnology for civil infrastructures</font></li>
-    <li><font size=4>Materials science for circular economy, for historically underserved communities, and for decarbonization, construction, and resilience of infrastructure</font></li>
-    <li><font size=4>Durable and resilient infrastructure, e.g., multi-scale engineering and characterization, corrosion protection, preservation and rehabilitation techniques, self-healing concrete, coatings, and functional layers</font></li>
+<li> <font size=4>Construction of resilient communities and sustainable built environments: e.g., multifunctional coatings and admixtures, recycling and upcycling of byproducts and wastes, and novel use of biochar; </font></li>
+<li> <font size=4>Nanotechnology and electrochemical engineering for circular economy and for energy innovations;</font></li>
+<li> <font size=4>Multi-scale engineering and characterization, corrosion protection, preservation & rehabilitation, self-healing concrete, coatings, and functional layers</font></li>
 </ul>
 <hr />
 
