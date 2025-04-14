@@ -16,35 +16,51 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 </p>
 
 <font size=5> In Review </font>
+1. Zhou, Z.&#42;&#42, Zhu, L., Deng, Y., He, J., & **<u>Shi, X.</u>** Polyvinyl Alcohol Based Hydrogel Electrolyte Enables Durable Discrete Sacrificial Anode for Corrosion Protection of Steel Rebar. Cement and Concrete Research, 2025, in review.
+2. Lei, Z., Luo, Y., Li, Z.**, & **<u>Shi, X.</u>**  Bond Performance of CFRP-Concrete Interface with Nano-Modified Epoxy Resin Adhesive: Coupling Effects of Cyclic Wet-Dry Sulfate Exposure and Strain Rate. Construction and Building Materials, 2025, submitted.
+3. Zhou, Z.&#42;&#42, He, J., Deng, Y., & **<u>Shi, X.</u>** Improving Durability of the Performance of Discrete Zinc Sacrificial Anodes for Steel Rebar Protection: Biochar Incorporation into the Encapsulation Matrix. Materials and Design, 2025, in review.
 
-1. Li, Z.&#42;&#42;, Lei, Z., Mislang, J.B.B., Zhang, G., **<u>Shi, X.</u>** Nano-Modified Fly Ash-Based Geopolymer Concrete Filled CFRP Tube Composite: Mechanical Model and Life Cycle Assessment. *Transportation Research Record*, 2024.
+4. Zhang, Z.&#42;&#42, He, J., Li, Z., & **<u>Shi, X.</u>** Mechanical and self-healing properties of high-volume fly ash ultra-high performance concrete (UHPC) incorporating microcapsules. Journal of Materials in Civil Engineering, 2025, in review.
+5. Deng, Y., Zhang, Y., & **<u>Shi, X.</u>** Refining Swarm Behaviors with Human-Swarm Interaction Strategies: An Improved Monkey Algorithm for Multidimensional Optimization Problems. Scientific Reports, 2025, in review.
+6. Shahmansouri, A.A.&#42;&#42, Zhang, Z., AzariJafari, H., &**<u>Shi, X.</u>** Biochar-amended high-strength engineered cementitious composites. Cement and Concrete Composites, 2025, in review.
+7. He, J., Deng, Y., & **<u>Shi, X.</u>** Quantitative Analysis of Pore Structures and Microcracks in Self-Healing Concrete after Freeze-Thaw Exposure: An X-Ray Computed Tomography-based Approach. Cement and Concrete Composites, 2025, in review.
+8. Lei, Z., Li, Z.&#42;&#42, Wang, E., & **<u>Shi, X.</u>**  Optimization of Alkali-Activated Slag Cementitious Materials with Ground Rice Husk Ash: Effects on Fresh and Hardened Properties. Construction and Building Materials, 2025, in review.
+9. Lei, Z., Ran, H., Li, Z., **<u>Shi, X.</u>** Synergistic Effect of Nano-TiO<sub>2</sub> and Organic Montmorillonite Modification of Epoxy Resin on the CFRP/Concrete Interfacial Characteristics. *Journal of Composites for Construction*, 2024, in review.
 
-2. Lei, Z., Ran, H., Li, Z., **<u>Shi, X.</u>** Synergistic Effect of Nano-TiO<sub>2</sub> and Organic Montmorillonite Modification of Epoxy Resin on the CFRP/Concrete Interfacial Characteristics. *Journal of Composites for Construction*, 2024.
+<font size=5> In press </font>
+
+1. Zhou, Z.&#42;&#42;, Deng, Y., He, J., **<u>Shi, X.</u>** Some Insights into Aging of Embedded Zinc Anode: A Study Using Simulated Concrete Pore Solutions. *Journal of Materials in Civil Engineering*, 2025, in press.
+2. Li, Z.&#42;&#42;, Lei, Z., Mislang, J.B.B., Zhang, G., **<u>Shi, X.</u>** Nano-Modified Fly Ash-Based Geopolymer Concrete Filled CFRP Tube Composite: Mechanical Model and Life Cycle Assessment. *Transportation Research Record*, 2025, in press.
 
 
 <font size=5> 2025 </font>
-1. Li, Z., **<u>Shi, X.</u>** ["Influence of graphene oxide on resistance of a fly ash-based geopolymer paste to cyclic freeze-thaw damage and post-damage carbonation."](https://doi.org/10.1016/j.cemconcomp.2025.106023) *Cement and Concrete Composites* 160, (2025):106023.
+1. Gong, J., Chen, C., Liu, J., Li, Z.,& **<u>Shi, X.</u>** ["Synergistic Upcycling MSWI Ash and Class F Fly Ash to Prepare a Sustainable Ternary Cementitious Composite."](https://doi.org/10.1016/j.jobe.2025.112474) *Journal of Building Engineering* 105, (2025):112474.
+2. Li, Z., **<u>Shi, X.</u>** ["Influence of graphene oxide on resistance of a fly ash-based geopolymer paste to cyclic freeze-thaw damage and post-damage carbonation."](https://doi.org/10.1016/j.cemconcomp.2025.106023) *Cement and Concrete Composites* 160, (2025):106023.
+3. 
 
 <font size=5> 2024 </font>
 1. He, J., Manawadu, A., Deng, Y., Zhao, J., **<u>Shi, X.</u>** ["Frost Durability and Service Life Prediction of Self-Healing Concrete."](https://doi.org/10.14359/51742036) *ACI Materials Journal*, 2024,121(5):23-38.
 
-2. Lei, Z., Xiao, T., Yang, C., Li, Z., **<u>Shi, X.</u>** ["Improving the Performance of CFRP-Reinforced Concrete Cylinders in Sulfate-Laden Environment through Nanoclay Modification of Epoxy Resin."](https://doi.org/10.1016/j.conbuildmat.2024.136860) *Construction and Building Materials* 436, (2024):136860.
+2. Lei, Z., Xiao, T., Yang, C., Li, Z., **<u>Shi, X.</u>** ["Improving the Performance of CFRP-Reinforced Concrete Cylinders in Sulfate-Laden Environment through Nanoclay Modification of Epoxy Resin."](https://doi.org/10.1016/j.conbuildmat.2024.136860) *Construction and Building Materials* 436,2024:136860.
 
 3. Zhang, Z., Li, Z.&#42;&#42;, He, J., Qian, S., **<u>Shi, X.</u>**,["Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)."](https://doi.org/10.1016/j.jclepro.2024.142476)  *Journal of Cleaner Production* 457, (2024): 142476.
    
-4. Gong, J., Qian, Y., Xu, Z., Chen, C., Jin, Y., Zhang, J., Li, Z.&#42;&#42;, **<u>Shi, X.</u>** ["Effect of Graphene Oxide on the Properties of Ternary Limestone Clay Cement (LCC) Paste."](https://doi.org/10.1515/ntrev-2023-0222) *Nanotechnology Reviews*, (2024), in press.
+4. Gong, J., Qian, Y., Xu, Z., Chen, C., Jin, Y., Zhang, J., Li, Z.&#42;&#42;, **<u>Shi, X.</u>** ["Effect of Graphene Oxide on the Properties of Ternary Limestone Clay Cement (LCC) Paste."](https://doi.org/10.1515/ntrev-2023-0222) *Nanotechnology Reviews*, (2024), 13(1), 20230222.
    
-5. He, J., Aloundeth, T.&#42;, Li, Z., **<u>Shi, X.</u>** ["Chemical Impacts of MgCl2 on Ordinary Portland Cement and High-Volume Fly Ash Mortars."](https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&ID=51740755) *Concrete International*, 2024, in press.
+5. He, J., Aloundeth, T.&#42;, Li, Z., **<u>Shi, X.</u>** ["Chemical Impacts of MgCl2 on Ordinary Portland Cement and High-Volume Fly Ash Mortars."](https://doi.org/10.1061/JPEODX.PVENG-140) *Concrete International*,(2024),46(5),34-41.
    
 6. He, J., Manawadu, A., Deng, Y., Zhao, J., **<u>Shi, X.</u>** ["Frost Durability and Service Life Prediction of Self-Healing Concrete."](https://doi.org/10.14359/51742036) *ACI Materials Journal*, 2023,121(5):23-38.
    
-7. Li, Z.&#42;&#42;, Zhang, Z., He, J., **<u>Shi, X.</u>** ["Graphene Oxide-Pretreated Waste Medical Mask Microfiber-Reinforced Cement Composites: Frost Damage Modeling and Chloride Migration."](https://doi.org/10.1061/JMCEE7.MTENG-16371) *Journal of Materials in Civil Engineering*, 2024, 36(1).
+7. Li, Z.&#42;&#42;, Zhang, Z., He, J., **<u>Shi, X.</u>** ["Graphene Oxide-Pretreated Waste Medical Mask Microfiber-Reinforced Cement Composites: Frost Damage Modeling and Chloride Migration."](https://doi.org/10.1061/JMCEE7.MTENG-16371) *Journal of Materials in Civil Engineering*, 2024, 36(1), 04023506.
    
-8. Fan, L., Li, Z.&#42;&#42;, Du, S.&#42;&#42;, **<u>Shi, X.</u>** ["Beetroot Juice Additive in Chloride Brines Reduces the Damage of Portland Cement Concrete Exposed to Freeze/Thaw Cycles."](https://doi.org/10.1061/JMCEE7.MTENG-1637) *Journal of Materials in Civil Engineering*, 2024, 36(2).
+8. Fan, L., Li, Z.&#42;&#42;, Du, S.&#42;&#42;, **<u>Shi, X.</u>** ["Beetroot Juice Additive in Chloride Brines Reduces the Damage of Portland Cement Concrete Exposed to Freeze/Thaw Cycles."](https://doi.org/10.1061/JMCEE7.MTENG-1637) *Journal of Materials in Civil Engineering*, 2024, 36(2), 04023550.
    
-9. Deng, Y., **<u>Shi, X.</u>** ["Short-Term Prediction of Short-term Asphalt Pavement Rutting Using Deep Learning Models."](https://doi.org/10.1061/JPEODX.PVENG-1409) *ASCE Journal of Transportation Engineering Part B: Pavements*,2024,150(2).
+9. Deng, Y., **<u>Shi, X.</u>** ["Short-Term Prediction of Short-term Asphalt Pavement Rutting Using Deep Learning Models."](https://doi.org/10.1061/JPEODX.PVENG-1409) *ASCE Journal of Transportation Engineering Part B: Pavements*,2024,150(2),04024004.
    
 10. Deng Y., <U>Wang, H.</U>, **<u>Shi, X.</u>** ["Physics-Guided Neural Network for Predicting Asphalt Mixture Rutting with Balanced Accuracy, Stability and Rationality."](https://doi.org/10.1016/j.neunet.2023.12.039) *Neural Networks*,2024,172,106085.
+
+11.  Yang, Q., Lin, J., Wang, X., Wang, D., **<u>Xie, N.</u>**, & **<u>Shi, X.</u>** ["A review of polymer-modified asphalt binder: Modification mechanisms and mechanical properties."](https://doi.org/10.1016/j.clema.2024.100255) *Cleaner Materials*,2024,100255.
+12. 
 
 <font size=5> 2023 </font>
 
