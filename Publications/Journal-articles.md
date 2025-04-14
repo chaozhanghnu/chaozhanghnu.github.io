@@ -8,7 +8,7 @@ permalink: /publications/journal-articles/
 
 
 <p>
- <a href="https://scholar.google.com/citations?user=NqPzp04AAAAJ&hl=en">Google Scholar</a>: 14875 citations; H-index of 60; Web of Science: 6,985 citations; H-index of 42; Web of Science citations/paper: 40.
+ <a href="https://scholar.google.com/citations?user=NqPzp04AAAAJ&hl=en">Google Scholar</a>: 15042 citations; H-index of 60; Web of Science: 6,985 citations; H-index of 42; Web of Science citations/paper: 40.
 
 A single asterisk (*) indicates an undergraduate student.
 Double asterisks (&#42;&#42;) represent a graduate student.
