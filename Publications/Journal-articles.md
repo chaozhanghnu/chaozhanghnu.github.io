@@ -33,8 +33,8 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 
 <font size=5> 2025 </font>
-1. Gong, J., Chen, C., Liu, J., Li, Z.,& **<u>Shi, X.</u>** ["Synergistic Upcycling MSWI Ash and Class F Fly Ash to Prepare a Sustainable Ternary Cementitious Composite."](https://doi.org/10.1016/j.jobe.2025.112474) *Journal of Building Engineering* 105, (2025):112474.
-2. Li, Z., **<u>Shi, X.</u>** ["Influence of graphene oxide on resistance of a fly ash-based geopolymer paste to cyclic freeze-thaw damage and post-damage carbonation."](https://doi.org/10.1016/j.cemconcomp.2025.106023) *Cement and Concrete Composites* 160, (2025):106023.
+1. Gong, J., Chen, C., Liu, J., Li, Z.,& **<u>Shi, X.</u>** ["Synergistic Upcycling MSWI Ash and Class F Fly Ash to Prepare a Sustainable Ternary Cementitious Composite."](https://doi.org/10.1016/j.jobe.2025.112474) *Journal of Building Engineering* 105, 2025:112474.
+2. Li, Z., **<u>Shi, X.</u>** ["Influence of graphene oxide on resistance of a fly ash-based geopolymer paste to cyclic freeze-thaw damage and post-damage carbonation."](https://doi.org/10.1016/j.cemconcomp.2025.106023) *Cement and Concrete Composites* 160, 2025:106023.
 
 <font size=5> 2024 </font>
 1. He, J., Manawadu, A., Deng, Y., Zhao, J., **<u>Shi, X.</u>** ["Frost Durability and Service Life Prediction of Self-Healing Concrete."](https://doi.org/10.14359/51742036) *ACI Materials Journal*, 2024,121(5):23-38.
@@ -43,9 +43,9 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 3. Zhang, Z., Li, Z.&#42;&#42;, He, J., Qian, S., **<u>Shi, X.</u>**,["Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)."](https://doi.org/10.1016/j.jclepro.2024.142476)  *Journal of Cleaner Production* 457, (2024): 142476.
    
-4. Gong, J., Qian, Y., Xu, Z., Chen, C., Jin, Y., Zhang, J., Li, Z.&#42;&#42;, **<u>Shi, X.</u>** ["Effect of Graphene Oxide on the Properties of Ternary Limestone Clay Cement (LCC) Paste."](https://doi.org/10.1515/ntrev-2023-0222) *Nanotechnology Reviews*, (2024), 13(1), 20230222.
+4. Gong, J., Qian, Y., Xu, Z., Chen, C., Jin, Y., Zhang, J., Li, Z.&#42;&#42;, **<u>Shi, X.</u>** ["Effect of Graphene Oxide on the Properties of Ternary Limestone Clay Cement (LCC) Paste."](https://doi.org/10.1515/ntrev-2023-0222) *Nanotechnology Reviews*, 2024, 13(1), 20230222.
    
-5. He, J., Aloundeth, T.&#42;, Li, Z., **<u>Shi, X.</u>** ["Chemical Impacts of MgCl2 on Ordinary Portland Cement and High-Volume Fly Ash Mortars."](https://doi.org/10.1061/JPEODX.PVENG-140) *Concrete International*,(2024),46(5),34-41.
+5. He, J., Aloundeth, T.&#42;, Li, Z., **<u>Shi, X.</u>** ["Chemical Impacts of MgCl2 on Ordinary Portland Cement and High-Volume Fly Ash Mortars."](https://doi.org/10.1061/JPEODX.PVENG-140) *Concrete International*, 2024,46(5),34-41.
    
 6. He, J., Manawadu, A., Deng, Y., Zhao, J., **<u>Shi, X.</u>** ["Frost Durability and Service Life Prediction of Self-Healing Concrete."](https://doi.org/10.14359/51742036) *ACI Materials Journal*, 2023,121(5):23-38.
    
