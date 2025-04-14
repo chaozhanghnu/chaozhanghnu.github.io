@@ -19,7 +19,6 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 1. Zhou, Z.&#42;&#42, Zhu, L., Deng, Y., He, J., & **<u>Shi, X.</u>** Polyvinyl Alcohol Based Hydrogel Electrolyte Enables Durable Discrete Sacrificial Anode for Corrosion Protection of Steel Rebar. Cement and Concrete Research, 2025, in review.
 2. Lei, Z., Luo, Y., Li, Z.**, & **<u>Shi, X.</u>**  Bond Performance of CFRP-Concrete Interface with Nano-Modified Epoxy Resin Adhesive: Coupling Effects of Cyclic Wet-Dry Sulfate Exposure and Strain Rate. Construction and Building Materials, 2025, submitted.
 3. Zhou, Z.&#42;&#42, He, J., Deng, Y., & **<u>Shi, X.</u>** Improving Durability of the Performance of Discrete Zinc Sacrificial Anodes for Steel Rebar Protection: Biochar Incorporation into the Encapsulation Matrix. Materials and Design, 2025, in review.
-
 4. Zhang, Z.&#42;&#42, He, J., Li, Z., & **<u>Shi, X.</u>** Mechanical and self-healing properties of high-volume fly ash ultra-high performance concrete (UHPC) incorporating microcapsules. Journal of Materials in Civil Engineering, 2025, in review.
 5. Deng, Y., Zhang, Y., & **<u>Shi, X.</u>** Refining Swarm Behaviors with Human-Swarm Interaction Strategies: An Improved Monkey Algorithm for Multidimensional Optimization Problems. Scientific Reports, 2025, in review.
 6. Shahmansouri, A.A.&#42;&#42, Zhang, Z., AzariJafari, H., &**<u>Shi, X.</u>** Biochar-amended high-strength engineered cementitious composites. Cement and Concrete Composites, 2025, in review.
@@ -36,7 +35,6 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 <font size=5> 2025 </font>
 1. Gong, J., Chen, C., Liu, J., Li, Z.,& **<u>Shi, X.</u>** ["Synergistic Upcycling MSWI Ash and Class F Fly Ash to Prepare a Sustainable Ternary Cementitious Composite."](https://doi.org/10.1016/j.jobe.2025.112474) *Journal of Building Engineering* 105, (2025):112474.
 2. Li, Z., **<u>Shi, X.</u>** ["Influence of graphene oxide on resistance of a fly ash-based geopolymer paste to cyclic freeze-thaw damage and post-damage carbonation."](https://doi.org/10.1016/j.cemconcomp.2025.106023) *Cement and Concrete Composites* 160, (2025):106023.
-3. 
 
 <font size=5> 2024 </font>
 1. He, J., Manawadu, A., Deng, Y., Zhao, J., **<u>Shi, X.</u>** ["Frost Durability and Service Life Prediction of Self-Healing Concrete."](https://doi.org/10.14359/51742036) *ACI Materials Journal*, 2024,121(5):23-38.
