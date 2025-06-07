@@ -23,7 +23,7 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 5. Deng, Y., Zhang, Y., & **<u>Shi, X.</u>** Refining Swarm Behaviors with Human-Swarm Interaction Strategies: An Improved Monkey Algorithm for Multidimensional Optimization Problems. Scientific Reports, 2025, in review.
 6. Shahmansouri, A.A.&#42;&#42, Zhang, Z., AzariJafari, H., &**<u>Shi, X.</u>** Biochar-amended high-strength engineered cementitious composites. Cement and Concrete Composites, 2025, in review.
 7. Lei, Z., Li, Z.&#42;&#42, Wang, E., & **<u>Shi, X.</u>**  Optimization of Alkali-Activated Slag Cementitious Materials with Ground Rice Husk Ash: Effects on Fresh and Hardened Properties. Construction and Building Materials, 2025, in review.
-8. Lei, Z., Ran, H., Li, Z., **<u>Shi, X.</u>** Synergistic Effect of Nano-TiO<sub>2</sub> and Organic Montmorillonite Modification of Epoxy Resin on the CFRP/Concrete Interfacial Characteristics. *Journal of Composites for Construction*, 2024, in review.
+
 
 <font size=5> In press </font>
 
@@ -32,9 +32,10 @@ Double asterisks (&#42;&#42;) represent a graduate student.
 
 
 <font size=5> 2025 </font>
-1. He, J., **Deng, Y.**, & **<u>Shi, X.</u>** ["Quantitative Analysis of Pore Structures and Microcracks in Self-Healing Concrete after Freeze-Thaw Exposure: An X-Ray Computed Tomography-based Approach."](https://doi.org/10.1016/j.cemconcomp.2025.106105) Cement and Concrete Composites,162, 2025:106105.
-2. Gong, J., Chen, C., Liu, J., Li, Z.,& **<u>Shi, X.</u>** ["Synergistic Upcycling MSWI Ash and Class F Fly Ash to Prepare a Sustainable Ternary Cementitious Composite."](https://doi.org/10.1016/j.jobe.2025.112474) *Journal of Building Engineering* 105, 2025:112474.
-3. Li, Z., **<u>Shi, X.</u>** ["Influence of graphene oxide on resistance of a fly ash-based geopolymer paste to cyclic freeze-thaw damage and post-damage carbonation."](https://doi.org/10.1016/j.cemconcomp.2025.106023) *Cement and Concrete Composites* 160, 2025:106023.
+1. Lei, Z., Ran, H., Li, Z., **<u>Shi, X.</u>** ["Synergistic Effect of Nano-TiO<sub>2</sub> and Organic Montmorillonite Modification of Epoxy Resin on the CFRP/Concrete Interfacial Characteristics."](https://doi.org/10.1061/JCCOF2.CCENG-4918) *Journal of Composites for Construction*, 29(4), 2025.
+2. He, J., **Deng, Y.**, & **<u>Shi, X.</u>** ["Quantitative Analysis of Pore Structures and Microcracks in Self-Healing Concrete after Freeze-Thaw Exposure: An X-Ray Computed Tomography-based Approach."](https://doi.org/10.1016/j.cemconcomp.2025.106105) Cement and Concrete Composites,162, 2025:106105.
+3. Gong, J., Chen, C., Liu, J., Li, Z.,& **<u>Shi, X.</u>** ["Synergistic Upcycling MSWI Ash and Class F Fly Ash to Prepare a Sustainable Ternary Cementitious Composite."](https://doi.org/10.1016/j.jobe.2025.112474) *Journal of Building Engineering* 105, 2025:112474.
+4. Li, Z., **<u>Shi, X.</u>** ["Influence of graphene oxide on resistance of a fly ash-based geopolymer paste to cyclic freeze-thaw damage and post-damage carbonation."](https://doi.org/10.1016/j.cemconcomp.2025.106023) *Cement and Concrete Composites* 160, 2025:106023.
 
 
 <font size=5> 2024 </font>
