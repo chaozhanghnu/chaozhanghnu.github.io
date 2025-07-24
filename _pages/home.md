@@ -75,7 +75,7 @@ permalink: /
 
 <p><font size=4> 🥇 Prof. Xianming Shi for <a href="https://www.linkedin.com/posts/xianmingshi_i-am-humbled-by-the-honor-of-receiving-the-activity-7194155375028232192-64Yp/"> receiving the Anjan Bose Outstanding Researcher Award </a> by the Voiland College of Engineering and Architecture, Washington State University.</p>
     
-<p><font size=4> 🎉 Zhigang Zhang, Zhipeng Li, Jialuo He, Shunzhi Qian and Prof. Xianming Shi for accepting a paper titled "<a href="https://doi.org/10.1016/j.jclepro.2024.142476">Recycled mask polypropylene microfibers benefit tensile properties and prevent thermally induced spalling of high-strength engineered cementitious composite (HS-ECC)</a>" by Journal of Cleaner Production. -06/2024</font></p>
+<p><font size=4> 🎉  Amir Ali Shahmansouri, Zhigang Zhang, Hessam AzariJafari and Prof. Xianming Shi for pbulishing a paper titled "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0958946525003014">Biochar-amended high-strength engineered cementitious composites</a>" by Cement and Concrete Composites. -July 2025</font></p>
 
 <div style="width: 300px; height: 300px;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=zLEYu_qp3LhWBE4uAnpL7JkaDmDtH8ehrQqWco6hNvw"></script>
