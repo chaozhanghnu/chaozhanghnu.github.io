@@ -1,7 +1,7 @@
 
-- name: "This could be you !"
+- name: "This could be you ! - Welcome to join us"
   photo: um.jpg
-  info: Wecome to join us!
+  info: Welcome to join us!
   email:  Please contact us by <a href="mxl2120@miami.edu">Email - mxl2120@miami.edu</a>
   number_educ: 0
   education1:
