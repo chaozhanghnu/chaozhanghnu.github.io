@@ -1,27 +1,37 @@
-- name: Eric
+- name: Saba, Eric Anthony
   photo: Eric.jpg
-  info: Welcome to join us!
-  Work time: 
+  info: Mentored by Dr. Liu
+  Work time: Spring 2025 semester
   number_educ: 0
   education1:
   education2:
   education3:
   education4:
 
-  - name: "This could be you ! - Welcome to join us"
-  photo: um.jpg
-  info: Welcome to join us!
-  email:  Please contact us by <a href="mxl2120@miami.edu">Email - mxl2120@miami.edu</a>
+- name: Paulino, Olivia Hudson
+  photo: Ovilia.jpg
+  info: Mentored by Dr. Liu
+  Work time: Spring 2025 semester
   number_educ: 0
   education1:
   education2:
   education3:
   education4:
 
-  - name: "This could be you ! - Welcome to join us"
-  photo: um.jpg
-  info: Welcome to join us!
-  email:  Please contact us by <a href="mxl2120@miami.edu">Email - mxl2120@miami.edu</a>
+- name: Emily Zhu
+  photo: Emily.jpg
+  info: Mentored by Dr. Liu
+  Work time: Spring 2025 semester
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+  - name: Alam, Rayeed Ul
+  photo: Emily.jpg
+  info: Mentored by Dr. Liu
+  Work time: Spring 2025 semester
   number_educ: 0
   education1:
   education2:
