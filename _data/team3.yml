@@ -1,3 +1,33 @@
+- name: Eric
+  photo: Eric.jpg
+  info: Welcome to join us!
+  Work time: 
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+  - name: "This could be you ! - Welcome to join us"
+  photo: um.jpg
+  info: Welcome to join us!
+  email:  Please contact us by <a href="mxl2120@miami.edu">Email - mxl2120@miami.edu</a>
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+  - name: "This could be you ! - Welcome to join us"
+  photo: um.jpg
+  info: Welcome to join us!
+  email:  Please contact us by <a href="mxl2120@miami.edu">Email - mxl2120@miami.edu</a>
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
 
 - name: "This could be you ! - Welcome to join us"
   photo: um.jpg
