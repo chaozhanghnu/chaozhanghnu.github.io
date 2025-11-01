@@ -10,34 +10,32 @@
 
 - name: Paulino, Olivia Hudson
   photo: Ovilia.jpg
-  info: Mentored by Dr. Liu
-  Work time: Spring 2025 semester
-  number_educ: 0
-  education1:
-  education2:
-  education3:
+  info: 
+  number_educ: 1
+  education1: Spring 2025 semester
+  education2: Mentored by Dr. Liu
+  education3: 
   education4:
 
 - name: Emily Zhu
   photo: Emily.jpg
   info: Mentored by Dr. Liu
   Work time: Spring 2025 semester
-  number_educ: 0
-  education1:
-  education2:
+  number_educ: 1
+  education1: Spring 2025 semester
+  education2: Mentored by Dr. Liu
   education3:
   education4:
 
-  - name: Alam, Rayeed Ul
-  photo: Emily.jpg
-  info: Mentored by Dr. Liu
-  Work time: Fall 2025 semester
-  number_educ: 0
-  education1:
-  education2:
+- name: Alam, Rayeed Ul
+  photo: Rayeed.jpg
+  info: 
+  Work time: 
+  number_educ: 1
+  education1: Fall 2025 semester
+  education2: Mentored by Dr. Liu
   education3:
   education4:
-
 
 - name: "This could be you ! - Welcome to join us"
   photo: um.jpg
