@@ -23,18 +23,19 @@
   photo: CC.jpg
   info1: 
   info2: 
-  email: 
-  number_educ: 4
-  education1: Ph.D. student, Washington State University 
-  education2: M.S. University of Texas at Dallas (2020)
-  education3: M.S. Dalian University of Technology, China 
-  education4: B.S. Dalian University of Technology, China
+  email: <a href="mailto:cxc2645@miami.edu">Email - cxc2645@miami.edu</a>
+  number_educ: 5
+  education1: Ph.D. student, Unversity of Miami
+  education2: Ph.D. student, Washington State University 
+  education3: M.S. University of Texas at Dallas (2020)
+  education4: M.S. Dalian University of Technology, China 
+  education5: B.S. Dalian University of Technology, China
 
 - name: <a href="https://labs.wsu.edu/smartgreeninfrastructure/our-lab-team/"> Amir Ali Shahmansouri </a>
   photo: Amir.jpg
   info1: 
   info2: 
-  email: 
+  email: <a href="mailto:axs9807@miami.edu">Email - axs9807@miami.edu</a>
   number_educ: 3
   education1: Ph.D. student, Washington State University 
   education2: M.S. University of Mazandaran (2022)
@@ -44,7 +45,7 @@
   photo: Akinleye.jpg
   info1: 
   info2: 
-  email: 
+  email: <a href="mailto:taiwo.akinleye@wsu.edu">Email - taiwo.akinleye@wsu.edu</a>   
   number_educ: 3
   education1: Ph.D. student, Washington State University 
   education2: M.S. Washington State University (2021)
@@ -54,7 +55,7 @@
   photo: ZZG.jpg
   info1: 
   info2: 
-  email: 
+  email: <a href="mailto:zaz344@miami.edu">Email - zaz344@miami.edu</a>
   number_educ: 4
   education1: Ph.D. student (2025-), University of Miami 
   education2: Ph.D. Dongnan University (2010-2016)
