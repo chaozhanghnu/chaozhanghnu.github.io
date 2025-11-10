@@ -7,7 +7,7 @@ permalink: /pictures/
 
 <h4>Gallery</h4>
 
-<p>2025<font size=4><a Nov. 04 SMARIN Group lunch </a></p>
+<h5>SMARIN Group Lunch on Nov. 4, 2025 – Celebrating Dr. Zhiliang Zhou’s Defense (Prof. Shi, Ony, Postdocs, PhD, MS, and Undergraduates)</h5>
 <img src="https://SMARIN-LAB.github.io/images/slides-lq/Eatting_Nov07.jpg" width="65%">
 <hr />
 
