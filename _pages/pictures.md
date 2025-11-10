@@ -7,8 +7,8 @@ permalink: /pictures/
 
 <h4>Gallery</h4>
 
-<p>2025<font size=4><a href="https://tridurle.wsu.edu/tridurle-university-of-miami-symposium-2025/"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) </a></p>
-<img src="https://SMARIN-LAB.github.io/images/slides-lq/CSI3conference.jpg" width="65%">
+<p>2025<font size=4><a Nov. 04 SMARIN Group lunch </a></p>
+<img src="https://SMARIN-LAB.github.io/images/slides-lq/Eatting_Nov07.jpg" width="65%">
 <hr />
 
 <p>2025<font size=4><a href="https://tridurle.wsu.edu/tridurle-university-of-miami-symposium-2025/"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) </a></p>
