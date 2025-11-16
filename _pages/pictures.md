@@ -11,6 +11,13 @@ permalink: /pictures/
 <img src="https://SMARIN-LAB.github.io/images/slides-lq/Eatting_Nov07.jpg" width="65%">
 <hr />
 
+<h5>2025 Oct. 10 The Pacific Northwest Transportation Consortium (PacTrans) Annual Conference – Chuang Chen presented the study “From High-Dimensional Data to Latent Insights: A Dynamic Factor Modeling Framework for Winter Road Resilience.”
+This work is co-authored with Prof. Xianming Shi, Yong Deng, and Jialuo He.
+A photo of Chuang at the conference is shown below. </h5>
+<img src="https://SMARIN-LAB.github.io/images/slides-lq/conference_chenchuang.jpg" width="65%">
+<hr />
+
+
 <p>2025<font size=4><a href="https://tridurle.wsu.edu/tridurle-university-of-miami-symposium-2025/"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) </a></p>
 <img src="https://SMARIN-LAB.github.io/images/slides-lq/CSI3conference.jpg" width="65%">
 <hr />
