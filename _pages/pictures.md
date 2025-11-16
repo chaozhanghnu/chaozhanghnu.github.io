@@ -19,6 +19,7 @@ A photo of Chuang at the conference is shown below. </h5>
 
 <h5>2025 Oct. 02-05 C3 Symposium, Chicago, Oct 2–5. </h5>
 <img src="https://SMARIN-LAB.github.io/images/slides-lq/C3_conference_2025.jpg" width="65%">
+<img src="https://SMARIN-LAB.github.io/images/slides-lq/C3_conference_Shi.jpg" width="65%">
 <hr />
 
 <p>2025<font size=4><a href="https://tridurle.wsu.edu/tridurle-university-of-miami-symposium-2025/"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) </a></p>
