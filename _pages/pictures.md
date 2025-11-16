@@ -19,8 +19,8 @@ A photo of Chuang at the conference is shown below. </h5>
 
 <h5>Oct 2–5, 2025 — C3 Symposium, Chicago</h5>
 
-<img src="C3_conference_Shi.jpg" width="65%" style="margin-bottom: 10px;">
-<img src="C3_conference_2025.png" width="65%" style="margin-bottom: 10px;">
+<img src="https://SMARIN-LAB.github.io/images/slides-lq/C3_conference_Shi.jpg" width="65%" style="margin-bottom: 10px;">
+<img src="https://SMARIN-LAB.github.io/images/slides-lq/C3_conference_2025.png" width="65%" style="margin-bottom: 10px;">
 
 <hr />
 
