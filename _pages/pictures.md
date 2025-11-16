@@ -12,7 +12,7 @@ permalink: /pictures/
 <hr />
 
 <h5>2025 Oct. 10 The Pacific Northwest Transportation Consortium (PacTrans) Annual Conference – Chuang Chen presented the study “From High-Dimensional Data to Latent Insights: A Dynamic Factor Modeling Framework for Winter Road Resilience.”
-This work is co-authored with Prof. Xianming Shi, Yong Deng, and Jialuo He.
+This work is co-authored with Prof. Xianming Shi, Dr. Yong Deng, and Dr. Jialuo He.
 A photo of Chuang at the conference is shown below. </h5>
 <img src="https://SMARIN-LAB.github.io/images/slides-lq/conference_chenchuang.jpg" width="65%">
 <hr />
