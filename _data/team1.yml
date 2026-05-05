@@ -1,13 +1,3 @@
-- name: <a href="https://labs.wsu.edu/smartgreeninfrastructure/our-lab-team/"> Zhiliang Zhou </a>
-  photo: ZZL.png
-  info1: 
-  info2: 
-  email: <a href="mailto:zaz336@miami.edu">Email - zaz336@miami.edu</a>
-  number_educ: 4
-  education1: Ph.D. student, University of Miami, FL (2024-)
-  education2: Ph.D. student, Washington State University, WA 
-  education3: M.S., University of Jinan, China
-  education4: B.S. University of Jinan, China
 
 - name: <a href="https://labs.wsu.edu/smartgreeninfrastructure/our-lab-team/"> Ali Mahmoodigahrouei </a>
   photo: Ali.jpg
@@ -51,7 +41,7 @@
   education2: M.S. Washington State University (2021)
   education3: M. Eng. The Federal University of Technology, Akure, Nigeria (2018)
 
-- name: <a href="https://faculty.cqu.edu.cn/ZhigangZhang/en/index.htm"> Zhigang Zhang </a>
+- name: <a Zhigang Zhang </a>
   photo: ZZG.jpg
   info1: 
   info2: 
