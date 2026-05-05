@@ -8,13 +8,6 @@
   education2: M.S. IIIinois Institute of Technology (2015)
   education3: M.S. Nanjing Tech University, China (2013)
 
-- name: <a href="https://labs.wsu.edu/smartgreeninfrastructure/our-lab-team/"> Zhiliang Zhou </a>
-  info1: 
-  info2: 
-  number_educ: 3 
-  education1: Ph.D. student, University of Miami, FL (2024-2025)
-  education2: Ph.D. student, Washington State University, WA 
-  education3: M.S. Jinan University.
 
 - name: <a href="https://www2.scut.edu.cn/jtxy/2024/0701/c35039a557997/page.htm"> Yong Deng </a>
   photo: DY.jpg
@@ -63,6 +56,14 @@
   number_educ: 2
   education1: Ph.D. Washington State University (2024)
   education2: M.S. Hong Kong University of Science and Technology (2019)
+
+  - name: <a href="https://labs.wsu.edu/smartgreeninfrastructure/our-lab-team/"> Zhiliang Zhou </a>
+  info1: 
+  info2: 
+  number_educ: 3 
+  education1: Ph.D. student, University of Miami, FL (2024-2025)
+  education2: Ph.D. student, Washington State University, WA 
+  education3: M.S. Jinan University.
 
 
 
