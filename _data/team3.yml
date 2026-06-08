@@ -4,7 +4,7 @@
   Work time: 
   number_educ: 2
   education1: Spring 2025 semester
-  education2: Mentored by Dr. Liu on biochar-doped Asphalt
+  education2: Mentored by Dr. Liu on biochar-modified materials (Experimental training)
   education3: 
   education4:
 
@@ -13,7 +13,7 @@
   info: 
   number_educ: 2
   education1: Spring 2025 semester
-  education2: Mentored by Dr. Liu on biochar-doped Asphalt
+  education2: Mentored by Dr. Liu on biochar-modifed materials (Experiemental training)
   education3: 
   education4:
 
@@ -23,7 +23,7 @@
   Work time: Spring 2025 semester
   number_educ: 2
   education1: Spring 2025 semester
-  education2: Mentored by Dr. Liu on biochar-doped Asphalt
+  education2: Mentored by Dr. Liu on biochar-modified materials (Experiments training)
   education3:
   education4:
 
@@ -33,6 +33,26 @@
   Work time: 
   number_educ: 2
   education1: Fall 2025 semester
+  education2: Mentored by Dr. Liu on Molecular Simulation 
+  education3:
+  education4:
+
+- name: Kate Rubino 
+  photo: Kate.jpg
+  info: 
+  Work time: 
+  number_educ: 2
+  education1: Spring 2026 semester
+  education2: Mentored by Dr. Liu on Molecular Simulation 
+  education3:
+  education4:
+
+  - name: Bella Salzbrunn
+  photo: Bella.jpg
+  info: 
+  Work time: 
+  number_educ: 2
+  education1: Spring 2026 semester
   education2: Mentored by Dr. Liu on Molecular Simulation 
   education3:
   education4:
