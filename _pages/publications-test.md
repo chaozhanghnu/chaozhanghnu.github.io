@@ -6,6 +6,146 @@ sitemap: false
 permalink: /publications-test/
 ---
 
+<style>
+/* Publications page: journal covers on the left, publication list on the right */
+.publications-layout {
+  display: grid;
+  grid-template-columns: 165px minmax(0, 1fr);
+  column-gap: 38px;
+  align-items: start;
+}
+
+.journal-covers {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 26px;
+  padding-top: 4px;
+}
+
+#gridid .journal-covers .journal-cover {
+  display: block;
+  width: 150px;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  border: 1px solid rgba(0, 0, 0, 0.10);
+  border-radius: 2px;
+  background: #ffffff;
+  box-shadow:
+    0 4px 8px rgba(0, 0, 0, 0.16),
+    0 12px 24px rgba(0, 0, 0, 0.10);
+  transition:
+    transform 0.22s ease,
+    box-shadow 0.22s ease;
+}
+
+#gridid .journal-covers .journal-cover:hover {
+  transform: translateY(-6px) scale(1.025);
+  box-shadow:
+    0 8px 15px rgba(0, 0, 0, 0.20),
+    0 18px 34px rgba(0, 0, 0, 0.16);
+}
+
+.publication-list {
+  min-width: 0;
+}
+
+/* Tablet and mobile layout */
+@media (max-width: 767px) {
+  .publications-layout {
+    display: block;
+  }
+
+  .journal-covers {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+    margin: 0 0 30px;
+    padding: 0;
+  }
+
+  #gridid .journal-covers .journal-cover {
+    width: 100%;
+    max-width: 135px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 430px) {
+  .journal-covers {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+</style>
+
+<div class="publications-layout">
+
+<aside class="journal-covers" aria-label="Selected journal covers">
+
+<img class="journal-cover"
+     src="{{ '/images/publication-covers/PRL.jpg' | relative_url }}"
+     alt="Physical Review Letters cover"
+     title="Physical Review Letters"
+     loading="lazy">
+
+<img class="journal-cover"
+     src="{{ '/images/publication-covers/ROG.jpg' | relative_url }}"
+     alt="Reviews of Geophysics cover"
+     title="Reviews of Geophysics"
+     loading="lazy">
+
+<img class="journal-cover"
+     src="{{ '/images/publication-covers/Géotechnique.jpeg' | relative_url }}"
+     alt="Géotechnique cover"
+     title="Géotechnique"
+     loading="lazy">
+
+<img class="journal-cover"
+     src="{{ '/images/publication-covers/JGGE.png' | relative_url }}"
+     alt="Journal of Geotechnical and Geoenvironmental Engineering cover"
+     title="Journal of Geotechnical and Geoenvironmental Engineering"
+     loading="lazy">
+
+<img class="journal-cover"
+     src="{{ '/images/publication-covers/WRR.jpg' | relative_url }}"
+     alt="Water Resources Research cover"
+     title="Water Resources Research"
+     loading="lazy">
+
+<img class="journal-cover"
+     src="{{ '/images/publication-covers/PRE.jpg' | relative_url }}"
+     alt="Physical Review E cover"
+     title="Physical Review E"
+     loading="lazy">
+
+<!--
+PRF.jpg is not currently present in the uploaded GitHub folder.
+After uploading it to images/publication-covers/PRF.jpg, remove these comment marks:
+
+<img class="journal-cover"
+     src="{{ '/images/publication-covers/PRF.jpg' | relative_url }}"
+     alt="Physical Review Fluids cover"
+     title="Physical Review Fluids"
+     loading="lazy">
+-->
+
+<img class="journal-cover"
+     src="{{ '/images/publication-covers/AEI.jpg' | relative_url }}"
+     alt="Advanced Engineering Informatics cover"
+     title="Advanced Engineering Informatics"
+     loading="lazy">
+
+<img class="journal-cover"
+     src="{{ '/images/publication-covers/GRL.jpg' | relative_url }}"
+     alt="Geophysical Research Letters cover"
+     title="Geophysical Research Letters"
+     loading="lazy">
+
+</aside>
+
+<div class="publication-list" markdown="1">
 
 **Bold** indicates PI, <u>underline</u> indicates supervised students.
 
@@ -182,3 +322,7 @@ permalink: /publications-test/
 9. Wenhai Ke, **Chao Zhang**, and Peng Deng. ["Kinematic response of single piles to vertical P-waves in multilayered soil."](https://www.sciencedirect.com/science/article/pii/S0266352X18301629) Journal of Earthquake and Tsunami 9, no. 2 (2015): 1550004.
 
 10. **Chao Zhang**, Qijian Liu, and Peng Deng. ["Antiplane scattering of SH waves by a trapezoidal valley with a circular-arc alluvium in an elastic half space."](https://www.worldscientific.com/doi/abs/10.1142/S1793431115500086) Journal of Earthquake and Tsunami 9, no. 3 (2015): 1550008.
+
+</div>
+
+</div>
