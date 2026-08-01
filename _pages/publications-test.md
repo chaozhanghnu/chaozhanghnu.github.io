@@ -6,9 +6,10 @@ sitemap: false
 permalink: /publications-test/
 ---
 
+
 **Bold** indicates PI, <u>underline</u> indicates supervised students.
 
-******
+*****
 
 <font size=5> 2026 </font>
 
@@ -92,7 +93,7 @@ permalink: /publications-test/
 
 7. <u>Lingyun Gou</u>, **Chao Zhang**, <u>Shaojie Hu</u>, Renpeng Chen, and Yi Dong. ["Semi-analytical solutions for soil consolidation induced by drying."](https://link.springer.com/article/10.1007/s11440-022-01623-4) Acta Geotechnica 18, no. 2 (2023): 739-755.
 
-8. Haohao Zhang, Jun Wu, **Chao Zhang**, and Yi Dong. "Water Adsorption on Kaolinite Basal and Edge Surfaces." Langmuir 39, no. 22 (2023): 7539-7547.
+8. Haohao Zhang, Jun Wu, **Chao Zhang**, and Yi Dong. ["Water Adsorption on Kaolinite Basal and Edge Surfaces."](https://doi.org/10.1021/acs.langmuir.2c03282) Langmuir 39, no. 22 (2023): 7539-7547.
 
 *****
 
@@ -106,7 +107,7 @@ permalink: /publications-test/
 
 4. <u>Jianbo Wang</u>, <u>Zemin Qiu</u>, **Chao Zhang**, and Renpeng Chen. ["Assessing temperature dependence of soil water adsorption strength by molecular simulation."](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgele.21.00126) Géotechnique Letters 12, no. 2 (2022): 125-130.
 
-5. **Chao Zhang**, <u>Shaojie Hu</u>, and Ning Lu. ["Unified elastic modulus characteristic curve equation for variably saturated soils."](https://ascelibrary.org/doi/abs/10.1061/(ASCE)GT.1943-5606.0002718) Journal of Geotechnical and Geoenvironmental Engineering 148, no. 1 (2022): 04021171.
+5. **Chao Zhang**, <u>Shaojie Hu</u>, and Ning Lu. ["Unified elastic modulus characteristic curve equation for variably saturated soils."](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29GT.1943-5606.0002718) Journal of Geotechnical and Geoenvironmental Engineering 148, no. 1 (2022): 04021171.
 
 *****
 
@@ -134,11 +135,11 @@ permalink: /publications-test/
 
 1. Wenhai Ke, Qijian Liu, and **Chao Zhang**. ["Kinematic bending of single piles in layered soil."](https://link.springer.com/article/10.1007/s11440-018-0640-y) Acta Geotechnica 14 (2019): 101-110.
 
-2. Ning Lu, and **Chao Zhang**. ["Soil sorptive potential: Concept, theory, and verification."](https://ascelibrary.org/doi/abs/10.1061/(asce)gt.1943-5606.0002025) Journal of Geotechnical and Geoenvironmental Engineering 145, no. 4 (2019): 04019006.
+2. Ning Lu, and **Chao Zhang**. ["Soil sorptive potential: Concept, theory, and verification."](https://ascelibrary.org/doi/abs/10.1061/%28asce%29gt.1943-5606.0002025) Journal of Geotechnical and Geoenvironmental Engineering 145, no. 4 (2019): 04019006.
 
 3. **Chao Zhang**, and Ning Lu. ["Augmented Brunauer–Emmett–Teller equation for water adsorption on soils."](https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/vzj2019.01.0011) Vadose Zone Journal 18, no. 1 (2019): 1-12.
 
-4. **Chao Zhang**, and Ning Lu. ["Unitary definition of matric suction."](https://ascelibrary.org/doi/full/10.1061/(ASCE)GT.1943-5606.0002004) Journal of Geotechnical and Geoenvironmental Engineering 145, no. 2 (2019): 02818004.
+4. **Chao Zhang**, and Ning Lu. ["Unitary definition of matric suction."](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29GT.1943-5606.0002004) Journal of Geotechnical and Geoenvironmental Engineering 145, no. 2 (2019): 02818004.
 
 *****
 
