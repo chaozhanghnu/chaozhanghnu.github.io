@@ -293,7 +293,7 @@ After uploading it to images/publication-covers/PRF.jpg, remove these comment ma
 
 4. **Chao Zhang**, and Ning Lu. ["Measuring soil–water density by helium pycnometer."](https://www.pc-progress.com/Images/Personal/NLu/Publications/NLJ117201805.pdf) Journal of Geotechnical and Geoenvironmental Engineering 144, no. 9 (2018): 02818002.
 
-5. Peng Deng, Shiling Pei, John W. van de Lindt, and **Chao Zhang**. ["Experimental investigation of seismic uncertainty propagation through shake table tests."](https://www.pc-progress.com/Images/Personal/NLu/Publications/NLJ117201805.pdf) Journal of Structural Engineering 144, no. 3 (2018): 06017009.
+5. Peng Deng, Shiling Pei, John W. van de Lindt, and **Chao Zhang**. ["Experimental investigation of seismic uncertainty propagation through shake table tests."](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001975) Journal of Structural Engineering 144, no. 3 (2018): 06017009.
 
 6. **Chao Zhang**, and Zhen Liu. ["Freezing of water confined in porous materials: role of adsorption and unfreezable threshold."](https://link.springer.com/article/10.1007/s11440-018-0637-6) Acta Geotechnica 13 (2018): 1203-1213.
 
@@ -317,9 +317,9 @@ After uploading it to images/publication-covers/PRF.jpg, remove these comment ma
 
 7. **Chao Zhang**, Zhen Liu, and Peng Deng. ["Contact angle of soil minerals: A molecular dynamics study."](https://www.sciencedirect.com/science/article/pii/S0266352X16000215) Computers and Geotechnics 75 (2016): 48-56.
 
-8. Qijian Liu, Mingjuan Zhao, and **Chao Zhang**. ["Antiplane scattering of SH waves by a circular cavity in an exponentially graded half space."](https://www.scopus.com/record/display.uri?eid=2-s2.0-84897695574&origin=inward&txGid=218cbdc717d2d6cd0e1add7720cf9c3d) International Journal of Engineering Science 78 (2014): 61-72.
+8. Qijian Liu, Mingjuan Zhao, and **Chao Zhang**. ["Antiplane scattering of SH waves by a circular cavity in an exponentially graded half space."](https://www.sciencedirect.com/science/article/abs/pii/S0020722514000214) International Journal of Engineering Science 78 (2014): 61-72.
 
-9. Wenhai Ke, **Chao Zhang**, and Peng Deng. ["Kinematic response of single piles to vertical P-waves in multilayered soil."](https://www.sciencedirect.com/science/article/pii/S0266352X18301629) Journal of Earthquake and Tsunami 9, no. 2 (2015): 1550004.
+9. Wenhai Ke, **Chao Zhang**, and Peng Deng. ["Kinematic response of single piles to vertical P-waves in multilayered soil."](https://www.worldscientific.com/doi/abs/10.1142/S1793431115500049) Journal of Earthquake and Tsunami 9, no. 2 (2015): 1550004.
 
 10. **Chao Zhang**, Qijian Liu, and Peng Deng. ["Antiplane scattering of SH waves by a trapezoidal valley with a circular-arc alluvium in an elastic half space."](https://www.worldscientific.com/doi/abs/10.1142/S1793431115500086) Journal of Earthquake and Tsunami 9, no. 3 (2015): 1550008.
 
