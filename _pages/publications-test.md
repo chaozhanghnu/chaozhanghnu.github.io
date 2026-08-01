@@ -291,7 +291,7 @@ After uploading it to images/publication-covers/PRF.jpg, remove these comment ma
 
 3. Peng Deng, **Chao Zhang**, Shiling Pei, and Zhibin Jin. ["Modeling the impact of corrosion on seismic performance of multi-span simply-supported bridges."](https://www.sciencedirect.com/science/article/abs/pii/S0950061818316702) Construction and Building Materials 185 (2018): 193-205.
 
-4. **Chao Zhang**, and Ning Lu. ["Measuring soil–water density by helium pycnometer."](https://www.pc-progress.com/Images/Personal/NLu/Publications/NLJ117201805.pdf) Journal of Geotechnical and Geoenvironmental Engineering 144, no. 9 (2018): 02818002.
+4. **Chao Zhang**, and Ning Lu. ["Measuring soil–water density by helium pycnometer."](https://doi.org/10.1061/%28ASCE%29GT.1943-5606.0001929) Journal of Geotechnical and Geoenvironmental Engineering 144, no. 9 (2018): 02818002.
 
 5. Peng Deng, Shiling Pei, John W. van de Lindt, and **Chao Zhang**. ["Experimental investigation of seismic uncertainty propagation through shake table tests."](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0001975) Journal of Structural Engineering 144, no. 3 (2018): 06017009.
 
@@ -309,7 +309,7 @@ After uploading it to images/publication-covers/PRF.jpg, remove these comment ma
 
 3. **Chao Zhang**, Yi Dong, and Zhen Liu. ["Lowest matric potential in quartz: Metadynamics evidence."](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL071928) Geophysical Research Letters 44, no. 4 (2017): 1706-1713.
 
-4. **Chao Zhang**, Qijian Liu, and Peng Deng. ["Surface Motion of a Half-Space with a semicylindrical canyon under P, SV, and rayleigh waves."](https://chooser.crossref.org/?doi=10.1785%2F0120160207) Bulletin of the Seismological Society of America 107, no. 2 (2017): 809-820.
+4. **Chao Zhang**, Qijian Liu, and Peng Deng. ["Surface Motion of a Half-Space with a semicylindrical canyon under P, SV, and rayleigh waves."](https://doi.org/10.1785/0120160207) Bulletin of the Seismological Society of America 107, no. 2 (2017): 809-820.
 
 5. Qijian Liu, **Chao Zhang**, and Maria I. Todorovska. ["Scattering of SH waves by a shallow rectangular cavity in an elastic half space."](https://www.sciencedirect.com/science/article/abs/pii/S0267726116301725) Soil Dynamics and Earthquake Engineering 90 (2016): 147-157.
 
