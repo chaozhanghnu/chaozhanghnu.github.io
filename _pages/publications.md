@@ -20,7 +20,7 @@ permalink: /publications/
   flex-direction: column;
   align-items: center;
   gap: 26px;
-  padding-top: 4px;
+  padding-top: 52px;
 }
 
 #gridid .journal-covers .journal-cover {
