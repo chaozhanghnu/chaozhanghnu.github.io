@@ -3,7 +3,7 @@ title: "UNSAT - Publications"
 layout: gridlay
 excerpt: "UNSAT at Hunan University."
 sitemap: false
-permalink: /publications-test/
+permalink: /publications/
 ---
 
 <style>
