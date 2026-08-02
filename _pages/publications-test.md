@@ -120,6 +120,18 @@ permalink: /publications-test/
      title="Physical Review E"
      loading="lazy">
 
+<img class="journal-cover"
+     src="{{ '/images/publication-covers/JEM.png' | relative_url }}"
+     alt="Journal of Engineering Mechanics cover"
+     title="Journal of Engineering Mechanics"
+     loading="lazy">
+
+<img class="journal-cover"
+     src="{{ '/images/publication-covers/CGJ.jpg' | relative_url }}"
+     alt="Canadian Geotechnical Journal cover"
+     title="Canadian Geotechnical Journal"
+     loading="lazy">
+
 <!--
 PRF.jpg is not currently present in the uploaded GitHub folder.
 After uploading it to images/publication-covers/PRF.jpg, remove these comment marks:
