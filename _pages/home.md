@@ -25,19 +25,6 @@ permalink: /
 
 <h4>Recent News</h4>
 
-{% assign recent_news = site.categories.news %}
-
-{% for post in recent_news limit: 6 %}
-<p>
-    <font size=4>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <br>
-        {{ post.excerpt | strip_html }}
-        -{{ post.date | date: "%m/%Y" }}
-    </font>
-</p>
-{% endfor %}
-
 <p><font size=4> Congratulations to Lijun, Shaojie, and Lingyun for accepting a paper titled "<a href="https://www.sciencedirect.com/science/article/pii/S0017931023010591">Physical origin of adsorption heat and its significance in the isotherm equation.</a>" by International Journal of Heat and Mass Transfer.-011/2023</font></p>
 
 <p><font size=4> Congratulations to Ningning and Shaojie for accepting a paper titled "<a href="https://www.sciencedirect.com/science/article/pii/S0927775723009354#:~:text=It%20is%20demonstrated%20that%20freezing,for%20freezing%20instead%20of%20capillarity">Physical Origins of Freezing and Melting Temperature Depressions of Water in Millimeter-Sized Pores.</a>" by Colloids and Surfaces A: Physicochemical and Engineering Aspects.-06/2023</font></p>
