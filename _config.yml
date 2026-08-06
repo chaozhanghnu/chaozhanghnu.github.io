@@ -17,6 +17,23 @@ include:
   - .htaccess
   - _pages
 
+# Files and folders excluded from the generated website
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+  # 网站不需要打包的备份、压缩包和高清原图
+  - images/teampic/teampic.rar
+  - images/teampic/PIC_v2.0.zip
+  - images/teampic2/PIC_v2.0.zip
+  - images/publication-covers-original
+  - images/slides
+
 sass:
   sass_dir: _sass
 
