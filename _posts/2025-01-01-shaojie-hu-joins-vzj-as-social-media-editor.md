@@ -38,9 +38,3 @@ Shaojie conducted both his undergraduate and doctoral studies at **Hunan Univers
 **Editorial board:** [Vadose Zone Journal Editorial Board](https://acsess.onlinelibrary.wiley.com/journal/15391663/editorial-board/editorial-board)
 
 **VZJ social media:** [Vadose Zone Journal on LinkedIn](https://www.linkedin.com/company/vadose-zone-journal/)
-
-**Chinese news report:** [我院直博生胡绍杰获聘为国际知名期刊《Vadose Zone Journal》社交媒体编辑](https://mp.weixin.qq.com/s/XmDJs7_RWMtwd94Zz0nydQ)
-
-**Profile feature:** [“从论文到推文，我想搭起学术与大众沟通的桥梁”](https://m.cyol.com/gb/articles/2025-03/12/content_v6YEAbhljq.html)
-
-**Shaojie Hu:** [Personal homepage](https://sjhu7.github.io/)
