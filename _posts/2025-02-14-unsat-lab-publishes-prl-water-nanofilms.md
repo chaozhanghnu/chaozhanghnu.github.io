@@ -15,14 +15,12 @@ The study revealed a mechanism by which nanometer-thick water films can transmit
 <p align="center">
   <img src="/images/news/2025-02-14-prl-water-nanofilms/freezing-propagation.jpg" alt="Water-nanofilm-mediated freezing propagation across droplets" style="width: 90%; max-width: 1000px;">
 </p>
-<p align="center"><em>Water-nanofilm-mediated freezing propagation across droplets. Image source: Hunan University News.</em></p>
 
 The **College of Civil Engineering at Hunan University** was the primary institution for the work. **Shaojie Hu** was the first author and **Prof. Chao Zhang** was the first corresponding author. The study was coauthored by **Ningning Zhao, Fuxiang Li, Renpeng Chen, and Dani Or**, and was supported by the National Natural Science Foundation of China.
 
 <p align="center">
   <img src="/images/news/2025-02-14-prl-water-nanofilms/prl-article-page.jpg" alt="Physical Review Letters webpage for the published article" style="width: 90%; max-width: 1000px;">
 </p>
-<p align="center"><em>The article page in Physical Review Letters. Image source: Hunan University News / APS.</em></p>
 
 **Paper:** [Physical Review Letters](https://doi.org/10.1103/PhysRevLett.134.064001)
 
