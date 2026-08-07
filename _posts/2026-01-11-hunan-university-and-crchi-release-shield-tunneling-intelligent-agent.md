@@ -26,7 +26,6 @@ The intelligent agent can assist with **surface-settlement prediction**, **risk 
   <img src="/images/news/2026-01-11-shield-tunneling-agent/field-application.jpg" alt="Field application of the intelligent agent during shield tunneling" style="width: 90%; max-width: 1000px;">
 </p>
 
-*Images: Hunan University News / College of Civil Engineering.*
 
 ### Media Coverage
 
