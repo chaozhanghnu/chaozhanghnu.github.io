@@ -53,7 +53,7 @@ permalink: /
 <!-- 自动读取 _posts 文件夹中 category: news 的新闻 -->
 {% assign recent_news = site.categories.news %}
 
-{% for post in recent_news limit: 6 %}
+{% for post in recent_news %}
 <p>
     <font size=4>
         <a href="{{ post.url | relative_url }}">
