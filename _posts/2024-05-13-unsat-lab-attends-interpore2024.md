@@ -16,6 +16,4 @@ During the conference, **Shaojie Hu** gave a presentation entitled **“Adsorpti
   <img src="/images/news/2024-05-13-interpore2024/shaojie-hu-presentation.jpg" width="90%">
 </p>
 
-The conference brought together researchers working on porous media science and engineering and featured oral presentations, poster sessions, and academic exchange.
-
 **Conference website:** [InterPore2024](https://www.interpore.org/node/894)
