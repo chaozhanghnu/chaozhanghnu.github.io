@@ -21,10 +21,6 @@ From **10 to 13 May 2026**, members of the **UNSAT Lab at Hunan University** att
 </p>
 
 <p align="center">
-  <img src="/images/news/2026-05-13-5ismlg/conference-session.jpg" alt="Conference session at HKUST" style="width: 90%; max-width: 900px;">
-</p>
-
-<p align="center">
   <img src="/images/news/2026-05-13-5ismlg/oral-presentation-2.jpg" alt="Oral presentation on intelligent modelling" style="width: 90%; max-width: 900px;">
 </p>
 
