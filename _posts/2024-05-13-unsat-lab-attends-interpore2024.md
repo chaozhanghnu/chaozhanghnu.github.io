@@ -12,8 +12,4 @@ From **13 to 16 May 2024**, members of the **UNSAT Lab at Hunan University** att
 
 The conference brought together researchers working on porous media science and engineering and featured oral presentations, poster sessions, and academic exchange.
 
-<p align="center">
-  <img src="/images/news/2024-05-13-interpore2024/group-photo.jpg" alt="UNSAT Lab members at InterPore2024 in Qingdao" style="width: 90%; max-width: 1000px;">
-</p>
-
 **Conference website:** [InterPore2024](https://www.interpore.org/node/894)

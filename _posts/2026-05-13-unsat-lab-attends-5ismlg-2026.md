@@ -13,10 +13,6 @@ From **10 to 13 May 2026**, members of the **UNSAT Lab at Hunan University** att
 5ISMLG is the flagship conference series of **TC309 Machine Learning** under the **International Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)**. The symposium brought together researchers, practitioners, and industry professionals to discuss recent advances in machine learning and big data analytics for geoscience and geoengineering.
 
 <p align="center">
-  <img src="/images/news/2026-05-13-5ismlg/group-photo.jpg" alt="UNSAT Lab members at HKUST" style="width: 90%; max-width: 900px;">
-</p>
-
-<p align="center">
   <img src="/images/news/2026-05-13-5ismlg/oral-presentation-1.jpg" alt="Oral presentation during a parallel session" style="width: 90%; max-width: 900px;">
 </p>
 
