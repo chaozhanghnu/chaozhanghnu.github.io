@@ -49,16 +49,4 @@ permalink: /
 
 <hr />
 
-<p>
-    <a href="https://unsat.goatcounter.com/" target="_blank" rel="noopener noreferrer">
-        Visitor Statistics
-    </a>
-</p>
-
-<p>
-    <a href="https://info.flagcounter.com/rmvF" target="_blank" rel="noopener noreferrer">
-        <img src="https://s01.flagcounter.com/map/rmvF/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/"
-             alt="Visitor Map"
-             border="0">
-    </a>
-</p>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=rV_FSnvRFb-I-PNYfxZUtI5UHqNNZVKwqMqIWwWh5Uo'></script>
