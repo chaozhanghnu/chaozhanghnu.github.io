@@ -54,3 +54,11 @@ permalink: /
         Visitor Statistics
     </a>
 </p>
+
+<p>
+    <a href="https://info.flagcounter.com/rmvF" target="_blank" rel="noopener noreferrer">
+        <img src="https://s01.flagcounter.com/map/rmvF/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/"
+             alt="Visitor Map"
+             border="0">
+    </a>
+</p>
