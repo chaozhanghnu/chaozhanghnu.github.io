@@ -16,12 +16,8 @@ During the meeting, **Yuhan Yang** presented a poster on **“Nucleation-percola
   <img src="/images/news/2024-12-09-agu24/yuhan-yang-poster-discussion.jpg" width="90%">
 </p>
 
-<p align="center"><em>Yuhan Yang discusses the research with a conference participant during the AGU24 poster session.</em></p>
-
 <p align="center">
   <img src="/images/news/2024-12-09-agu24/yuhan-yang-poster.jpg" width="90%">
 </p>
-
-<p align="center"><em>Yuhan Yang with the poster at AGU24.</em></p>
 
 **Conference website:** [AGU24 Annual Meeting](https://www.agu.org/annual-meeting-2024)

@@ -8,6 +8,9 @@ excerpt: "Members of the UNSAT Lab attended the 5th International Symposium on M
 permalink: /news/2026/05/5ismlg-2026/
 ---
 
+From **10 to 13 May 2026**, members of the **UNSAT Lab at Hunan University** attended the **5th International Symposium on Machine Learning & Big Data in Geoscience (5ISMLG 2026)** at **The Hong Kong University of Science and Technology (HKUST)** in Hong Kong.
+
+5ISMLG is the flagship conference series of **TC309 Machine Learning** under the **International Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)**. The symposium brought together researchers, practitioners, and industry professionals to discuss recent advances in machine learning and big data analytics for geoscience and geoengineering.
 
 <p align="center">
   <img src="/images/news/2026-05-13-5ismlg/presentation-room-1.jpg" alt="Oral presentation during 5ISMLG 2026" style="width: 90%; max-width: 900px;">
@@ -16,10 +19,6 @@ permalink: /news/2026/05/5ismlg-2026/
 <p align="center">
   <img src="/images/news/2026-05-13-5ismlg/presentation-room-2.jpg" alt="Oral presentation on an LLM-based RAG framework" style="width: 90%; max-width: 900px;">
 </p>
-
-From **10 to 13 May 2026**, members of the **UNSAT Lab at Hunan University** attended the **5th International Symposium on Machine Learning & Big Data in Geoscience (5ISMLG 2026)** at **The Hong Kong University of Science and Technology (HKUST)** in Hong Kong.
-
-5ISMLG is the flagship conference series of **TC309 Machine Learning** under the **International Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)**. The symposium brought together researchers, practitioners, and industry professionals to discuss recent advances in machine learning and big data analytics for geoscience and geoengineering.
 
 <p align="center">
   <img src="/images/news/2026-05-13-5ismlg/oral-presentation-1.jpg" alt="Oral presentation during a parallel session" style="width: 90%; max-width: 900px;">
