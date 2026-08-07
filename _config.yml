@@ -32,7 +32,7 @@ exclude:
   - images/teampic/PIC_v2.0.zip
   - images/teampic2/PIC_v2.0.zip
   - images/publication-covers-original
-  - images/slides
+  - images/slides/**
 
 sass:
   sass_dir: _sass
