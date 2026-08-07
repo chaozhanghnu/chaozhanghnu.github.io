@@ -120,3 +120,6 @@ permalink: /
 </p>
 
 <hr />
+<a href='https://clustrmaps.com/site/1bxb1' title='Visit tracker'>
+    <img src='//clustrmaps.com/map_v2.png?cl=c8c8cb&w=300&t=tt&d=wbh_LbGLKxvlhDomrwfThMKjvY4MT4-nCNTSx8VTZrA&co=f7f9f9&ct=0c0c0c'/>
+</a>
