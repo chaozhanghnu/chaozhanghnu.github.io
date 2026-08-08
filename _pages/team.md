@@ -72,7 +72,7 @@ permalink: /team/
 {% endif %}
 <hr />
 
-<h4>Stress State and Constitutive Relation for Unsaturated Soil</h4>
+<h4>AI for Testing and Modelling of Unsaturated Soils</h4>
 {% assign number_printed = 0 %}
 {% for member in site.data.team1 %}
 {% assign even_odd = number_printed | modulo: 2 %}
