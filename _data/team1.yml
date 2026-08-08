@@ -1,48 +1,15 @@
-- name: Jianbo Wang
-  photo: WJB.png
-  info1: Research topic - Unsaturated soil mechanics
-  info2: WeChat - Leonenor
-  email: Email - wangjianbo93@hnu.edu.cn
-  number_educ: 2
-  education1: B.S. Hunan University
-  education2: M.S. Hunan University
-
-- name: Zhenhai Liu
-  photo: LZH (2).jpg
-  info1: Research topic - Deep soil mechanics
-  info2: WeChat - lzh980204
-  email: Email - liuzh@hnu.edu.cn
-  number_educ: 1 
-  education1: B.S. Hunan University
-
 - name: <a href="https://gitlwnc.github.io/"> Yuhan Yang </a>
   photo: YYH.jpg
   info1: Research topic - Desiccation cracking of granular materials
   info2: WeChat - yyh_ce
   email: Email - yhyang@hnu.edu.cn
-  number_educ: 1 
-  education1: B.S. Hunan University
-
-- name: <a href="https://lingyungou11.github.io/"> Lingyun Gou </a>
-  photo: GLY.jpeg
-  info1: Research topic - Poromechanics
-  info2: WeChat - Lingyun_Gou
-  email: Email - lygou@hnu.edu.cn
   number_educ: 1
   education1: B.S. Hunan University
-
-- name: Xiaolei Yi
-  photo: YXL.jpeg
-  info1: Research topic - TBD
-  info2: WeChat - yxl18892119530
-  email: Email - yixiaolei@hnu.edu.cn
-  number_educ: 1
-  education1: B.S. Northwest A&F University
 
 - name: Jihao Yuan
   photo: YJH.jpg
   info1: Research topic - AI for EPBS tunneling
   info2: WeChat - wxid_te95l9fnn3fn22
   email: Email - jhyuan@hnu.edu.cn
-  number_educ: 1 
+  number_educ: 1
   education1: B.S. Hunan University
