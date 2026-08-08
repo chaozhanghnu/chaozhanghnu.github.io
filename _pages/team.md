@@ -266,6 +266,16 @@ permalink: /team/
 {% for alumni_group in site.data.unsat_alumni %}
 <h5><strong>Graduated in {{ alumni_group.year }}</strong></h5>
 
+{% if alumni_group.compact %}
+
+<div style="font-size: 18px; line-height: 1.5; margin-bottom: 20px;">
+{% for member in alumni_group.members %}
+{{ member.name }}<br>
+{% endfor %}
+</div>
+
+{% else %}
+
 {% assign number_printed = 0 %}
 {% for member in alumni_group.members %}
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -321,6 +331,8 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
+{% endif %}
+
 {% endif %}
 
 <br />
