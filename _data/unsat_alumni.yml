@@ -8,14 +8,6 @@
       number_educ: 1
       education1: B.S. Hunan University
 
-    - name: Yi Dai
-      photo: DY.jpg
-      info1: Research topic - AI for EPBS tunneling
-      info2: WeChat - DavidDY22
-      email: Email - daiyi@hnu.edu.cn
-      number_educ: 1
-      education1: B.S. China University of Geosciences Beijing
-
     - name: Zhixiong Lang
       photo: LZX2.png
       info1: Research topic - Resilient underground space
@@ -23,6 +15,14 @@
       email: Email - lzx1949@hnu.edu.cn
       number_educ: 1
       education1: B.S. Hunan University
+
+    - name: Yi Dai
+      photo: DY.jpg
+      info1: Research topic - AI for EPBS tunneling
+      info2: WeChat - DavidDY22
+      email: Email - daiyi@hnu.edu.cn
+      number_educ: 1
+      education1: B.S. China University of Geosciences Beijing
 
     - name: Yaojun Qian
       photo: QYJ.jpg
@@ -43,6 +43,15 @@
       education1: B.S. Central South University
       education2: M.S. Central South University
 
+    - name: Jianbo Wang
+      photo: WJB.png
+      info1: Research topic - Unsaturated soil mechanics
+      info2: WeChat - Leonenor
+      email: Email - wangjianbo93@hnu.edu.cn
+      number_educ: 2
+      education1: B.S. Hunan University
+      education2: M.S. Hunan University
+
     - name: Lijun Li
       photo: LLJ.jpeg
       info1: Research topic - Phase transition in porous media
@@ -58,15 +67,6 @@
       email: Email - zhou_jx@hnu.edu.cn
       number_educ: 1
       education1: B.S. Hunan University
-
-    - name: Jianbo Wang
-      photo: WJB.png
-      info1: Research topic - Unsaturated soil mechanics
-      info2: WeChat - Leonenor
-      email: Email - wangjianbo93@hnu.edu.cn
-      number_educ: 2
-      education1: B.S. Hunan University
-      education2: M.S. Hunan University
 
     - name: Xiaolei Yi
       photo: YXL.jpeg
@@ -94,19 +94,19 @@
 
 - year: 2024
   members:
-    - name: Zhenhai Liu
-      photo: LZH (2).jpg
-      info1: Research topic - Deep soil mechanics
-      info2: WeChat - lzh980204
-      email: Email - liuzh@hnu.edu.cn
-      number_educ: 1
-      education1: B.S. Hunan University
-
     - name: <a href="https://lingyungou11.github.io/"> Lingyun Gou </a>
       photo: GLY.jpeg
       info1: Research topic - Poromechanics
       info2: WeChat - Lingyun_Gou
       email: Email - lygou@hnu.edu.cn
+      number_educ: 1
+      education1: B.S. Hunan University
+
+    - name: Jiaxing Zhou
+      photo: ZJX.jpeg
+      info1: Research topic - Sustainable and Resilient Underground Structures
+      info2: WeChat - ZJX20000207
+      email: Email - zhou_jx@hnu.edu.cn
       number_educ: 1
       education1: B.S. Hunan University
 
@@ -126,10 +126,11 @@
       number_educ: 1
       education1: B.S. Chongqing Jiaotong University
 
-    - name: Jiaxing Zhou
-      photo: ZJX.jpeg
-      info1: Research topic - Sustainable and Resilient Underground Structures
-      info2: WeChat - ZJX20000207
-      email: Email - zhou_jx@hnu.edu.cn
+    - name: Zhenhai Liu
+      photo: LZH (2).jpg
+      info1: Research topic - Deep soil mechanics
+      info2: WeChat - lzh980204
+      email: Email - liuzh@hnu.edu.cn
       number_educ: 1
       education1: B.S. Hunan University
+
