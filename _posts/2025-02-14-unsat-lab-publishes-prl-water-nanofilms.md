@@ -29,5 +29,3 @@ The **College of Civil Engineering at Hunan University** was the primary institu
 **Hunan University News:** [土木院张超教授课题组在孔隙水冻结研究取得新进展](https://news.hnu.edu.cn/info/1003/24930.htm)
 
 **Media coverage:** [The Paper (澎湃新闻) — 聚焦！近期科研成果速览！](https://m.thepaper.cn/newsDetail_forward_30231835)
-
-**Research record:** [ETH Zurich Research Collection](https://www.research-collection.ethz.ch/handle/20.500.11850/723753)
