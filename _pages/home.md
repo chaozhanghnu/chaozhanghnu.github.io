@@ -14,7 +14,7 @@ permalink: /
 <font size=4>Our current research at Hunan University encompasses the following interconnected areas:</font>
 <ul>
     <li><font size=4>Phase Equilibirum and Transition in Porous Media</font></li>
-    <li><font size=4>Stress State and Constitutive Relation for Unsaturated Soil</font></li>
+    <li><font size=4>AI for Testing and Modelling of Unsaturated Soils</font></li>
     <li><font size=4>Soil - Shield Machine Interaction and Its Intelligent Control</font></li>
     <li><font size=4>Advanced Testing and Resilience for Underground Structures</font></li>
 </ul>
