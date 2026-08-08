@@ -134,3 +134,10 @@
       number_educ: 1
       education1: B.S. Hunan University
 
+- year: "2022 & 2023"
+  compact: true
+  members:
+    - name: Minxiang Zhu
+    - name: Zhiwen Xu
+    - name: Zemin Qiu
+    - name: Pengpeng Ren
