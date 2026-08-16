@@ -10,6 +10,7 @@ permalink: /PI/
 <h4> Chao Zhang 张超 </h4>
 <p> Professor of Civil Engineering </p>
 <p> Vice Dean for Research </p>
+<p> Email: <a href="mailto:chao_zhang@hnu.edu.cn">chao_zhang@hnu.edu.cn</a> </p>
 <hr />
 
 <h4> Public Records </h4>
