@@ -12,7 +12,7 @@ From **20 to 25 July 2025**, members of the **UNSAT Lab at Hunan University**, i
 
 The conference brought together researchers from academic and industrial communities to discuss microscopic processes governing ice formation, including **ice nucleation, recrystallization, solute and colloid effects, and ice growth in confinement**.
 
-The official programme included the contribution **“Pore Ice Nucleation and Propagation via Water Nanofilms”** by **Chao Zhang, Shaojie Hu, and Dani Or**, as well as a poster by **Shaojie Hu** entitled **“Salts Decelerate Ice Crystal Growth in Supercooled Droplets during Recalescence.”**
+The UNSAT participants contributed one talk and one poster, i.e., a talk entitled **“Pore Ice Nucleation and Propagation via Water Nanofilms”** by **Chao Zhang, Shaojie Hu, and Dani Or**, and a poster entitled **“Salts Decelerate Ice Crystal Growth in Supercooled Droplets during Recalescence”** by **Shaojie Hu**.
 
 <p align="center">
   <img src="/images/news/2025-07-20-ice2025/ice2025-group-photo.jpg" alt="Group photo at ICE 2025 in Ascona, Switzerland" style="width: 90%; max-width: 900px;">
