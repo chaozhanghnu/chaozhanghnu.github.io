@@ -34,7 +34,6 @@ Currently, Dr. Zhang holds the position of Vice Dean for Research at the College
 
 <h4> Selected Recognitions </h4>
 <p>Guangzhao Young Scientist Award, 2026.</p>
-<p>Recipient of the China Patent Excellence Award, 2026.</p>
 <p>Outstanding Associate Editor, Vadose Zone Journal, 2023.</p>
 <p>Norman Medal, ASCE, 2021.</p>
 <p>Hunan Province First Prize in Science and Technology Progress Award, 2021.</p>
