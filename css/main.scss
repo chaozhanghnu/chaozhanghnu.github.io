@@ -83,6 +83,48 @@ firstp {
 
 /* Carusel */
 
+/* Resources: styles are scoped to the dataset entry. */
+.resource-entry {
+  margin-top: 0;
+}
+
+.resource-entry .resource-label {
+  color: inherit;
+  font-size: $font-size-base * 1.5;
+  font-weight: 400;
+  line-height: $line-height-base;
+  margin: 0 0 20px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid $gray-lighter;
+}
+
+.resource-entry .resource-title {
+  color: inherit;
+  font-size: $font-size-base * 1.125;
+  font-weight: 700;
+  line-height: $line-height-base;
+  margin: 0 0 6px;
+}
+
+.resource-entry .resource-citation {
+  margin: 0 0 16px;
+}
+
+.resource-entry .resource-description {
+  margin: 0 0 14px;
+}
+
+.resource-entry .resource-symbol {
+  font-style: italic;
+}
+
+.resource-entry .resource-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  margin: 0;
+}
+
 .carousel {
     border-radius: 3px 3px 3px 3px;
     margin-bottom: 20px;
@@ -90,4 +132,3 @@ firstp {
     margin-left: 30px;
     margin-right: 30px;
 }
-
